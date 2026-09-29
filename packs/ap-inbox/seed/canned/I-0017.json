@@ -1,0 +1,28 @@
+{
+  "kind": "invoice",
+  "payee": "Heartland Board Up and Secure",
+  "invoiceNumber": "26432",
+  "invoiceDate": "2026-08-26",
+  "totalAmount": "320.00",
+  "serviceAddressLines": [
+    "662 Fernwood Pl, Kokomo IN"
+  ],
+  "parcelRefs": [],
+  "utilityAccountNumber": null,
+  "lineItems": [
+    {
+      "description": "Board up rear windows and door",
+      "address": "662 Fernwood Pl, Kokomo IN",
+      "amount": "320.00",
+      "chargeType": null
+    }
+  ],
+  "confidence": {
+    "payee": 0.93,
+    "invoiceNumber": 0.93,
+    "invoiceDate": 0.96,
+    "totalAmount": 0.95,
+    "address": 0.99
+  },
+  "notesHint": "Board up"
+}

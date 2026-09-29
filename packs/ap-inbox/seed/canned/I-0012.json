@@ -1,0 +1,80 @@
+{
+  "kind": "statement",
+  "payee": "Harborview Property Services",
+  "invoiceNumber": "7774",
+  "invoiceDate": "2026-08-28",
+  "totalAmount": "6,988.40",
+  "serviceAddressLines": [],
+  "parcelRefs": [],
+  "utilityAccountNumber": null,
+  "lineItems": [
+    {
+      "description": "Electric service, Jul 15 to Aug 14",
+      "address": "118 Heron St, Hammond IN",
+      "amount": "612.40",
+      "chargeType": "electric"
+    },
+    {
+      "description": "Gas service, Jul 15 to Aug 14",
+      "address": "120 Heron St, Hammond IN",
+      "amount": "483.10",
+      "chargeType": "gas"
+    },
+    {
+      "description": "Lock change and board up",
+      "address": "27 Kestrel Ave, Hammond IN",
+      "amount": "925.00",
+      "chargeType": "locks and securing"
+    },
+    {
+      "description": "Electric service, Jul 15 to Aug 14",
+      "address": "29 Kestrel Ave, Hammond IN",
+      "amount": "738.65",
+      "chargeType": "electric"
+    },
+    {
+      "description": "Gas service, Jul 15 to Aug 14",
+      "address": "305 Larchmont Dr, Hammond IN",
+      "amount": "557.20",
+      "chargeType": "gas"
+    },
+    {
+      "description": "Lock change and board up",
+      "address": "811 Nettle Rd, Hammond IN",
+      "amount": "880.00",
+      "chargeType": "locks and securing"
+    },
+    {
+      "description": "Electric service, Jul 15 to Aug 14",
+      "address": "813 Nettle Rd, Hammond IN",
+      "amount": "669.05",
+      "chargeType": "electric"
+    },
+    {
+      "description": "Gas service, Jul 15 to Aug 14",
+      "address": "64 Osprey Ct, Hammond IN",
+      "amount": "514.80",
+      "chargeType": "gas"
+    },
+    {
+      "description": "Lock change and board up",
+      "address": "66 Osprey Ct, Hammond IN",
+      "amount": "975.00",
+      "chargeType": "locks and securing"
+    },
+    {
+      "description": "Electric service, Jul 15 to Aug 14",
+      "address": "902 Sandhill Ln, Hammond IN",
+      "amount": "633.20",
+      "chargeType": "electric"
+    }
+  ],
+  "confidence": {
+    "payee": 0.96,
+    "invoiceNumber": 0.94,
+    "invoiceDate": 0.95,
+    "totalAmount": 0.98,
+    "address": 0.95
+  },
+  "notesHint": "Property services, ten properties"
+}

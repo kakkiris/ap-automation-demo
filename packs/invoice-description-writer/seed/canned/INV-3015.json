@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Harborline Cleaning",
+  "property_hint": "CK",
+  "unit_hint": "CK-36",
+  "service_short": "common area cleaning",
+  "service_from": "2026-08-22",
+  "service_to": "2026-08-26",
+  "invoice_number": "HC-49980",
+  "invoice_date": "2026-08-26",
+  "amount": 2648.24,
+  "due_date": "2026-09-25",
+  "account_number": null,
+  "meter_number": null
+}

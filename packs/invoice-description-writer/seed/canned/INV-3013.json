@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Osprey Ridge Surveying",
+  "property_hint": "SG",
+  "unit_hint": null,
+  "service_short": "boundary survey update",
+  "service_from": "2026-08-25",
+  "service_to": "2026-08-25",
+  "invoice_number": "OR-18140",
+  "invoice_date": "2026-08-28",
+  "amount": 4308.26,
+  "due_date": "2026-09-27",
+  "account_number": null,
+  "meter_number": null
+}

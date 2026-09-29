@@ -1,0 +1,18 @@
+{
+  "pack": "vendor-creator-to-avid",
+  "scope": [
+    "packs/vendor-creator-to-avid",
+    "app/api/industrial-ap/vendor-creator-to-avid",
+    "app/industrial-ap/vendor-creator-to-avid",
+    "public/demo/vendor-creator-to-avid"
+  ],
+  "rules": [
+    { "name": "yardi vendor id", "match": "\\bV-Y-\\d+\\b", "require": "^V-Y-\\d{4}$" },
+    { "name": "avid vendor id", "match": "\\bV-A-\\d+\\b", "require": "^V-A-\\d{4}$" },
+    { "name": "invoice id", "match": "\\bINV-\\d+\\b", "require": "^INV-[5]\\d{3}$" },
+    { "name": "tax id last four", "match": "\"tax_id_last4\"\\s*:\\s*\"\\d+\"", "require": "\"\\d{4}\"$" },
+    { "name": "run id", "match": "\\bR-\\d+\\b", "require": "^R-\\d{3}$" },
+    { "name": "task id", "match": "\\bT-\\d+\\b", "require": "^T-\\d{3}$" }
+  ],
+  "allow": []
+}

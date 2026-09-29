@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Cypress Point Supply",
+  "property_hint": "PR",
+  "unit_hint": "PR-33",
+  "service_short": "air filters and belts",
+  "service_from": "2026-08-23",
+  "service_to": "2026-08-29",
+  "invoice_number": "CP-20322",
+  "invoice_date": "2026-08-30",
+  "amount": 2585.22,
+  "due_date": "2026-09-29",
+  "account_number": null,
+  "meter_number": null
+}

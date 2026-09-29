@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Palmetto Pest Control",
+  "property_hint": "LK",
+  "unit_hint": "LK-04",
+  "service_short": "quarterly pest treatment",
+  "service_from": null,
+  "service_to": null,
+  "invoice_number": "PP-2210",
+  "invoice_date": "2026-08-27",
+  "amount": 185,
+  "due_date": "2026-09-26",
+  "account_number": null,
+  "meter_number": null
+}

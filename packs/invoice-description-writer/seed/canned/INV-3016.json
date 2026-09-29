@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Sunline Power",
+  "property_hint": "HL",
+  "unit_hint": null,
+  "service_short": "electric service",
+  "service_from": "2026-08-01",
+  "service_to": "2026-08-22",
+  "invoice_number": "SP-86700",
+  "invoice_date": "2026-08-26",
+  "amount": 127.2,
+  "due_date": "2026-09-25",
+  "account_number": "9979199408",
+  "meter_number": "M955266602"
+}

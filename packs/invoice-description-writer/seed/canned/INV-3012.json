@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Saltmarsh Pest Control",
+  "property_hint": "HL",
+  "unit_hint": "HL-22",
+  "service_short": "quarterly pest treatment",
+  "service_from": null,
+  "service_to": null,
+  "invoice_number": "SM-23323",
+  "invoice_date": "2026-08-25",
+  "amount": 4063.99,
+  "due_date": "2026-09-24",
+  "account_number": null,
+  "meter_number": null
+}

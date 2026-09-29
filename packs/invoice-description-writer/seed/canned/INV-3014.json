@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Sandbar Fire Protection",
+  "property_hint": "PR",
+  "unit_hint": "PR-20",
+  "service_short": "annual sprinkler inspection",
+  "service_from": "2026-08-22",
+  "service_to": "2026-08-24",
+  "invoice_number": "SF-45627",
+  "invoice_date": "2026-08-28",
+  "amount": 1482.23,
+  "due_date": "2026-09-27",
+  "account_number": null,
+  "meter_number": null
+}

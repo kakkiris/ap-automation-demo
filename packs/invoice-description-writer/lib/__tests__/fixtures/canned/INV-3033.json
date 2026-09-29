@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Harbor Elevator Service",
+  "property_hint": "LK",
+  "unit_hint": null,
+  "service_short": "elevator service contract",
+  "service_from": "2026-08-01",
+  "service_to": "2026-08-31",
+  "invoice_number": "HE-3390",
+  "invoice_date": "2026-08-30",
+  "amount": 640,
+  "due_date": "2026-09-29",
+  "account_number": "9955512340",
+  "meter_number": null
+}

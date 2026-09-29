@@ -1,0 +1,28 @@
+{
+  "kind": "invoice",
+  "payee": "Copperfield Pest Control",
+  "invoiceNumber": "9947",
+  "invoiceDate": "2026-08-26",
+  "totalAmount": null,
+  "serviceAddressLines": [
+    "14 Elm St, Springfield IL"
+  ],
+  "parcelRefs": [],
+  "utilityAccountNumber": null,
+  "lineItems": [
+    {
+      "description": "Quarterly pest treatment",
+      "address": "14 Elm St, Springfield IL",
+      "amount": null,
+      "chargeType": null
+    }
+  ],
+  "confidence": {
+    "payee": 0.93,
+    "invoiceNumber": 0.98,
+    "invoiceDate": 0.93,
+    "totalAmount": 0.1,
+    "address": 0.97
+  },
+  "notesHint": "Pest treatment"
+}

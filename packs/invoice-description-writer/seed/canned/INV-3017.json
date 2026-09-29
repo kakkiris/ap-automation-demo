@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Cypress Point Supply",
+  "property_hint": "SG",
+  "unit_hint": "SG-44",
+  "service_short": "restroom paper supplies",
+  "service_from": "2026-08-23",
+  "service_to": "2026-08-27",
+  "invoice_number": "CP-20357",
+  "invoice_date": "2026-08-28",
+  "amount": 1917.98,
+  "due_date": "2026-09-27",
+  "account_number": null,
+  "meter_number": null
+}

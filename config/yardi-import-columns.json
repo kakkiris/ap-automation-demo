@@ -1,0 +1,13 @@
+{
+  "pendingClientTemplate": true,
+  "columns": [
+    { "key": "property", "label": "Property" },
+    { "key": "vendor", "label": "Vendor" },
+    { "key": "account_number", "label": "Account number" },
+    { "key": "service_start", "label": "Service start" },
+    { "key": "service_end", "label": "Service end" },
+    { "key": "amount", "label": "Amount" },
+    { "key": "meter", "label": "Meter" },
+    { "key": "description", "label": "Description" }
+  ]
+}

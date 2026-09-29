@@ -1,0 +1,29 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "ap-automation-demo",
+  // Our own entry, which pins each browser session to its own Durable Object so the demo
+  // state survives between clicks, then calls the generated Next.js handler.
+  "main": "worker.ts",
+  "compatibility_date": "2025-09-23",
+  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS"
+  },
+  "durable_objects": {
+    "bindings": [{ "name": "DEMO_SESSION", "class_name": "DemoSession" }]
+  },
+  "migrations": [
+    {
+      "tag": "v1",
+      // SQLite-backed classes are the ones available on the Workers free plan.
+      "new_sqlite_classes": ["DemoSession"]
+    }
+  ],
+  "observability": {
+    "enabled": true
+  },
+  "vars": {
+    "NEXT_PUBLIC_DEMO_AUDIENCE": "client"
+  }
+}

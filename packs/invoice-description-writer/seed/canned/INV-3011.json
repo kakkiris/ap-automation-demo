@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Tidewater Plumbing",
+  "property_hint": "CK",
+  "unit_hint": "CK-15",
+  "service_short": "drain line clearing",
+  "service_from": "2026-08-24",
+  "service_to": "2026-08-29",
+  "invoice_number": "TP-16320",
+  "invoice_date": "2026-08-30",
+  "amount": 2331.32,
+  "due_date": "2026-09-29",
+  "account_number": null,
+  "meter_number": null
+}

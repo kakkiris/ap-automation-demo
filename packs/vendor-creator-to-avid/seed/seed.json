@@ -1,0 +1,2034 @@
+{
+  "demo_date": "2026-09-01",
+  "next_yardi_number": 125,
+  "next_avid_number": 113,
+  "yardi_vendors": [
+    {
+      "yardi_vendor_id": "V-Y-0001",
+      "name": "Sandpiper Key Electrical Inc",
+      "address_line": "40 Pelican St",
+      "status": "active",
+      "created_at": "2024-12-05",
+      "tax_id_last4": "1670"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0002",
+      "name": "Seagrape Landing Cleaning",
+      "address_line": "55 Coral Ridge Blvd",
+      "status": "active",
+      "created_at": "2023-06-22",
+      "tax_id_last4": "0661"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0003",
+      "name": "Sable Shore Fencing LLC",
+      "address_line": "9706 Saltgrass Row",
+      "status": "active",
+      "created_at": "2024-10-03",
+      "tax_id_last4": "5188"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0004",
+      "name": "Tarpon Point Plumbing",
+      "address_line": "148 Pelican Blvd",
+      "status": "active",
+      "created_at": "2023-09-29",
+      "tax_id_last4": "3317"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0005",
+      "name": "Bayberry Run Plumbing",
+      "address_line": "5 Palmetto Ave",
+      "status": "active",
+      "created_at": "2026-07-26",
+      "tax_id_last4": "6323"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0006",
+      "name": "Saltgrass Sound Fencing LLC",
+      "address_line": "79 Saltgrass Row",
+      "status": "active",
+      "created_at": "2024-09-22",
+      "tax_id_last4": "4818"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0008",
+      "name": "Pelican Landing Roofing LLC",
+      "address_line": "637 Palmetto Dr",
+      "status": "active",
+      "created_at": "2025-11-01",
+      "tax_id_last4": "0652"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0009",
+      "name": "Snook Point Plumbing LLC",
+      "address_line": "998 Sable Palm Ct",
+      "status": "active",
+      "created_at": "2025-04-17",
+      "tax_id_last4": "3804"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0010",
+      "name": "Ibis Grove Roofing Co",
+      "address_line": "6054 Turtle Run Dr",
+      "status": "active",
+      "created_at": "2026-05-27",
+      "tax_id_last4": "3701"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0011",
+      "name": "Saltgrass Shore Fencing Co",
+      "address_line": "86 Kestrel St",
+      "status": "active",
+      "created_at": "2026-04-01",
+      "tax_id_last4": "3663"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0012",
+      "name": "Lantern Cove Landscaping Inc",
+      "address_line": "4937 Egret Way",
+      "status": "active",
+      "created_at": "2026-05-05",
+      "tax_id_last4": "8996"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0013",
+      "name": "Osprey Isle Landscaping Co",
+      "address_line": "11 Lantern Key Way",
+      "status": "active",
+      "created_at": "2025-10-05",
+      "tax_id_last4": "3052"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0014",
+      "name": "Sunfish Ridge Supply",
+      "address_line": "11 Coquina Dr",
+      "status": "active",
+      "created_at": "2024-06-09",
+      "tax_id_last4": "7661"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0015",
+      "name": "Heron Bluff Fencing LLC",
+      "address_line": "92 Heron St",
+      "status": "active",
+      "created_at": "2026-07-14",
+      "tax_id_last4": "1591"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0016",
+      "name": "Mangrove Landing Roofing",
+      "address_line": "30 Osprey Way",
+      "status": "active",
+      "created_at": "2023-10-13",
+      "tax_id_last4": "1769"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0017",
+      "name": "Tarpon Ridge Landscaping LLC",
+      "address_line": "574 Cypress Pl",
+      "status": "active",
+      "created_at": "2025-09-11",
+      "tax_id_last4": "8506"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0018",
+      "name": "Palmetto Cove Fencing Co",
+      "address_line": "13 Ibis Dr",
+      "status": "active",
+      "created_at": "2024-11-11",
+      "tax_id_last4": "4986"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0019",
+      "name": "Palmetto Ridge Roofing LLC",
+      "address_line": "15 Tarpon Dr",
+      "status": "active",
+      "created_at": "2026-06-14",
+      "tax_id_last4": "0038"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0020",
+      "name": "Marlin Hammock Landscaping",
+      "address_line": "266 Coquina Pl",
+      "status": "active",
+      "created_at": "2026-02-13",
+      "tax_id_last4": "3698"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0021",
+      "name": "Kestrel Pass Roofing",
+      "address_line": "2550 Spoonbill Blvd",
+      "status": "active",
+      "created_at": "2025-07-16",
+      "tax_id_last4": "3700"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0022",
+      "name": "Coquina Reach Pest Control LLC",
+      "address_line": "82 Sandpiper Blvd",
+      "status": "active",
+      "created_at": "2023-06-20",
+      "tax_id_last4": "1856"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0023",
+      "name": "Spoonbill Reach Landscaping Co",
+      "address_line": "418 Pelican Row",
+      "status": "active",
+      "created_at": "2026-07-18",
+      "tax_id_last4": "0583"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0024",
+      "name": "Snook Bay Electrical Inc",
+      "address_line": "20 Sawgrass Blvd",
+      "status": "active",
+      "created_at": "2023-05-01",
+      "tax_id_last4": "2485"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0025",
+      "name": "Cypress Bay Cleaning",
+      "address_line": "6 Sawgrass St",
+      "status": "active",
+      "created_at": "2024-10-12",
+      "tax_id_last4": "2967"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0026",
+      "name": "Manatee Grove Plumbing Co",
+      "address_line": "810 Turtle Run Dr",
+      "status": "active",
+      "created_at": "2026-07-03",
+      "tax_id_last4": "0043"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0027",
+      "name": "Kestrel Ridge Fencing LLC",
+      "address_line": "818 Driftwood St",
+      "status": "active",
+      "created_at": "2024-06-16",
+      "tax_id_last4": "8202"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0028",
+      "name": "Tarpon Isle Roofing",
+      "address_line": "1385 Saltgrass St",
+      "status": "active",
+      "created_at": "2025-07-05",
+      "tax_id_last4": "0198"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0029",
+      "name": "Mangrove Sound Fencing Inc",
+      "address_line": "8633 Pelican Ave",
+      "status": "active",
+      "created_at": "2025-11-05",
+      "tax_id_last4": "2247"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0030",
+      "name": "Palmetto Reach Supply",
+      "address_line": "832 Sawgrass St",
+      "status": "active",
+      "created_at": "2023-11-27",
+      "tax_id_last4": "3369"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0031",
+      "name": "Snook Ridge Plumbing LLC",
+      "address_line": "32 Seagrass Ln",
+      "status": "active",
+      "created_at": "2025-12-31",
+      "tax_id_last4": "1932"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0032",
+      "name": "Manatee Landing Cleaning",
+      "address_line": "432 Cormorant Ct",
+      "status": "active",
+      "created_at": "2024-08-26",
+      "tax_id_last4": "2005"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0033",
+      "name": "Marlin Creek Electrical",
+      "address_line": "639 Pelican Way",
+      "status": "active",
+      "created_at": "2025-06-11",
+      "tax_id_last4": "8230"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0034",
+      "name": "Lantern Reach Legal Group",
+      "address_line": "9023 Cormorant St",
+      "status": "active",
+      "created_at": "2025-04-25",
+      "tax_id_last4": "4281"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0035",
+      "name": "Sawgrass Grove Fencing",
+      "address_line": "610 Pelican Pl",
+      "status": "active",
+      "created_at": "2024-11-02",
+      "tax_id_last4": "4794"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0036",
+      "name": "Manatee Inlet Supply LLC",
+      "address_line": "63 Saltgrass Blvd",
+      "status": "active",
+      "created_at": "2024-10-02",
+      "tax_id_last4": "3149"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0037",
+      "name": "Saltgrass Bay Roofing",
+      "address_line": "394 Sea Oats Way",
+      "status": "active",
+      "created_at": "2025-12-30",
+      "tax_id_last4": "1671"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0039",
+      "name": "Cypress Harbor Roofing",
+      "address_line": "396 Sable Palm Way",
+      "status": "active",
+      "created_at": "2023-08-22",
+      "tax_id_last4": "6766"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0040",
+      "name": "Sawgrass Point Roofing",
+      "address_line": "21 Tarpon Pl",
+      "status": "active",
+      "created_at": "2024-01-07",
+      "tax_id_last4": "3148"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0041",
+      "name": "Osprey Sound Plumbing",
+      "address_line": "12 Turtle Run Ct",
+      "status": "active",
+      "created_at": "2025-10-30",
+      "tax_id_last4": "2208"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0042",
+      "name": "Saltgrass Creek Landscaping LLC",
+      "address_line": "900 Heron Ct",
+      "status": "active",
+      "created_at": "2025-03-19",
+      "tax_id_last4": "2126"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0043",
+      "name": "Tarpon Key Roofing LLC",
+      "address_line": "758 Loggerhead Blvd",
+      "status": "active",
+      "created_at": "2023-11-11",
+      "tax_id_last4": "7047"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0044",
+      "name": "Brightline Landscaping",
+      "address_line": "200 Palmetto Row",
+      "status": "active",
+      "created_at": "2025-03-02",
+      "tax_id_last4": "1930"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0045",
+      "name": "Saltgrass Bluff Pressure Washing LLC",
+      "address_line": "175 Sandbar Ave",
+      "status": "active",
+      "created_at": "2024-11-20",
+      "tax_id_last4": "0007"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0046",
+      "name": "Seagrass Key Fencing LLC",
+      "address_line": "717 Sandbar Blvd",
+      "status": "active",
+      "created_at": "2023-10-16",
+      "tax_id_last4": "3918"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0047",
+      "name": "Palmetto Grove Cleaning",
+      "address_line": "535 Seagrass Dr",
+      "status": "active",
+      "created_at": "2023-05-30",
+      "tax_id_last4": "0312"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0048",
+      "name": "Loggerhead Hammock Landscaping LLC",
+      "address_line": "892 Heron Row",
+      "status": "active",
+      "created_at": "2025-10-30",
+      "tax_id_last4": "4306"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0049",
+      "name": "Egret Inlet Supply",
+      "address_line": "12 Bayberry Ct",
+      "status": "active",
+      "created_at": "2024-11-17",
+      "tax_id_last4": "0486"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0050",
+      "name": "Saltgrass Harbor Cleaning LLC",
+      "address_line": "1940 Seagrape Way",
+      "status": "active",
+      "created_at": "2025-07-30",
+      "tax_id_last4": "3556"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0051",
+      "name": "Bayberry Cove Pest Control Co",
+      "address_line": "2766 Lantern Key Pl",
+      "status": "active",
+      "created_at": "2024-03-18",
+      "tax_id_last4": "1483"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0052",
+      "name": "Seagrass Grove Supply Inc",
+      "address_line": "686 Kestrel Way",
+      "status": "active",
+      "created_at": "2025-01-16",
+      "tax_id_last4": "6563"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0053",
+      "name": "Spoonbill Bluff Landscaping",
+      "address_line": "956 Mangrove Dr",
+      "status": "active",
+      "created_at": "2024-06-18",
+      "tax_id_last4": "1651"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0054",
+      "name": "Sandbar Landing Plumbing LLC",
+      "address_line": "344 Seagrass Ave",
+      "status": "active",
+      "created_at": "2025-10-30",
+      "tax_id_last4": "9859"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0055",
+      "name": "Driftwood Harbor Plumbing LLC",
+      "address_line": "35 Coquina Pl",
+      "status": "active",
+      "created_at": "2023-04-16",
+      "tax_id_last4": "6654"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0056",
+      "name": "Marlin Harbor Fencing LLC",
+      "address_line": "47 Coquina St",
+      "status": "active",
+      "created_at": "2025-06-23",
+      "tax_id_last4": "3295"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0057",
+      "name": "Loggerhead Creek Plumbing LLC",
+      "address_line": "603 Coral Ridge Ct",
+      "status": "active",
+      "created_at": "2023-08-24",
+      "tax_id_last4": "5255"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0058",
+      "name": "Spoonbill Landing Plumbing",
+      "address_line": "353 Coral Ridge Way",
+      "status": "active",
+      "created_at": "2024-01-04",
+      "tax_id_last4": "0572"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0059",
+      "name": "Coquina Hammock Roofing",
+      "address_line": "302 Sable Palm Blvd",
+      "status": "active",
+      "created_at": "2024-04-11",
+      "tax_id_last4": "0799"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0060",
+      "name": "Pelican Hammock Cleaning LLC",
+      "address_line": "730 Sunfish Way",
+      "status": "active",
+      "created_at": "2026-08-20",
+      "tax_id_last4": "9807"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0062",
+      "name": "Saltgrass Pass Roofing",
+      "address_line": "6793 Sawgrass Row",
+      "status": "active",
+      "created_at": "2026-03-05",
+      "tax_id_last4": "3060"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0063",
+      "name": "Lantern Isle Fencing LLC",
+      "address_line": "4 Pelican Row",
+      "status": "active",
+      "created_at": "2024-01-09",
+      "tax_id_last4": "3653"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0064",
+      "name": "Egret Bay Cleaning",
+      "address_line": "30 Ibis Row",
+      "status": "active",
+      "created_at": "2023-12-20",
+      "tax_id_last4": "3263"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0065",
+      "name": "Bayberry Creek Pest Control",
+      "address_line": "572 Cormorant Way",
+      "status": "active",
+      "created_at": "2023-04-24",
+      "tax_id_last4": "2662"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0066",
+      "name": "Marlin Isle Plumbing",
+      "address_line": "5248 Cormorant Dr",
+      "status": "active",
+      "created_at": "2023-04-04",
+      "tax_id_last4": "8312"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0067",
+      "name": "Tarpon Shore Supply",
+      "address_line": "2808 Palmetto Dr",
+      "status": "active",
+      "created_at": "2025-10-19",
+      "tax_id_last4": "8024"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0068",
+      "name": "Egret Hammock Fencing LLC",
+      "address_line": "83 Cormorant Way",
+      "status": "active",
+      "created_at": "2023-12-16",
+      "tax_id_last4": "1052"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0069",
+      "name": "Sable Pass Roofing Inc",
+      "address_line": "962 Turtle Run St",
+      "status": "active",
+      "created_at": "2026-03-31",
+      "tax_id_last4": "7217"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0070",
+      "name": "Sawgrass Shore Roofing",
+      "address_line": "147 Sunfish Pl",
+      "status": "active",
+      "created_at": "2025-12-27",
+      "tax_id_last4": "9127"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0071",
+      "name": "Ibis Ridge Legal Group Co",
+      "address_line": "977 Pelican Dr",
+      "status": "active",
+      "created_at": "2026-03-12",
+      "tax_id_last4": "1812"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0072",
+      "name": "Pelican Shore Legal Group",
+      "address_line": "64 Seagrass St",
+      "status": "active",
+      "created_at": "2025-04-14",
+      "tax_id_last4": "4873"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0073",
+      "name": "Tarpon Hammock Supply Inc",
+      "address_line": "947 Tarpon Ave",
+      "status": "inactive",
+      "created_at": "2023-02-23",
+      "tax_id_last4": "5198"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0074",
+      "name": "Driftwood Isle Supply",
+      "address_line": "548 Sunfish Ave",
+      "status": "active",
+      "created_at": "2023-07-17",
+      "tax_id_last4": "6081"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0075",
+      "name": "Turtle Hammock Roofing",
+      "address_line": "498 Spoonbill St",
+      "status": "active",
+      "created_at": "2024-10-04",
+      "tax_id_last4": "0430"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0076",
+      "name": "Driftwood Reach Roofing Co",
+      "address_line": "3987 Osprey Dr",
+      "status": "active",
+      "created_at": "2026-01-17",
+      "tax_id_last4": "1281"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0077",
+      "name": "Mangrove Key Roofing Inc",
+      "address_line": "60 Heron Row",
+      "status": "active",
+      "created_at": "2025-08-28",
+      "tax_id_last4": "3476"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0078",
+      "name": "Osprey Harbor Legal Group",
+      "address_line": "51 Sawgrass Blvd",
+      "status": "active",
+      "created_at": "2023-09-23",
+      "tax_id_last4": "0635"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0079",
+      "name": "Cypress Hammock Plumbing",
+      "address_line": "995 Tarpon Ln",
+      "status": "active",
+      "created_at": "2025-11-09",
+      "tax_id_last4": "8218"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0080",
+      "name": "Pelican Grove Legal Group",
+      "address_line": "10 Coquina Dr",
+      "status": "active",
+      "created_at": "2024-11-25",
+      "tax_id_last4": "9035"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0081",
+      "name": "Cormorant Inlet Supply Co",
+      "address_line": "388 Seagrape Row",
+      "status": "active",
+      "created_at": "2023-11-21",
+      "tax_id_last4": "1231"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0082",
+      "name": "Seagrass Landing Legal Group Inc",
+      "address_line": "92 Pelican Ave",
+      "status": "active",
+      "created_at": "2024-01-27",
+      "tax_id_last4": "3974"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0083",
+      "name": "Manatee Cove Fencing LLC",
+      "address_line": "427 Coral Ridge Way",
+      "status": "active",
+      "created_at": "2025-09-02",
+      "tax_id_last4": "1468"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0084",
+      "name": "Driftwood Sound Roofing Inc",
+      "address_line": "721 Osprey Ave",
+      "status": "active",
+      "created_at": "2025-03-26",
+      "tax_id_last4": "7144"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0085",
+      "name": "Sawgrass Hammock Legal Group",
+      "address_line": "145 Marlin Bay Way",
+      "status": "active",
+      "created_at": "2026-07-11",
+      "tax_id_last4": "8011"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0086",
+      "name": "Egret Key Pest Control LLC",
+      "address_line": "9410 Coquina Way",
+      "status": "active",
+      "created_at": "2024-01-16",
+      "tax_id_last4": "3545"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0087",
+      "name": "Driftwood Key Legal Group Inc",
+      "address_line": "125 Spoonbill Way",
+      "status": "active",
+      "created_at": "2024-01-24",
+      "tax_id_last4": "3285"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0088",
+      "name": "Osprey Cove Supply Inc",
+      "address_line": "9 Sea Oats Ln",
+      "status": "active",
+      "created_at": "2024-04-02",
+      "tax_id_last4": "4577"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0089",
+      "name": "Anhinga Ridge Cleaning Co",
+      "address_line": "15 Mangrove Ave",
+      "status": "active",
+      "created_at": "2025-05-05",
+      "tax_id_last4": "2339"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0091",
+      "name": "Cormorant Key Fencing LLC",
+      "address_line": "281 Mangrove Row",
+      "status": "active",
+      "created_at": "2024-03-13",
+      "tax_id_last4": "1021"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0092",
+      "name": "Loggerhead Bay Legal Group Inc",
+      "address_line": "25 Egret Ct",
+      "status": "active",
+      "created_at": "2024-07-16",
+      "tax_id_last4": "8785"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0093",
+      "name": "Sandpiper Harbor Cleaning",
+      "address_line": "3772 Snook Pl",
+      "status": "active",
+      "created_at": "2023-03-01",
+      "tax_id_last4": "0344"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0094",
+      "name": "Lantern Harbor Fencing LLC",
+      "address_line": "1 Kestrel Ct",
+      "status": "active",
+      "created_at": "2024-04-11",
+      "tax_id_last4": "1783"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0095",
+      "name": "Marlin Reach Electrical LLC",
+      "address_line": "299 Sandpiper Row",
+      "status": "active",
+      "created_at": "2024-05-24",
+      "tax_id_last4": "5184"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0096",
+      "name": "Sunfish Pass Plumbing",
+      "address_line": "837 Pelican Dr",
+      "status": "active",
+      "created_at": "2024-02-16",
+      "tax_id_last4": "8879"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0097",
+      "name": "Coquina Bay Electrical Inc",
+      "address_line": "6143 Sable Palm Ave",
+      "status": "active",
+      "created_at": "2024-12-02",
+      "tax_id_last4": "2578"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0098",
+      "name": "Heron Pass Landscaping LLC",
+      "address_line": "3768 Ibis Ct",
+      "status": "active",
+      "created_at": "2023-01-19",
+      "tax_id_last4": "7509"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0099",
+      "name": "Loggerhead Shore Landscaping Co",
+      "address_line": "479 Sawgrass St",
+      "status": "active",
+      "created_at": "2026-03-20",
+      "tax_id_last4": "5374"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0100",
+      "name": "Cormorant Bay Landscaping LLC",
+      "address_line": "328 Sawgrass Row",
+      "status": "active",
+      "created_at": "2023-12-20",
+      "tax_id_last4": "2215"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0101",
+      "name": "Snook Harbor Pressure Washing",
+      "address_line": "2184 Kestrel Way",
+      "status": "active",
+      "created_at": "2026-06-18",
+      "tax_id_last4": "1033"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0103",
+      "name": "Driftwood Shore Landscaping Inc",
+      "address_line": "836 Saltgrass Ave",
+      "status": "active",
+      "created_at": "2025-11-19",
+      "tax_id_last4": "6152"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0104",
+      "name": "Bayberry Inlet Cleaning",
+      "address_line": "682 Driftwood Ln",
+      "status": "active",
+      "created_at": "2025-08-25",
+      "tax_id_last4": "4835"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0105",
+      "name": "Manatee Isle Cleaning",
+      "address_line": "86 Egret Pl",
+      "status": "active",
+      "created_at": "2026-06-30",
+      "tax_id_last4": "4441"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0106",
+      "name": "Seagrass Cove Supply Inc",
+      "address_line": "7 Saltgrass Pl",
+      "status": "active",
+      "created_at": "2025-12-18",
+      "tax_id_last4": "5180"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0107",
+      "name": "Lantern Creek Electrical LLC",
+      "address_line": "591 Sunfish St",
+      "status": "active",
+      "created_at": "2025-04-03",
+      "tax_id_last4": "6580"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0108",
+      "name": "Coquina Creek Landscaping LLC",
+      "address_line": "56 Sea Oats Ln",
+      "status": "active",
+      "created_at": "2023-01-14",
+      "tax_id_last4": "5736"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0109",
+      "name": "Sandpiper Ridge Electrical",
+      "address_line": "31 Ibis Dr",
+      "status": "active",
+      "created_at": "2024-07-14",
+      "tax_id_last4": "3869"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0110",
+      "name": "Heron Isle Cleaning LLC",
+      "address_line": "14 Sea Oats Pl",
+      "status": "active",
+      "created_at": "2026-08-12",
+      "tax_id_last4": "1829"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0112",
+      "name": "Sandbar Bluff Landscaping Inc",
+      "address_line": "5287 Heron Ave",
+      "status": "active",
+      "created_at": "2025-10-28",
+      "tax_id_last4": "8693"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0113",
+      "name": "Saltgrass Inlet Landscaping Inc",
+      "address_line": "807 Sandpiper St",
+      "status": "active",
+      "created_at": "2026-07-30",
+      "tax_id_last4": "8286"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0114",
+      "name": "Anhinga Grove Plumbing LLC",
+      "address_line": "1540 Heron Ct",
+      "status": "active",
+      "created_at": "2023-03-26",
+      "tax_id_last4": "4796"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0115",
+      "name": "Sunfish Reach Supply LLC",
+      "address_line": "69 Tarpon Blvd",
+      "status": "active",
+      "created_at": "2023-06-16",
+      "tax_id_last4": "1103"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0116",
+      "name": "Lantern Shore Plumbing",
+      "address_line": "523 Spoonbill Dr",
+      "status": "active",
+      "created_at": "2024-03-02",
+      "tax_id_last4": "2375"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0117",
+      "name": "PW Maintenance LLC",
+      "address_line": "41 Marlin Bay Dr",
+      "status": "active",
+      "created_at": "2026-08-30",
+      "tax_id_last4": "4471"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0118",
+      "name": "Spoonbill Sound Roofing",
+      "address_line": "320 Sawgrass Dr",
+      "status": "active",
+      "created_at": "2026-08-27",
+      "tax_id_last4": "9267"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0119",
+      "name": "Tidewater Plumbing Co",
+      "address_line": "118 Snook Creek Way",
+      "status": "active",
+      "created_at": "2026-08-28",
+      "tax_id_last4": "3390"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0120",
+      "name": "Cypress Isle Pest Control",
+      "address_line": "159 Loggerhead Ct",
+      "status": "active",
+      "created_at": "2023-09-25",
+      "tax_id_last4": "3361"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0121",
+      "name": "Coral Ridge Pressure Washing",
+      "address_line": "9 Seagrass Ct",
+      "status": "active",
+      "created_at": "2026-09-01",
+      "tax_id_last4": "2210"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0122",
+      "name": "Sandbar Grove Pressure Washing",
+      "address_line": "456 Cormorant Ave",
+      "status": "active",
+      "created_at": "2026-08-30",
+      "tax_id_last4": "9685"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0123",
+      "name": "Tarpon Grove Cleaning LLC",
+      "address_line": "54 Mangrove Ln",
+      "status": "active",
+      "created_at": "2026-09-01",
+      "tax_id_last4": "6611"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0124",
+      "name": "Bayberry Hammock Landscaping",
+      "address_line": "967 Pelican Blvd",
+      "status": "active",
+      "created_at": "2026-08-31",
+      "tax_id_last4": "9686"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0130",
+      "name": "Old Harbor Fencing",
+      "address_line": "3 Cypress Ln",
+      "status": "inactive",
+      "created_at": "2024-02-11",
+      "tax_id_last4": "8804"
+    }
+  ],
+  "avid_vendors": [
+    {
+      "avid_vendor_id": "V-A-0001",
+      "name": "Bayberry Run Plumbing",
+      "address_line": "5 Palmetto Ave",
+      "created_at": "2026-07-28",
+      "source": "seed",
+      "tax_id_last4": null
+    },
+    {
+      "avid_vendor_id": "V-A-0002",
+      "name": "Osprey Isle Landscaping Co",
+      "address_line": "11 Lantern Key Way",
+      "created_at": "2025-10-06",
+      "source": "seed",
+      "tax_id_last4": "3052"
+    },
+    {
+      "avid_vendor_id": "V-A-0003",
+      "name": "Ibis Ridge Legal Group Co",
+      "address_line": "977 Pelican Dr",
+      "created_at": "2026-03-15",
+      "source": "seed",
+      "tax_id_last4": "1812"
+    },
+    {
+      "avid_vendor_id": "V-A-0004",
+      "name": "Sawgrass Shore Roofing",
+      "address_line": "147 Sunfish Pl",
+      "created_at": "2025-12-30",
+      "source": "seed",
+      "tax_id_last4": "9127"
+    },
+    {
+      "avid_vendor_id": "V-A-0005",
+      "name": "Palmetto Cove Fencing Co",
+      "address_line": "13 Ibis Dr",
+      "created_at": "2024-11-13",
+      "source": "seed",
+      "tax_id_last4": "4986"
+    },
+    {
+      "avid_vendor_id": "V-A-0006",
+      "name": "Pelican Shore Legal Group",
+      "address_line": "64 Seagrass St",
+      "created_at": "2025-04-18",
+      "source": "seed",
+      "tax_id_last4": "4873"
+    },
+    {
+      "avid_vendor_id": "V-A-0007",
+      "name": "Spoonbill Bluff Landscaping",
+      "address_line": "956 Mangrove Dr",
+      "created_at": "2024-06-20",
+      "source": "seed",
+      "tax_id_last4": "1651"
+    },
+    {
+      "avid_vendor_id": "V-A-0008",
+      "name": "Sandpiper Harbor Cleaning",
+      "address_line": "3772 Snook Pl",
+      "created_at": "2023-03-07",
+      "source": "seed",
+      "tax_id_last4": "0344"
+    },
+    {
+      "avid_vendor_id": "V-A-0009",
+      "name": "Sandpiper Key Electrical Inc",
+      "address_line": "40 Pelican St",
+      "created_at": "2024-12-07",
+      "source": "seed",
+      "tax_id_last4": "1670"
+    },
+    {
+      "avid_vendor_id": "V-A-0010",
+      "name": "Egret Key Pest Control LLC",
+      "address_line": "9410 Coquina Way",
+      "created_at": "2024-01-19",
+      "source": "seed",
+      "tax_id_last4": "3545"
+    },
+    {
+      "avid_vendor_id": "V-A-0011",
+      "name": "Loggerhead Bay Legal Group Inc",
+      "address_line": "25 Egret Ct",
+      "created_at": "2024-07-16",
+      "source": "seed",
+      "tax_id_last4": "8785"
+    },
+    {
+      "avid_vendor_id": "V-A-0012",
+      "name": "Sandpiper Ridge Electrical",
+      "address_line": "31 Ibis Dr",
+      "created_at": "2024-07-14",
+      "source": "seed",
+      "tax_id_last4": null
+    },
+    {
+      "avid_vendor_id": "V-A-0013",
+      "name": "Palmetto Ridge Roofing LLC",
+      "address_line": "15 Tarpon Dr",
+      "created_at": "2026-06-20",
+      "source": "seed",
+      "tax_id_last4": "0038"
+    },
+    {
+      "avid_vendor_id": "V-A-0014",
+      "name": "Cypress Hammock Plumbing",
+      "address_line": "995 Tarpon Ln",
+      "created_at": "2025-11-12",
+      "source": "seed",
+      "tax_id_last4": "8218"
+    },
+    {
+      "avid_vendor_id": "V-A-0015",
+      "name": "Lantern Harbor Fencing LLC",
+      "address_line": "1 Kestrel Ct",
+      "created_at": "2024-04-12",
+      "source": "seed",
+      "tax_id_last4": "1783"
+    },
+    {
+      "avid_vendor_id": "V-A-0016",
+      "name": "Pelican Hammock Cleaning LLC",
+      "address_line": "730 Sunfish Way",
+      "created_at": "2026-08-24",
+      "source": "seed",
+      "tax_id_last4": "9807"
+    },
+    {
+      "avid_vendor_id": "V-A-0017",
+      "name": "Marlin Hammock Landscaping",
+      "address_line": "266 Coquina Pl",
+      "created_at": "2026-02-17",
+      "source": "seed",
+      "tax_id_last4": "3698"
+    },
+    {
+      "avid_vendor_id": "V-A-0018",
+      "name": "Ibis Grove Roofing Co",
+      "address_line": "6054 Turtle Run Dr",
+      "created_at": "2026-05-29",
+      "source": "seed",
+      "tax_id_last4": "3701"
+    },
+    {
+      "avid_vendor_id": "V-A-0019",
+      "name": "Seagrass Landing Legal Group Inc",
+      "address_line": "92 Pelican Ave",
+      "created_at": "2024-01-28",
+      "source": "seed",
+      "tax_id_last4": "3974"
+    },
+    {
+      "avid_vendor_id": "V-A-0020",
+      "name": "Marlin Harbor Fencing LLC",
+      "address_line": "47 Coquina St",
+      "created_at": "2025-06-27",
+      "source": "seed",
+      "tax_id_last4": "3295"
+    },
+    {
+      "avid_vendor_id": "V-A-0021",
+      "name": "Cypress Bay Cleaning",
+      "address_line": "6 Sawgrass St",
+      "created_at": "2024-10-14",
+      "source": "seed",
+      "tax_id_last4": "2967"
+    },
+    {
+      "avid_vendor_id": "V-A-0022",
+      "name": "Tarpon Point Plumbing",
+      "address_line": "148 Pelican Blvd",
+      "created_at": "2023-10-04",
+      "source": "seed",
+      "tax_id_last4": "3317"
+    },
+    {
+      "avid_vendor_id": "V-A-0023",
+      "name": "Heron Bluff Fencing LLC",
+      "address_line": "92 Heron St",
+      "created_at": "2026-07-15",
+      "source": "seed",
+      "tax_id_last4": "1591"
+    },
+    {
+      "avid_vendor_id": "V-A-0024",
+      "name": "Tarpon Shore Supply",
+      "address_line": "2808 Palmetto Dr",
+      "created_at": "2025-10-23",
+      "source": "seed",
+      "tax_id_last4": "8024"
+    },
+    {
+      "avid_vendor_id": "V-A-0025",
+      "name": "Driftwood Shore Landscaping Inc",
+      "address_line": "836 Saltgrass Ave",
+      "created_at": "2025-11-20",
+      "source": "seed",
+      "tax_id_last4": "6152"
+    },
+    {
+      "avid_vendor_id": "V-A-0026",
+      "name": "Lantern Reach Legal Group",
+      "address_line": "9023 Cormorant St",
+      "created_at": "2025-04-28",
+      "source": "seed",
+      "tax_id_last4": "4281"
+    },
+    {
+      "avid_vendor_id": "V-A-0027",
+      "name": "Snook Point Plumbing LLC",
+      "address_line": "998 Sable Palm Ct",
+      "created_at": "2025-04-20",
+      "source": "seed",
+      "tax_id_last4": "3804"
+    },
+    {
+      "avid_vendor_id": "V-A-0028",
+      "name": "Tarpon Ridge Landscaping LLC",
+      "address_line": "574 Cypress Pl",
+      "created_at": "2025-09-12",
+      "source": "seed",
+      "tax_id_last4": "8506"
+    },
+    {
+      "avid_vendor_id": "V-A-0029",
+      "name": "Lantern Creek Electrical LLC",
+      "address_line": "591 Sunfish St",
+      "created_at": "2025-04-07",
+      "source": "seed",
+      "tax_id_last4": "6580"
+    },
+    {
+      "avid_vendor_id": "V-A-0030",
+      "name": "Egret Hammock Fencing LLC",
+      "address_line": "83 Cormorant Way",
+      "created_at": "2023-12-17",
+      "source": "seed",
+      "tax_id_last4": "1052"
+    },
+    {
+      "avid_vendor_id": "V-A-0031",
+      "name": "Brightline Landscaping",
+      "address_line": "200 Palmetto Row",
+      "created_at": "2025-03-02",
+      "source": "seed",
+      "tax_id_last4": "1930"
+    },
+    {
+      "avid_vendor_id": "V-A-0032",
+      "name": "Seagrape Landing Cleaning",
+      "address_line": "55 Coral Ridge Blvd",
+      "created_at": "2023-06-28",
+      "source": "seed",
+      "tax_id_last4": "0661"
+    },
+    {
+      "avid_vendor_id": "V-A-0033",
+      "name": "Bayberry Cove Pest Control Co",
+      "address_line": "2766 Lantern Key Pl",
+      "created_at": "2024-03-22",
+      "source": "seed",
+      "tax_id_last4": "1483"
+    },
+    {
+      "avid_vendor_id": "V-A-0034",
+      "name": "Osprey Cove Supply Inc",
+      "address_line": "9 Sea Oats Ln",
+      "created_at": "2024-04-06",
+      "source": "seed",
+      "tax_id_last4": "4577"
+    },
+    {
+      "avid_vendor_id": "V-A-0035",
+      "name": "Sandbar Landing Plumbing LLC",
+      "address_line": "344 Seagrass Ave",
+      "created_at": "2025-11-03",
+      "source": "seed",
+      "tax_id_last4": "9859"
+    },
+    {
+      "avid_vendor_id": "V-A-0036",
+      "name": "Osprey Harbor Legal Group",
+      "address_line": "51 Sawgrass Blvd",
+      "created_at": "2023-09-24",
+      "source": "seed",
+      "tax_id_last4": "0635"
+    },
+    {
+      "avid_vendor_id": "V-A-0037",
+      "name": "Lantern Shore Plumbing",
+      "address_line": "523 Spoonbill Dr",
+      "created_at": "2024-03-07",
+      "source": "seed",
+      "tax_id_last4": "2375"
+    },
+    {
+      "avid_vendor_id": "V-A-0038",
+      "name": "Seagrass Grove Supply Inc",
+      "address_line": "686 Kestrel Way",
+      "created_at": "2025-01-22",
+      "source": "seed",
+      "tax_id_last4": "6563"
+    },
+    {
+      "avid_vendor_id": "V-A-0039",
+      "name": "Manatee Landing Cleaning",
+      "address_line": "432 Cormorant Ct",
+      "created_at": "2024-08-30",
+      "source": "seed",
+      "tax_id_last4": "2005"
+    },
+    {
+      "avid_vendor_id": "V-A-0040",
+      "name": "Manatee Inlet Supply LLC",
+      "address_line": "63 Saltgrass Blvd",
+      "created_at": "2024-10-06",
+      "source": "seed",
+      "tax_id_last4": "3149"
+    },
+    {
+      "avid_vendor_id": "V-A-0041",
+      "name": "Sable Pass Roofing Inc",
+      "address_line": "962 Turtle Run St",
+      "created_at": "2026-03-31",
+      "source": "seed",
+      "tax_id_last4": "7217"
+    },
+    {
+      "avid_vendor_id": "V-A-0042",
+      "name": "Egret Inlet Supply",
+      "address_line": "12 Bayberry Ct",
+      "created_at": "2024-11-20",
+      "source": "seed",
+      "tax_id_last4": "0486"
+    },
+    {
+      "avid_vendor_id": "V-A-0043",
+      "name": "Sable Shore Fencing LLC",
+      "address_line": "9706 Saltgrass Row",
+      "created_at": "2024-10-04",
+      "source": "seed",
+      "tax_id_last4": "5188"
+    },
+    {
+      "avid_vendor_id": "V-A-0044",
+      "name": "Sandbar Bluff Landscaping Inc",
+      "address_line": "5287 Heron Ave",
+      "created_at": "2025-11-01",
+      "source": "seed",
+      "tax_id_last4": null
+    },
+    {
+      "avid_vendor_id": "V-A-0045",
+      "name": "Snook Bay Electrical Inc",
+      "address_line": "20 Sawgrass Blvd",
+      "created_at": "2023-05-07",
+      "source": "seed",
+      "tax_id_last4": "2485"
+    },
+    {
+      "avid_vendor_id": "V-A-0046",
+      "name": "Coquina Bay Electrical Inc",
+      "address_line": "6143 Sable Palm Ave",
+      "created_at": "2024-12-06",
+      "source": "seed",
+      "tax_id_last4": "2578"
+    },
+    {
+      "avid_vendor_id": "V-A-0047",
+      "name": "Driftwood Harbor Plumbing LLC",
+      "address_line": "35 Coquina Pl",
+      "created_at": "2023-04-22",
+      "source": "seed",
+      "tax_id_last4": "6654"
+    },
+    {
+      "avid_vendor_id": "V-A-0048",
+      "name": "Anhinga Ridge Cleaning Co",
+      "address_line": "15 Mangrove Ave",
+      "created_at": "2025-05-07",
+      "source": "seed",
+      "tax_id_last4": "2339"
+    },
+    {
+      "avid_vendor_id": "V-A-0049",
+      "name": "Lantern Cove Landscaping Inc",
+      "address_line": "4937 Egret Way",
+      "created_at": "2026-05-08",
+      "source": "seed",
+      "tax_id_last4": "8996"
+    },
+    {
+      "avid_vendor_id": "V-A-0050",
+      "name": "Driftwood Key Legal Group Inc",
+      "address_line": "125 Spoonbill Way",
+      "created_at": "2024-01-28",
+      "source": "seed",
+      "tax_id_last4": "3285"
+    },
+    {
+      "avid_vendor_id": "V-A-0051",
+      "name": "Saltgrass Harbor Cleaning LLC",
+      "address_line": "1940 Seagrape Way",
+      "created_at": "2025-08-05",
+      "source": "seed",
+      "tax_id_last4": "3556"
+    },
+    {
+      "avid_vendor_id": "V-A-0052",
+      "name": "Coquina Hammock Roofing",
+      "address_line": "302 Sable Palm Blvd",
+      "created_at": "2024-04-14",
+      "source": "seed",
+      "tax_id_last4": "0799"
+    },
+    {
+      "avid_vendor_id": "V-A-0053",
+      "name": "Heron Isle Cleaning LLC",
+      "address_line": "14 Sea Oats Pl",
+      "created_at": "2026-08-16",
+      "source": "seed",
+      "tax_id_last4": "1829"
+    },
+    {
+      "avid_vendor_id": "V-A-0054",
+      "name": "Sunfish Ridge Supply",
+      "address_line": "11 Coquina Dr",
+      "created_at": "2024-06-10",
+      "source": "seed",
+      "tax_id_last4": "7661"
+    },
+    {
+      "avid_vendor_id": "V-A-0055",
+      "name": "Osprey Sound Plumbing",
+      "address_line": "12 Turtle Run Ct",
+      "created_at": "2025-11-03",
+      "source": "seed",
+      "tax_id_last4": "2208"
+    },
+    {
+      "avid_vendor_id": "V-A-0056",
+      "name": "Manatee Cove Fencing LLC",
+      "address_line": "427 Coral Ridge Way",
+      "created_at": "2025-09-02",
+      "source": "seed",
+      "tax_id_last4": "1468"
+    },
+    {
+      "avid_vendor_id": "V-A-0057",
+      "name": "Bayberry Inlet Cleaning",
+      "address_line": "682 Driftwood Ln",
+      "created_at": "2025-08-28",
+      "source": "seed",
+      "tax_id_last4": "4835"
+    },
+    {
+      "avid_vendor_id": "V-A-0058",
+      "name": "Sawgrass Hammock Legal Group",
+      "address_line": "145 Marlin Bay Way",
+      "created_at": "2026-07-17",
+      "source": "seed",
+      "tax_id_last4": "8011"
+    },
+    {
+      "avid_vendor_id": "V-A-0059",
+      "name": "Turtle Hammock Roofing",
+      "address_line": "498 Spoonbill St",
+      "created_at": "2024-10-09",
+      "source": "seed",
+      "tax_id_last4": "0430"
+    },
+    {
+      "avid_vendor_id": "V-A-0060",
+      "name": "Marlin Isle Plumbing",
+      "address_line": "5248 Cormorant Dr",
+      "created_at": "2023-04-07",
+      "source": "seed",
+      "tax_id_last4": "8312"
+    },
+    {
+      "avid_vendor_id": "V-A-0061",
+      "name": "Sawgrass Point Roofing",
+      "address_line": "21 Tarpon Pl",
+      "created_at": "2024-01-12",
+      "source": "seed",
+      "tax_id_last4": "3148"
+    },
+    {
+      "avid_vendor_id": "V-A-0062",
+      "name": "Pelican Grove Legal Group",
+      "address_line": "10 Coquina Dr",
+      "created_at": "2024-11-28",
+      "source": "seed",
+      "tax_id_last4": "9035"
+    },
+    {
+      "avid_vendor_id": "V-A-0063",
+      "name": "Cormorant Key Fencing LLC",
+      "address_line": "281 Mangrove Row",
+      "created_at": "2024-03-17",
+      "source": "seed",
+      "tax_id_last4": "1021"
+    },
+    {
+      "avid_vendor_id": "V-A-0064",
+      "name": "Kestrel Ridge Fencing LLC",
+      "address_line": "818 Driftwood St",
+      "created_at": "2024-06-18",
+      "source": "seed",
+      "tax_id_last4": "8202"
+    },
+    {
+      "avid_vendor_id": "V-A-0065",
+      "name": "Cormorant Inlet Supply Co",
+      "address_line": "388 Seagrape Row",
+      "created_at": "2023-11-27",
+      "source": "seed",
+      "tax_id_last4": "1231"
+    },
+    {
+      "avid_vendor_id": "V-A-0066",
+      "name": "Seagrass Key Fencing LLC",
+      "address_line": "717 Sandbar Blvd",
+      "created_at": "2023-10-19",
+      "source": "seed",
+      "tax_id_last4": "3918"
+    },
+    {
+      "avid_vendor_id": "V-A-0067",
+      "name": "Driftwood Isle Supply",
+      "address_line": "548 Sunfish Ave",
+      "created_at": "2023-07-21",
+      "source": "seed",
+      "tax_id_last4": "6081"
+    },
+    {
+      "avid_vendor_id": "V-A-0068",
+      "name": "Sunfish Reach Supply LLC",
+      "address_line": "69 Tarpon Blvd",
+      "created_at": "2023-06-16",
+      "source": "seed",
+      "tax_id_last4": "1103"
+    },
+    {
+      "avid_vendor_id": "V-A-0069",
+      "name": "Cormorant Bay Landscaping LLC",
+      "address_line": "328 Sawgrass Row",
+      "created_at": "2023-12-24",
+      "source": "seed",
+      "tax_id_last4": "2215"
+    },
+    {
+      "avid_vendor_id": "V-A-0070",
+      "name": "Mangrove Key Roofing Inc",
+      "address_line": "60 Heron Row",
+      "created_at": "2025-08-28",
+      "source": "seed",
+      "tax_id_last4": "3476"
+    },
+    {
+      "avid_vendor_id": "V-A-0071",
+      "name": "Coquina Reach Pest Control LLC",
+      "address_line": "82 Sandpiper Blvd",
+      "created_at": "2023-06-21",
+      "source": "seed",
+      "tax_id_last4": null
+    },
+    {
+      "avid_vendor_id": "V-A-0072",
+      "name": "Saltgrass Bay Roofing",
+      "address_line": "394 Sea Oats Way",
+      "created_at": "2026-01-04",
+      "source": "seed",
+      "tax_id_last4": "1671"
+    },
+    {
+      "avid_vendor_id": "V-A-0073",
+      "name": "Manatee Grove Plumbing Co",
+      "address_line": "810 Turtle Run Dr",
+      "created_at": "2026-07-05",
+      "source": "seed",
+      "tax_id_last4": "0043"
+    },
+    {
+      "avid_vendor_id": "V-A-0074",
+      "name": "Seagrass Cove Supply Inc",
+      "address_line": "7 Saltgrass Pl",
+      "created_at": "2025-12-20",
+      "source": "seed",
+      "tax_id_last4": "5180"
+    },
+    {
+      "avid_vendor_id": "V-A-0075",
+      "name": "Saltgrass Pass Roofing",
+      "address_line": "6793 Sawgrass Row",
+      "created_at": "2026-03-05",
+      "source": "seed",
+      "tax_id_last4": "3060"
+    },
+    {
+      "avid_vendor_id": "V-A-0076",
+      "name": "Sunfish Pass Plumbing",
+      "address_line": "837 Pelican Dr",
+      "created_at": "2024-02-21",
+      "source": "seed",
+      "tax_id_last4": "8879"
+    },
+    {
+      "avid_vendor_id": "V-A-0077",
+      "name": "Snook Harbor Pressure Washing",
+      "address_line": "2184 Kestrel Way",
+      "created_at": "2026-06-20",
+      "source": "seed",
+      "tax_id_last4": "1033"
+    },
+    {
+      "avid_vendor_id": "V-A-0078",
+      "name": "Loggerhead Hammock Landscaping LLC",
+      "address_line": "892 Heron Row",
+      "created_at": "2025-11-05",
+      "source": "seed",
+      "tax_id_last4": "4306"
+    },
+    {
+      "avid_vendor_id": "V-A-0079",
+      "name": "Pelican Landing Roofing LLC",
+      "address_line": "637 Palmetto Dr",
+      "created_at": "2025-11-05",
+      "source": "seed",
+      "tax_id_last4": "0652"
+    },
+    {
+      "avid_vendor_id": "V-A-0080",
+      "name": "Anhinga Grove Plumbing LLC",
+      "address_line": "1540 Heron Ct",
+      "created_at": "2023-03-31",
+      "source": "seed",
+      "tax_id_last4": "4796"
+    },
+    {
+      "avid_vendor_id": "V-A-0081",
+      "name": "Bayberry Creek Pest Control",
+      "address_line": "572 Cormorant Way",
+      "created_at": "2023-04-28",
+      "source": "seed",
+      "tax_id_last4": "2662"
+    },
+    {
+      "avid_vendor_id": "V-A-0082",
+      "name": "Marlin Reach Electrical LLC",
+      "address_line": "299 Sandpiper Row",
+      "created_at": "2024-05-24",
+      "source": "seed",
+      "tax_id_last4": "5184"
+    },
+    {
+      "avid_vendor_id": "V-A-0083",
+      "name": "Spoonbill Reach Landscaping Co",
+      "address_line": "418 Pelican Row",
+      "created_at": "2026-07-21",
+      "source": "seed",
+      "tax_id_last4": "0583"
+    },
+    {
+      "avid_vendor_id": "V-A-0084",
+      "name": "Snook Ridge Plumbing LLC",
+      "address_line": "32 Seagrass Ln",
+      "created_at": "2025-12-31",
+      "source": "seed",
+      "tax_id_last4": null
+    },
+    {
+      "avid_vendor_id": "V-A-0085",
+      "name": "Saltgrass Shore Fencing Co",
+      "address_line": "86 Kestrel St",
+      "created_at": "2026-04-05",
+      "source": "seed",
+      "tax_id_last4": "3663"
+    },
+    {
+      "avid_vendor_id": "V-A-0086",
+      "name": "Marlin Creek Electrical",
+      "address_line": "639 Pelican Way",
+      "created_at": "2025-06-11",
+      "source": "seed",
+      "tax_id_last4": "8230"
+    },
+    {
+      "avid_vendor_id": "V-A-0087",
+      "name": "Driftwood Sound Roofing Inc",
+      "address_line": "721 Osprey Ave",
+      "created_at": "2025-03-26",
+      "source": "seed",
+      "tax_id_last4": "7144"
+    },
+    {
+      "avid_vendor_id": "V-A-0088",
+      "name": "P.W. Maintenance",
+      "address_line": "41 Marlin Bay Dr",
+      "created_at": "2025-11-12",
+      "source": "seed",
+      "tax_id_last4": "4471"
+    },
+    {
+      "avid_vendor_id": "V-A-0089",
+      "name": "Palmetto Reach Supply",
+      "address_line": "832 Sawgrass St",
+      "created_at": "2023-11-28",
+      "source": "seed",
+      "tax_id_last4": "3369"
+    },
+    {
+      "avid_vendor_id": "V-A-0090",
+      "name": "Manatee Isle Cleaning",
+      "address_line": "86 Egret Pl",
+      "created_at": "2026-07-06",
+      "source": "seed",
+      "tax_id_last4": "4441"
+    },
+    {
+      "avid_vendor_id": "V-A-0091",
+      "name": "Coquina Creek Landscaping LLC",
+      "address_line": "56 Sea Oats Ln",
+      "created_at": "2023-01-15",
+      "source": "seed",
+      "tax_id_last4": "5736"
+    },
+    {
+      "avid_vendor_id": "V-A-0092",
+      "name": "Tidewater Plumbing Supply",
+      "address_line": "7 Sandbar Isle Ct",
+      "created_at": "2024-06-17",
+      "source": "seed",
+      "tax_id_last4": "7712"
+    },
+    {
+      "avid_vendor_id": "V-A-0093",
+      "name": "Saltgrass Bluff Pressure Washing LLC",
+      "address_line": "175 Sandbar Ave",
+      "created_at": "2024-11-21",
+      "source": "seed",
+      "tax_id_last4": "0007"
+    },
+    {
+      "avid_vendor_id": "V-A-0094",
+      "name": "Driftwood Reach Roofing Co",
+      "address_line": "3987 Osprey Dr",
+      "created_at": "2026-01-22",
+      "source": "seed",
+      "tax_id_last4": null
+    },
+    {
+      "avid_vendor_id": "V-A-0095",
+      "name": "Saltgrass Creek Landscaping LLC",
+      "address_line": "900 Heron Ct",
+      "created_at": "2025-03-20",
+      "source": "seed",
+      "tax_id_last4": "2126"
+    },
+    {
+      "avid_vendor_id": "V-A-0096",
+      "name": "Egret Bay Cleaning",
+      "address_line": "30 Ibis Row",
+      "created_at": "2023-12-22",
+      "source": "seed",
+      "tax_id_last4": "3263"
+    },
+    {
+      "avid_vendor_id": "V-A-0097",
+      "name": "Palmetto Grove Cleaning",
+      "address_line": "535 Seagrass Dr",
+      "created_at": "2023-06-05",
+      "source": "seed",
+      "tax_id_last4": "0312"
+    },
+    {
+      "avid_vendor_id": "V-A-0098",
+      "name": "Mangrove Sound Fencing Inc",
+      "address_line": "8633 Pelican Ave",
+      "created_at": "2025-11-11",
+      "source": "seed",
+      "tax_id_last4": "2247"
+    },
+    {
+      "avid_vendor_id": "V-A-0099",
+      "name": "Loggerhead Creek Plumbing LLC",
+      "address_line": "603 Coral Ridge Ct",
+      "created_at": "2023-08-26",
+      "source": "seed",
+      "tax_id_last4": "5255"
+    },
+    {
+      "avid_vendor_id": "V-A-0100",
+      "name": "Mangrove Landing Roofing",
+      "address_line": "30 Osprey Way",
+      "created_at": "2023-10-15",
+      "source": "seed",
+      "tax_id_last4": "1769"
+    },
+    {
+      "avid_vendor_id": "V-A-0101",
+      "name": "Loggerhead Shore Landscaping Co",
+      "address_line": "479 Sawgrass St",
+      "created_at": "2026-03-24",
+      "source": "seed",
+      "tax_id_last4": "5374"
+    },
+    {
+      "avid_vendor_id": "V-A-0102",
+      "name": "Saltgrass Inlet Landscaping Inc",
+      "address_line": "807 Sandpiper St",
+      "created_at": "2026-07-30",
+      "source": "seed",
+      "tax_id_last4": "8286"
+    },
+    {
+      "avid_vendor_id": "V-A-0103",
+      "name": "Cypress Harbor Roofing",
+      "address_line": "396 Sable Palm Way",
+      "created_at": "2023-08-23",
+      "source": "seed",
+      "tax_id_last4": "6766"
+    },
+    {
+      "avid_vendor_id": "V-A-0104",
+      "name": "Sawgrass Grove Fencing",
+      "address_line": "610 Pelican Pl",
+      "created_at": "2024-11-07",
+      "source": "seed",
+      "tax_id_last4": "4794"
+    },
+    {
+      "avid_vendor_id": "V-A-0105",
+      "name": "Kestrel Pass Roofing",
+      "address_line": "2550 Spoonbill Blvd",
+      "created_at": "2025-07-18",
+      "source": "seed",
+      "tax_id_last4": "3700"
+    },
+    {
+      "avid_vendor_id": "V-A-0106",
+      "name": "Lantern Isle Fencing LLC",
+      "address_line": "4 Pelican Row",
+      "created_at": "2024-01-15",
+      "source": "seed",
+      "tax_id_last4": "3653"
+    },
+    {
+      "avid_vendor_id": "V-A-0107",
+      "name": "Tarpon Key Roofing LLC",
+      "address_line": "758 Loggerhead Blvd",
+      "created_at": "2023-11-17",
+      "source": "seed",
+      "tax_id_last4": "7047"
+    },
+    {
+      "avid_vendor_id": "V-A-0108",
+      "name": "Heron Pass Landscaping LLC",
+      "address_line": "3768 Ibis Ct",
+      "created_at": "2023-01-19",
+      "source": "seed",
+      "tax_id_last4": "7509"
+    },
+    {
+      "avid_vendor_id": "V-A-0109",
+      "name": "Tarpon Isle Roofing",
+      "address_line": "1385 Saltgrass St",
+      "created_at": "2025-07-08",
+      "source": "seed",
+      "tax_id_last4": "0198"
+    },
+    {
+      "avid_vendor_id": "V-A-0110",
+      "name": "Cypress Isle Pest Control",
+      "address_line": "159 Loggerhead Ct",
+      "created_at": "2023-09-26",
+      "source": "seed",
+      "tax_id_last4": "3361"
+    },
+    {
+      "avid_vendor_id": "V-A-0111",
+      "name": "Spoonbill Landing Plumbing",
+      "address_line": "353 Coral Ridge Way",
+      "created_at": "2024-01-10",
+      "source": "seed",
+      "tax_id_last4": "0572"
+    },
+    {
+      "avid_vendor_id": "V-A-0112",
+      "name": "Saltgrass Sound Fencing LLC",
+      "address_line": "79 Saltgrass Row",
+      "created_at": "2024-09-24",
+      "source": "seed",
+      "tax_id_last4": "4818"
+    }
+  ],
+  "match_candidates": [
+    {
+      "yardi_vendor_id": "V-Y-0117",
+      "avid_vendor_id": "V-A-0088",
+      "score": 1,
+      "reasons": [
+        "same normalized name",
+        "same address",
+        "suffix difference",
+        "same tax id last four"
+      ],
+      "decision": "none"
+    },
+    {
+      "yardi_vendor_id": "V-Y-0119",
+      "avid_vendor_id": "V-A-0092",
+      "score": 1,
+      "reasons": [
+        "similar name",
+        "different address",
+        "different tax id last four"
+      ],
+      "decision": "none"
+    }
+  ],
+  "incoming_invoices": [
+    {
+      "invoice_id": "INV-5001",
+      "payee_name": "Brightline Landscaping LLC",
+      "amount": 4359.76,
+      "received_at": "2026-09-01",
+      "matched_yardi_vendor_id": "V-Y-0044",
+      "matched_avid_vendor_id": "V-A-0031",
+      "flag": "known",
+      "days_in_queue": 0
+    },
+    {
+      "invoice_id": "INV-5002",
+      "payee_name": "Marlin Reach Electrical LLC",
+      "amount": 1397.22,
+      "received_at": "2026-09-01",
+      "matched_yardi_vendor_id": "V-Y-0095",
+      "matched_avid_vendor_id": "V-A-0082",
+      "flag": "known",
+      "days_in_queue": 0
+    },
+    {
+      "invoice_id": "INV-5003",
+      "payee_name": "Loggerhead Hammock Landscaping LLC",
+      "amount": 2912.14,
+      "received_at": "2026-09-01",
+      "matched_yardi_vendor_id": "V-Y-0048",
+      "matched_avid_vendor_id": "V-A-0078",
+      "flag": "known",
+      "days_in_queue": 0
+    },
+    {
+      "invoice_id": "INV-5004",
+      "payee_name": "Coral Ridge Pressure Washing",
+      "amount": 640,
+      "received_at": "2026-09-01",
+      "matched_yardi_vendor_id": "V-Y-0121",
+      "matched_avid_vendor_id": null,
+      "flag": "yardi_only",
+      "days_in_queue": 0
+    },
+    {
+      "invoice_id": "INV-5005",
+      "payee_name": "Cormorant Bay Landscaping LLC",
+      "amount": 4720.15,
+      "received_at": "2026-09-01",
+      "matched_yardi_vendor_id": "V-Y-0100",
+      "matched_avid_vendor_id": "V-A-0069",
+      "flag": "known",
+      "days_in_queue": 0
+    },
+    {
+      "invoice_id": "INV-5006",
+      "payee_name": "Seagrass Landing Legal Group Inc",
+      "amount": 1353.13,
+      "received_at": "2026-09-01",
+      "matched_yardi_vendor_id": "V-Y-0082",
+      "matched_avid_vendor_id": "V-A-0019",
+      "flag": "known",
+      "days_in_queue": 0
+    },
+    {
+      "invoice_id": "INV-5007",
+      "payee_name": "Keys Gate Fencing",
+      "amount": 1180,
+      "received_at": "2026-09-01",
+      "matched_yardi_vendor_id": null,
+      "matched_avid_vendor_id": null,
+      "flag": "first_seen",
+      "days_in_queue": 0
+    },
+    {
+      "invoice_id": "INV-5008",
+      "payee_name": "Lantern Harbor Fencing",
+      "amount": 3305.39,
+      "received_at": "2026-09-01",
+      "matched_yardi_vendor_id": "V-Y-0094",
+      "matched_avid_vendor_id": "V-A-0015",
+      "flag": "known",
+      "days_in_queue": 0
+    },
+    {
+      "invoice_id": "INV-5009",
+      "payee_name": "PW Maintenance",
+      "amount": 355,
+      "received_at": "2026-08-25",
+      "matched_yardi_vendor_id": "V-Y-0117",
+      "matched_avid_vendor_id": "V-A-0088",
+      "flag": "near_match",
+      "days_in_queue": 7
+    },
+    {
+      "invoice_id": "INV-5010",
+      "payee_name": "Sunfish Ridge Supply",
+      "amount": 4293.44,
+      "received_at": "2026-09-01",
+      "matched_yardi_vendor_id": "V-Y-0014",
+      "matched_avid_vendor_id": "V-A-0054",
+      "flag": "known",
+      "days_in_queue": 0
+    },
+    {
+      "invoice_id": "INV-5011",
+      "payee_name": "Lantern Creek Electrical LLC",
+      "amount": 3358.41,
+      "received_at": "2026-09-01",
+      "matched_yardi_vendor_id": "V-Y-0107",
+      "matched_avid_vendor_id": "V-A-0029",
+      "flag": "known",
+      "days_in_queue": 0
+    },
+    {
+      "invoice_id": "INV-5012",
+      "payee_name": "Tarpon Grove Cleaning LLC",
+      "amount": 2107.11,
+      "received_at": "2026-09-01",
+      "matched_yardi_vendor_id": "V-Y-0123",
+      "matched_avid_vendor_id": null,
+      "flag": "yardi_only",
+      "days_in_queue": 0
+    },
+    {
+      "invoice_id": "INV-5013",
+      "payee_name": "Saltgrass Harbor Cleaning LLC",
+      "amount": 2365.12,
+      "received_at": "2026-09-01",
+      "matched_yardi_vendor_id": "V-Y-0050",
+      "matched_avid_vendor_id": "V-A-0051",
+      "flag": "known",
+      "days_in_queue": 0
+    },
+    {
+      "invoice_id": "INV-5014",
+      "payee_name": "Lantern Isle Fencing LLC",
+      "amount": 406.65,
+      "received_at": "2026-09-01",
+      "matched_yardi_vendor_id": "V-Y-0063",
+      "matched_avid_vendor_id": "V-A-0106",
+      "flag": "known",
+      "days_in_queue": 0
+    },
+    {
+      "invoice_id": "INV-5015",
+      "payee_name": "Bayberry Cove Pest Control Co",
+      "amount": 1754.25,
+      "received_at": "2026-09-01",
+      "matched_yardi_vendor_id": "V-Y-0051",
+      "matched_avid_vendor_id": "V-A-0033",
+      "flag": "known",
+      "days_in_queue": 0
+    }
+  ]
+}

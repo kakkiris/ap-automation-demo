@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="1100" viewBox="0 0 850 1100">
+  <defs>
+    <linearGradient id="sheet" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ececea"/>
+      <stop offset="100%" stop-color="#d9d9d5"/>
+    </linearGradient>
+    <linearGradient id="shade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#000" stop-opacity="0.16"/>
+      <stop offset="18%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.05"/>
+    </linearGradient>
+    <filter id="noise" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.7" numOctaves="3" seed="11" stitchTiles="stitch"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.18 0"/>
+    </filter>
+    <filter id="blur"><feGaussianBlur stdDeviation="0.9"/></filter>
+    <filter id="smear"><feGaussianBlur stdDeviation="0.25"/></filter>
+  </defs>
+  <rect width="850" height="1100" fill="#c9c9c6"/>
+  <g transform="translate(425 550) rotate(1.7) skewX(-2.2) translate(-425 -550)">
+    <rect x="44" y="34" width="762" height="1032" fill="url(#sheet)"/>
+    <rect x="44" y="34" width="762" height="1032" fill="url(#shade)"/>
+    <g filter="url(#smear)">
+      <text x="110" y="150" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="bold" fill="#3f3f44" text-anchor="start">Lakefront Office Supply</text>
+      <text x="110" y="176" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#4b4b50" text-anchor="start">603 Quarry Bend</text>
+      <text x="110" y="196" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#4b4b50" text-anchor="start">Peoria, IL 61603</text>
+      <text x="110" y="216" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#4b4b50" text-anchor="start">(219) 555-0193</text>
+      <text x="740" y="150" font-family="Helvetica, Arial, sans-serif" font-size="30" font-weight="bold" fill="#6b6b70" text-anchor="end">INVOICE</text>
+      <text x="740" y="182" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#4b4b50" text-anchor="end">Invoice number  30886</text>
+      <text x="740" y="202" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#4b4b50" text-anchor="end">Invoice date  Aug 29, 2026</text>
+      <line x1="110" y1="250" x2="740" y2="250" stroke="#a9a9a6" stroke-width="1"/>
+      <text x="110" y="282" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#7a7a7e" text-anchor="start">Bill to</text>
+      <text x="110" y="302" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#4b4b50" text-anchor="start">Lakeshore Lien Partners</text>
+      <text x="110" y="321" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#4b4b50" text-anchor="start">PO Box 2140</text>
+      <text x="110" y="340" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#4b4b50" text-anchor="start">Hammond, IN 46325</text>
+      <text x="110" y="420" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#7a7a7e" text-anchor="start">Description</text>
+      <text x="740" y="420" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#7a7a7e" text-anchor="end">Amount</text>
+      <line x1="110" y1="430" x2="740" y2="430" stroke="#a9a9a6" stroke-width="1"/>
+      <text x="110" y="458" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#4b4b50" text-anchor="start">Copier paper, 10 cases</text>
+      <text x="740" y="458" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#5a5a5e" text-anchor="end">149.90</text>
+      <text x="110" y="484" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#4b4b50" text-anchor="start">Toner cartridges, 2</text>
+      <text x="740" y="484" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#5a5a5e" text-anchor="end">42.85</text>
+      <text x="110" y="510" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#4b4b50" text-anchor="start">Mailing envelopes, 1 box</text>
+      <text x="740" y="510" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#5a5a5e" text-anchor="end">20.00</text>
+      <line x1="470" y1="556" x2="740" y2="556" stroke="#a9a9a6" stroke-width="1"/>
+      <text x="470" y="590" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#4b4b50" text-anchor="start">Total due</text>
+      <g filter="url(#blur)" opacity="0.62"><text x="740" y="590" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="bold" fill="#9c9c98" text-anchor="end">212.75</text></g>
+      <text x="110" y="650" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#8a8a8e" text-anchor="start">Thank you for your business.</text>
+    </g>
+    <rect x="44" y="34" width="762" height="1032" fill="none" stroke="#b5b5b1" stroke-width="2"/>
+  </g>
+  <rect width="850" height="1100" filter="url(#noise)"/>
+</svg>

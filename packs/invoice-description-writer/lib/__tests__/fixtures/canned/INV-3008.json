@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Coral Ridge Roofing",
+  "property_hint": "BW",
+  "unit_hint": "BW-02",
+  "service_short": "gutter reseal",
+  "service_from": "2026-08-27",
+  "service_to": "2026-08-27",
+  "invoice_number": "CR-88230",
+  "invoice_date": "2026-08-29",
+  "amount": 760.5,
+  "due_date": "2026-09-28",
+  "account_number": null,
+  "meter_number": null
+}

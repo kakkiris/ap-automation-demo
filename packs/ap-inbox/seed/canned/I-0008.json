@@ -1,0 +1,28 @@
+{
+  "kind": "invoice",
+  "payee": "Granite Peak Concrete",
+  "invoiceNumber": "16955",
+  "invoiceDate": "2026-08-22",
+  "totalAmount": "1,250.00",
+  "serviceAddressLines": [
+    "868 Ridgeline Ct, Saginaw MI"
+  ],
+  "parcelRefs": [],
+  "utilityAccountNumber": null,
+  "lineItems": [
+    {
+      "description": "Replace front walk, 30 ft",
+      "address": "868 Ridgeline Ct, Saginaw MI",
+      "amount": "1,250.00",
+      "chargeType": null
+    }
+  ],
+  "confidence": {
+    "payee": 0.96,
+    "invoiceNumber": 0.98,
+    "invoiceDate": 0.95,
+    "totalAmount": 0.94,
+    "address": 0.94
+  },
+  "notesHint": "Concrete walk"
+}

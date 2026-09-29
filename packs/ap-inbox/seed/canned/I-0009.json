@@ -1,0 +1,28 @@
+{
+  "kind": "invoice",
+  "payee": "Summit Roofing",
+  "invoiceNumber": "4471",
+  "invoiceDate": "2026-08-06",
+  "totalAmount": "1,900.00",
+  "serviceAddressLines": [
+    "412 Alder St, Marion IN"
+  ],
+  "parcelRefs": [],
+  "utilityAccountNumber": null,
+  "lineItems": [
+    {
+      "description": "Patch roof and replace flashing",
+      "address": "412 Alder St, Marion IN",
+      "amount": "1,900.00",
+      "chargeType": null
+    }
+  ],
+  "confidence": {
+    "payee": 0.97,
+    "invoiceNumber": 0.98,
+    "invoiceDate": 0.97,
+    "totalAmount": 0.92,
+    "address": 0.94
+  },
+  "notesHint": "Roof repair"
+}

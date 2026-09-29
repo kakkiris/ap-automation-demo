@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Harborline Cleaning",
+  "property_hint": "HL",
+  "unit_hint": "HL-18",
+  "service_short": "monthly janitorial service",
+  "service_from": "2026-08-28",
+  "service_to": "2026-08-28",
+  "invoice_number": "HC-49968",
+  "invoice_date": "2026-08-28",
+  "amount": 1045.53,
+  "due_date": "2026-09-27",
+  "account_number": null,
+  "meter_number": null
+}

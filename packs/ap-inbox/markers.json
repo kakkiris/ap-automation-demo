@@ -1,0 +1,21 @@
+{
+  "pack": "ap-inbox",
+  "scope": [
+    "packs/ap-inbox",
+    "app/api/family-office-ap/ap-inbox",
+    "app/family-office-ap/ap-inbox",
+    "public/demo/ap-inbox",
+    "packs/property-owner-lookup"
+  ],
+  "rules": [
+    { "name": "parcel ids", "match": "\\bP-\\d{5}\\b", "require": "^P-1[0-2]\\d{3}$" },
+    { "name": "system property codes", "match": "\\bSP-\\d{5}\\b", "require": "^SP-2\\d{4}$" },
+    { "name": "entity codes", "match": "\\bE-\\d{3}\\b", "require": "^E-(001|1\\d{2})$" },
+    { "name": "vendor ids", "match": "\\bV-\\d{3}\\b", "require": "^V-0\\d{2}$" },
+    { "name": "item ids", "match": "\\bI-\\d{4}\\b", "require": "^I-(00\\d{2}|9\\d{3})$" },
+    { "name": "tracker cards", "match": "\\bT-\\d{4}\\b", "require": "^T-8\\d{3}$" },
+    { "name": "utility accounts", "match": "\\b\\d{4}-\\d{3}\\b", "require": "^(5520|3310)-\\d{3}$" },
+    { "name": "ledger and cash accounts", "match": "\\b\\d{4}-\\d{4}\\b", "require": "^(9|1)\\d{3}-\\d{4}$" }
+  ],
+  "allow": []
+}

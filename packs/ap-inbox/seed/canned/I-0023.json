@@ -1,0 +1,28 @@
+{
+  "kind": "invoice",
+  "payee": "Tallgrass Mowing",
+  "invoiceNumber": "38348",
+  "invoiceDate": "2026-08-31",
+  "totalAmount": "75.00",
+  "serviceAddressLines": [
+    "964 Nettle Ct, Marion IN"
+  ],
+  "parcelRefs": [],
+  "utilityAccountNumber": null,
+  "lineItems": [
+    {
+      "description": "Mow and trim lot",
+      "address": "964 Nettle Ct, Marion IN",
+      "amount": "75.00",
+      "chargeType": null
+    }
+  ],
+  "confidence": {
+    "payee": 0.92,
+    "invoiceNumber": 0.92,
+    "invoiceDate": 0.92,
+    "totalAmount": 0.98,
+    "address": 0.96
+  },
+  "notesHint": "Lot mowing"
+}

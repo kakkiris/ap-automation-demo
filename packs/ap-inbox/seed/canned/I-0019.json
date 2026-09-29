@@ -1,0 +1,38 @@
+{
+  "kind": "invoice",
+  "payee": "Lakefront Office Supply",
+  "invoiceNumber": "30886",
+  "invoiceDate": "2026-08-29",
+  "totalAmount": "212.75",
+  "serviceAddressLines": [],
+  "parcelRefs": [],
+  "utilityAccountNumber": null,
+  "lineItems": [
+    {
+      "description": "Copier paper, 10 cases",
+      "address": null,
+      "amount": "149.90",
+      "chargeType": null
+    },
+    {
+      "description": "Toner cartridges, 2",
+      "address": null,
+      "amount": "42.85",
+      "chargeType": null
+    },
+    {
+      "description": "Mailing envelopes, 1 box",
+      "address": null,
+      "amount": "20.00",
+      "chargeType": null
+    }
+  ],
+  "confidence": {
+    "payee": 0.88,
+    "invoiceNumber": 0.86,
+    "invoiceDate": 0.87,
+    "totalAmount": 0.55,
+    "address": 0.9
+  },
+  "notesHint": "Office supplies"
+}

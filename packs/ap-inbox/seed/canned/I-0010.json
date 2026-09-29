@@ -1,0 +1,28 @@
+{
+  "kind": "invoice",
+  "payee": "Prairie State Gas",
+  "invoiceNumber": "331921",
+  "invoiceDate": "2026-08-26",
+  "totalAmount": "58.40",
+  "serviceAddressLines": [
+    "149 Cinder Rd Unit 2, Decatur IL"
+  ],
+  "parcelRefs": [],
+  "utilityAccountNumber": "3310-478",
+  "lineItems": [
+    {
+      "description": "Gas service, Jul 20 to Aug 19",
+      "address": "149 Cinder Rd Unit 2, Decatur IL",
+      "amount": "58.40",
+      "chargeType": "gas"
+    }
+  ],
+  "confidence": {
+    "payee": 0.97,
+    "invoiceNumber": 0.95,
+    "invoiceDate": 0.94,
+    "totalAmount": 0.93,
+    "address": 0.98
+  },
+  "notesHint": "Gas service"
+}

@@ -1,0 +1,28 @@
+{
+  "kind": "invoice",
+  "payee": "Timber Ridge Tree Care",
+  "invoiceNumber": "37308",
+  "invoiceDate": "2026-08-23",
+  "totalAmount": "650.00",
+  "serviceAddressLines": [
+    "505 Larchmont St, Toledo OH"
+  ],
+  "parcelRefs": [],
+  "utilityAccountNumber": null,
+  "lineItems": [
+    {
+      "description": "Trim and remove dead limbs",
+      "address": "505 Larchmont St, Toledo OH",
+      "amount": "650.00",
+      "chargeType": null
+    }
+  ],
+  "confidence": {
+    "payee": 0.98,
+    "invoiceNumber": 0.97,
+    "invoiceDate": 0.94,
+    "totalAmount": 0.94,
+    "address": 0.97
+  },
+  "notesHint": "Tree trimming"
+}

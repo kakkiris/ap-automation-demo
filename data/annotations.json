@@ -1,0 +1,302 @@
+[
+  {
+    "screen": "utility-bills-to-yardi/capture-this-months-bills",
+    "audience": "client",
+    "purpose": "One collection run, end to end: every bill for the month lands here, gets read, and becomes a Yardi row whose description carries the account number.",
+    "panel": {
+      "today": "The AP specialist logs into each provider portal, downloads bills that carry no invoice number, and builds one by hand from the account number and the due date. The smaller providers are typed into Avid; Fairshore Power has far too many accounts for that, so those skip Avid and go straight into the Yardi template by hand. The download helper misses some bills without saying so.",
+      "here": "Press Run for the month: bills arrive by route, fields are read, each account is matched to its meter, the invoice number is built the way it is built by hand today, from the last five digits of the account number and the due date, and the Yardi upload is written with the account number leading every description. Anything the tool cannot place waits in Match bills to meters. A person still reviews, imports, and pays in the portal.",
+      "protects": "Nothing is keyed twice, no bill is silently missed, and every payment description from now on carries the key the reconciliation joins on."
+    }
+  },
+  {
+    "screen": "utility-bills-to-yardi/match-bills-to-meters",
+    "audience": "client",
+    "purpose": "The bills that need a person: an account on no meter we know, a meter number that differs from the bill, a duplicate period, an unusual amount.",
+    "panel": {
+      "today": "A bill for an account nobody recognises is guessed into a workbook row, or set aside and forgotten; a duplicate is caught only when it has been paid twice in the portal; an odd amount is noticed when the tenant complains.",
+      "here": "Each exception is one card with the specific fix: link the account to a meter, confirm a swap, drop the second copy, mark a vacant unit in use. Enter accepts the suggestion, N skips, U undoes. The Yardi upload stays blocked until the duplicate is settled.",
+      "protects": "Nobody pays twice, nothing is guessed into the wrong row, and the exceptions are the whole of the manual work for the month."
+    }
+  },
+  {
+    "screen": "meter-register/every-meter-and-its-account",
+    "audience": "client",
+    "purpose": "The registry keyed on the meter number, the one identifier that never changes, with the account and holder on each meter today.",
+    "panel": {
+      "today": "One utility workbook per service, one tab per property, filled in by hand as bills reveal account numbers; a blank cell means nobody has seen a bill yet. Account numbers churn with every tenant turnover, so rows go stale.",
+      "here": "House meters sit in their own section, unit meters below, each with its current account and holder. New accounts append the moment a bill surfaces them; the provider account list and the site visit results fill the rest. Unknown accounts wait in their own list instead of a guessed row.",
+      "protects": "The grid on the next screen is true, because it reads a register that is kept by the bills rather than by hand."
+    }
+  },
+  {
+    "screen": "meter-register/one-meters-history",
+    "audience": "client",
+    "purpose": "One meter's dated history: which account was active, in whose name, from when to when, beside the lease dates.",
+    "panel": {
+      "today": "The workbook cannot say whether a payment happened while the unit was empty or after a tenant moved in, so a year-late billback dispute has no record to stand on.",
+      "here": "The timeline shows tenant, then landlord, then the next tenant, with the account active in each period beside the lease dates read from the Yardi rent roll, and the ledger lines that matched. Who should have paid a given month has one answer.",
+      "protects": "Bill-backs are found the month they happen, with the evidence attached, instead of a year later without it."
+    }
+  },
+  {
+    "screen": "utility-payment-reconciliation/which-bills-are-paid",
+    "audience": "client",
+    "purpose": "Every site, every landlord-held account, checked against the rent roll for the month: paid, unpaid, not yet billed, or a bill-back.",
+    "panel": {
+      "today": "A rent roll is exported from Yardi and dropped into the utility workbook, a helper is asked to compare it to the property tabs, and someone double-checks the helper because it stumbles on incomplete meter data. A missed bill on a vacant unit surfaces as a shut-off notice.",
+      "here": "The strip shows every site with counts per status; open a site for its grid. The Yardi rent roll sets who should pay; the Yardi ledger lines, with account numbers now in their descriptions, prove who did. Red is a vacant unit unpaid, the shut-off risk. Amber is an occupied unit still on the landlord's account, the bill-back.",
+      "protects": "No vacant unit loses power because a bill was missed, and no landlord pays a tenant's utility for a year without noticing."
+    }
+  },
+  {
+    "screen": "utility-payment-reconciliation/one-property-month-by-month",
+    "audience": "client",
+    "purpose": "One property, one row per account, one column per month, in the shape of the workbook the team already reads.",
+    "panel": {
+      "today": "The month grid in the utility workbook is filled in by hand and about a month behind; nobody can answer whether every bill on a vacant unit was paid.",
+      "here": "Cells resolve from the Yardi rent roll and the Yardi ledger. Click any cell for why this status: the rule, the rent roll on the 15th, the account on the 15th, the lines, the flags. Lighter cells were matched by amount and date because the old descriptions carried no account number, and they say so.",
+      "protects": "The head of accounting reads the same page the specialist works from, and the confidence of every cell is honest on screen."
+    }
+  },
+  {
+    "screen": "utility-payment-reconciliation/confirm-which-account-a-payment-matched",
+    "audience": "client",
+    "purpose": "The few legacy payments the tool could not place on one account by itself, with the candidates side by side.",
+    "panel": {
+      "today": "Old payment descriptions in Yardi carry no account number, so a payment can only be tied to an account by memory or by hand.",
+      "here": "The line, the candidates, and the reason each could match. Press 1, 2, or 3 to pick. After this month's export writes the account number into every description, next month has nothing here.",
+      "protects": "Every payment ends up on exactly one account, and the list shrinks to nothing as the new descriptions take over."
+    }
+  },
+  {
+    "screen": "utility-payment-reconciliation/payments-without-a-meter",
+    "audience": "client",
+    "purpose": "Ledger lines that carry no account number the register knows, so the grid cannot count them.",
+    "panel": {
+      "today": "A Yardi payment with a bare description like Electric or Water July cannot be placed on an account, so it is invisible to any reconciliation.",
+      "here": "Each line is listed with what was known about it. As the register fills and the descriptions carry account numbers, the list empties.",
+      "protects": "No money quietly disappears from the check; every unplaced line is visible until it is placed."
+    }
+  },
+  {
+    "screen": "utility-payment-reconciliation/bill-backs-transfers-and-calls",
+    "audience": "client",
+    "purpose": "What to do about the month: bill back a tenant, draft a transfer, call a provider, send someone to a site.",
+    "panel": {
+      "today": "Follow-ups live in people's heads and inboxes: a billback is remembered a year later, a transfer request is made whenever someone notices, a missing bill is chased when the shut-off notice arrives.",
+      "here": "Every action is drawn from the grid: a tenant charge row for a bill-back, a transfer draft for an account still in the landlord's name, a call note for a provider whose bill never came, a checklist for a site visit. Nothing is sent; the team keeps the send, and the calls and transfers are made in the portal as today.",
+      "protects": "The month's follow-ups are a short list produced from evidence, not a memory exercise."
+    }
+  },
+  {
+    "screen": "utility-payment-reconciliation/files-and-notes-produced",
+    "audience": "client",
+    "purpose": "The files and notes this month produced: the Yardi upload, the bill-backs file, transfer drafts, call notes, site checklists.",
+    "panel": {
+      "today": "The outputs of the month are scattered across a drive, a workbook, and email, and nobody can say what was produced when.",
+      "here": "Everything the month generated, listed with its rows and its reason: the Yardi upload, the bill-backs file, the drafts and notes, ready to open or hand over.",
+      "protects": "There is one place to see what left the building, and it matches the grid it came from."
+    }
+  },
+  {
+    "screen": "utility-payment-reconciliation/the-tracker-as-kept-today",
+    "audience": "client",
+    "purpose": "The utility workbook as the team keeps it, one tab per property, beside the rent roll tab and the discrepancy list, with the manual steps next to the demo's steps.",
+    "panel": {
+      "today": "The utility workbook is filled in by hand and read by the head of accounting as the source of truth, even though it lags the bills by about a month.",
+      "here": "The same layout, generated from the register and the Yardi ledger instead of typed. The steps on the left are what is done today; the steps on the right are what this demo did instead.",
+      "protects": "The team keeps the page it recognises and stops maintaining it by hand."
+    }
+  },
+  {
+    "screen": "invoice-description-writer/receive-todays-invoices",
+    "audience": "client",
+    "purpose": "One day's arrivals at a glance: ready to paste, needs manual entry, or routed out because it is a utility bill.",
+    "panel": {
+      "today": "Avid capture fills the header, but every invoice still gets a description typed by hand in the house order, and the typing, not the coding, is the slow part.",
+      "here": "Press Receive invoices: the day's captured invoices are read, and each is either ready to paste into Avid, flagged for manual entry when the reader could not read it, or routed out because it is a utility bill.",
+      "protects": "The typing disappears and the coder keeps every decision."
+    }
+  },
+  {
+    "screen": "invoice-description-writer/write-the-invoice-description",
+    "audience": "client",
+    "purpose": "The paste-ready pair beside the invoice: the description in the house order and the code suggested from this vendor's own history.",
+    "panel": {
+      "today": "The coder reads the PDF, picks the code from experience, then types what was done, which property and unit, and the service dates into Avid, with copy and paste as the only help.",
+      "here": "The description is written in the house order from the fields read off the invoice; a missing field says so instead of being invented. The code card shows how often Yardi shows this vendor coded to each account. Copy, paste into Avid, and record whether the suggestion was used or corrected.",
+      "protects": "Every description that reaches Yardi carries the account number when the bill has one, and the coder's judgment is never overridden."
+    }
+  },
+  {
+    "screen": "invoice-description-writer/how-this-vendor-was-coded-before",
+    "audience": "client",
+    "purpose": "Where the suggestions come from: the codes used for this vendor, how often, and when.",
+    "panel": {
+      "today": "The history lives in Yardi and in the coder's memory; nobody can see at a glance why a code is the usual one.",
+      "here": "One row per code with its count and last use; single-service vendors show one row, multi-service vendors several. Corrections recorded this session appear at the bottom.",
+      "protects": "A suggestion is only as strong as its history, and the history is visible."
+    }
+  },
+  {
+    "screen": "invoice-description-writer/the-house-description-order",
+    "audience": "client",
+    "purpose": "The template that writes every description, made visible and boring.",
+    "panel": {
+      "today": "The house order exists as a habit, not as a rule anyone can point to, so the descriptions typed into Avid vary from person to person.",
+      "here": "The order for a service invoice and for a utility bill, with an example rendered from a real seed record. Nothing to edit; it is here so everyone can see the rule.",
+      "protects": "Descriptions never vary in shape, so the reconciliation downstream can rely on them."
+    }
+  },
+  {
+    "screen": "vendor-creator-to-avid/create-the-vendor-once-in-yardi",
+    "audience": "client",
+    "purpose": "The two vendor lists and the gap between them; a vendor is typed once, here.",
+    "panel": {
+      "today": "Every new vendor is set up twice: first in Yardi, the master, then again by hand in Avid, because nothing keeps the two lists in step. The first invoice sits in Avid's research queue until both are done.",
+      "here": "Yardi on the left, Avid on the right, and the count of vendors in Yardi but not in Avid. The form stands in for the Yardi vendor screen; that is the only time anyone types the vendor.",
+      "protects": "A vendor is created once, and nothing waits a week for the second copy."
+    }
+  },
+  {
+    "screen": "vendor-creator-to-avid/run-the-nightly-sync-to-avid",
+    "audience": "client",
+    "purpose": "One night's work: compared, skipped, created or staged, held for a person, inactive skipped.",
+    "panel": {
+      "today": "Yardi and Avid have no connection, so they drift, and the team re-keys by hand to close the gap.",
+      "here": "Run the nightly sync: exact matches skip, clean new names are created in Avid or staged as an import file plus a task list, and near matches are held for a person. The fixed line at the bottom says what this sync will never touch.",
+      "protects": "The gap between Yardi and Avid closes every night, with or without a way to write into Avid directly."
+    }
+  },
+  {
+    "screen": "vendor-creator-to-avid/decide-the-near-matches",
+    "audience": "client",
+    "purpose": "The pairs that might be the same vendor, with the reasons; a person decides, nothing is created by guessing.",
+    "panel": {
+      "today": "A vendor that already exists in Avid under a slightly different name gets created a second time, and the twin lives on in both systems.",
+      "here": "Each pair shows the two records, their normalised names, and the reasons: same normalised name, shared address, suffix difference. Same vendor, link; Different, create; or Decide later.",
+      "protects": "No twins, and no silent guesses about identity."
+    }
+  },
+  {
+    "screen": "vendor-creator-to-avid/catch-unknown-payees-on-arrival",
+    "audience": "client",
+    "purpose": "Today's invoices checked against both masters the moment they land, so an unknown payee never ages in the queue.",
+    "panel": {
+      "today": "An invoice for a payee Avid does not recognise drops into its research queue and waits with the others until someone notices it.",
+      "here": "Press Receive invoices: each payee is matched against the Yardi and Avid vendor lists and flagged known, first seen, in Yardi only, or a near match, with the days it has waited. A first-seen payee has a shortcut that opens the Yardi form pre-filled.",
+      "protects": "The first invoice from a new vendor is flagged on day zero instead of found a week later at the bottom of the queue."
+    }
+  },
+  {
+    "screen": "property-owner-lookup/look-up-an-owner",
+    "audience": "client",
+    "purpose": "An address or a parcel number in, one owner record out, with the entity and cash account an invoice for that property should carry.",
+    "panel": {
+      "today": "Every invoice tied to a property means finding which of many holding companies owns it, by typing the property into a legacy property system that is being retired, or by address-text lookups in spreadsheets that fail when a street name is spelled differently.",
+      "here": "Type an address or a parcel number and the parcel record comes back from the parcel database: the parcel is matched first, a street address is cleaned and matched second. One owner, with the Yardi entity code and cash account an invoice for it should carry, or the parcels that could be meant, or nothing. It never guesses between two.",
+      "protects": "The owner question is answered once, the same way, for every invoice, report line, and person who asks."
+    }
+  },
+  {
+    "screen": "property-owner-lookup/owner-to-entity-map",
+    "audience": "client",
+    "purpose": "Every owner with its entity code and cash account; the map the lookup reads.",
+    "panel": {
+      "today": "The holding company is turned into a Yardi entity code by a spreadsheet formula with many nested branches that only one person understands.",
+      "here": "One row per owner: the holding company from the parcel database, its Yardi entity code, its cash account, and how many parcels it holds. A table someone owns, with a change log, instead of a formula.",
+      "protects": "The entity code on every invoice comes from one maintained table, not from memory or a formula."
+    }
+  },
+  {
+    "screen": "ap-inbox/this-weeks-arrivals",
+    "audience": "client",
+    "purpose": "This week's arrivals through every door, each with its source shown and a draft already behind it.",
+    "panel": {
+      "today": "Invoices arrive four ways: direct email, a Monday.com mention that lands as an email with a download link, utility portals after a bill-ready notice, and physical post. Each is downloaded, saved to the shared drive, imported into Yardi to make a blank entry, and ten fields are typed by hand.",
+      "here": "One list, each item tagged Email, Monday.com approved, Utility portal, or Mail scan, with a vendor guess, an amount, a property guess, and its state. Every item already has a draft. Counters per state add up to the week.",
+      "protects": "The four doors become one, and nothing that arrived is lost between them."
+    }
+  },
+  {
+    "screen": "ap-inbox/review-an-invoice",
+    "audience": "client",
+    "purpose": "The document beside the ten fields, each showing where it came from; the specialist reads, corrects if needed, and submits.",
+    "panel": {
+      "today": "Ten fields typed by hand per invoice into Yardi: vendor, invoice number, expense type, invoice date, post month, cash account, notes, entity, amount, and ledger account, with the owner looked up separately for every property invoice.",
+      "here": "Every field carries a source tag: read from the document, from the vendor's history in Yardi, resolved from the property through the parcel database, a default, or typed. A low-confidence field is highlighted and must be confirmed before Submit. The specialist always submits; the tool never does.",
+      "protects": "The typing disappears, the person stays in the loop, and every value can be traced to where it came from."
+    }
+  },
+  {
+    "screen": "ap-inbox/split-across-properties",
+    "audience": "client",
+    "purpose": "One line per property, split equally only when the invoice gives no amounts, with the lines checked against the total.",
+    "panel": {
+      "today": "An invoice naming several properties is typed one line per property; the total is split equally when no amounts are given; each owner is looked up; a missing property is created first.",
+      "here": "The photo or statement sits beside the drafted lines: address, the owner and entity from the parcel database, amount, ledger account. Equal split only when the invoice is silent; stated amounts are never split. The sum check turns red when the lines stop adding up. A lot Yardi does not have yet is flagged with Create property.",
+      "protects": "The arithmetic always adds up, and no line lands on the wrong owner."
+    }
+  },
+  {
+    "screen": "ap-inbox/needs-a-person",
+    "audience": "client",
+    "purpose": "The items a person has to decide: an unknown vendor, an ambiguous owner, an unknown utility account, an unreadable amount, a possible duplicate.",
+    "panel": {
+      "today": "Every exception is handled inline while typing, so nobody can say afterwards how many there were or what was decided.",
+      "here": "One card per exception with the specific fix: create the vendor in Yardi or match an existing one, choose between two owners, map a utility account to its parcel, enter the amount, skip or keep the duplicate. This list is the whole of the week's manual work.",
+      "protects": "Judgment stays with a person, and it is a short list rather than a week of typing."
+    }
+  },
+  {
+    "screen": "ap-inbox/approve",
+    "audience": "client",
+    "purpose": "Submitted invoices waiting for the approver, exactly as today.",
+    "panel": {
+      "today": "The approver ticks the box in Yardi after the specialist has typed everything, and the asset team has already approved on the Monday.com card.",
+      "here": "The same approval in Yardi, on the drafts the specialist submitted. Approve or return. Nothing about who approves changes, and the Monday.com approval upstream is untouched.",
+      "protects": "Both approvals stay exactly where they are."
+    }
+  },
+  {
+    "screen": "ap-inbox/ready-for-yardi",
+    "audience": "client",
+    "purpose": "The week's approved invoices and the import file in the observed layout; the file is downloaded, never imported.",
+    "panel": {
+      "today": "On payment day the batch is created in Yardi, committed, and paid, from entries that were typed one by one.",
+      "here": "The approved invoices, their line count and total, the import file preview with its columns, and a download. It is the same import the team runs today. Mark batch paid stands in for the payment run; no payment happens here.",
+      "protects": "The batch is built from drafts that were read and checked, not typed, and Yardi is only ever written by the import the team already runs."
+    }
+  },
+  {
+    "screen": "ap-inbox/property-tracker-updates",
+    "audience": "client",
+    "purpose": "The messages that would be posted to each property's Monday.com card, whichever door the invoice came through.",
+    "panel": {
+      "today": "Payment status is typed back onto the Monday.com card by hand, and invoices that came by email never reach Monday.com at all, so the asset team's tracker is incomplete.",
+      "here": "One message per Monday.com card, generated on submit and on paid. The filter shows the invoices that came by email and had no card before. Nothing is posted from the demo; these are the messages that would be sent.",
+      "protects": "The asset team's Monday.com board becomes complete as a side effect of paying invoices."
+    }
+  },
+  {
+    "screen": "ap-inbox/document-archive",
+    "audience": "client",
+    "purpose": "Every document by week, with its source and its invoice.",
+    "panel": {
+      "today": "PDFs are saved to a shared drive by hand, one at a time, and found again by memory.",
+      "here": "Archive happens on arrival. Every document is listed by week with its source and a link to the invoice it became, and a copy is filed to the shared drive.",
+      "protects": "Nothing is filed by hand, and nothing is lost."
+    }
+  },
+  {
+    "screen": "multi-property-split/split-one-invoice-across-properties",
+    "audience": "client",
+    "purpose": "An invoice naming several properties becomes one line per property, split equally only when the invoice gives no amounts.",
+    "panel": {
+      "today": "A phone-notes screenshot of nine lots with one total is typed into Yardi as nine lines by hand, each owner looked up separately, any missing property created first.",
+      "here": "The sidebar entry opens the splitter inside AP Inbox on the nine-lot item: nine lines, equal split, sum checked, each owner from the parcel database, one lot flagged as missing from Yardi's property list.",
+      "protects": "The arithmetic always adds up, and no line lands on the wrong owner."
+    }
+  }
+]

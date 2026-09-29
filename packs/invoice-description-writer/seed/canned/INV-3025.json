@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Sunline Power",
+  "property_hint": "SG",
+  "unit_hint": null,
+  "service_short": "electric service",
+  "service_from": "2026-08-01",
+  "service_to": "2026-08-23",
+  "invoice_number": "SP-86717",
+  "invoice_date": "2026-08-27",
+  "amount": 110.47,
+  "due_date": "2026-09-26",
+  "account_number": "9918368930",
+  "meter_number": "M979628589"
+}

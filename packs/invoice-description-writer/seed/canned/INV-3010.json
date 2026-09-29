@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Mangrove Bay Law Office",
+  "property_hint": "SG",
+  "unit_hint": "SG-27",
+  "service_short": "lease renewal review",
+  "service_from": "2026-08-23",
+  "service_to": "2026-08-27",
+  "invoice_number": "MB-12326",
+  "invoice_date": "2026-08-27",
+  "amount": 3951.46,
+  "due_date": "2026-09-26",
+  "account_number": null,
+  "meter_number": null
+}

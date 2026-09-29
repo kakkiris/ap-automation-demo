@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Seagrass Building Services",
+  "property_hint": "CK",
+  "unit_hint": "CK-29",
+  "service_short": "wall patch and paint",
+  "service_from": "2026-08-21",
+  "service_to": "2026-08-25",
+  "invoice_number": "SB-32150",
+  "invoice_date": "2026-08-25",
+  "amount": 1833.16,
+  "due_date": "2026-09-24",
+  "account_number": null,
+  "meter_number": null
+}

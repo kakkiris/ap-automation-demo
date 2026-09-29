@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Cypress Point Supply",
+  "property_hint": "CK",
+  "unit_hint": "CK-17",
+  "service_short": "light bulbs and ballasts",
+  "service_from": "2026-08-29",
+  "service_to": "2026-08-30",
+  "invoice_number": "CP-20371",
+  "invoice_date": "2026-08-30",
+  "amount": 1011.67,
+  "due_date": "2026-09-29",
+  "account_number": null,
+  "meter_number": null
+}

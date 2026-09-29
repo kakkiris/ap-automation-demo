@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Sandbar Fire Protection",
+  "property_hint": "SG",
+  "unit_hint": "SG-39",
+  "service_short": "fire extinguisher service",
+  "service_from": "2026-08-25",
+  "service_to": "2026-08-25",
+  "invoice_number": "SF-45653",
+  "invoice_date": "2026-08-28",
+  "amount": 2705.77,
+  "due_date": "2026-09-27",
+  "account_number": null,
+  "meter_number": null
+}

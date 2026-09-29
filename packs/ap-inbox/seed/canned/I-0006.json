@@ -1,0 +1,28 @@
+{
+  "kind": "invoice",
+  "payee": "Cedar Ridge Plumbing",
+  "invoiceNumber": "32350",
+  "invoiceDate": "2026-08-24",
+  "totalAmount": "410.00",
+  "serviceAddressLines": [
+    "206 Quail Run Ct, Muncie IN"
+  ],
+  "parcelRefs": [],
+  "utilityAccountNumber": null,
+  "lineItems": [
+    {
+      "description": "Repair leaking supply line",
+      "address": "206 Quail Run Ct, Muncie IN",
+      "amount": "410.00",
+      "chargeType": null
+    }
+  ],
+  "confidence": {
+    "payee": 0.98,
+    "invoiceNumber": 0.98,
+    "invoiceDate": 0.95,
+    "totalAmount": 0.93,
+    "address": 0.98
+  },
+  "notesHint": "Plumbing repair"
+}

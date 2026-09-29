@@ -1,0 +1,28 @@
+{
+  "kind": "invoice",
+  "payee": "Midwest Power and Light",
+  "invoiceNumber": "604281",
+  "invoiceDate": "2026-08-27",
+  "totalAmount": "71.10",
+  "serviceAddressLines": [
+    "230 Ferris Ave, Hammond IN"
+  ],
+  "parcelRefs": [],
+  "utilityAccountNumber": "5520-044",
+  "lineItems": [
+    {
+      "description": "Electric service, Jul 20 to Aug 19",
+      "address": "230 Ferris Ave, Hammond IN",
+      "amount": "71.10",
+      "chargeType": "electric"
+    }
+  ],
+  "confidence": {
+    "payee": 0.95,
+    "invoiceNumber": 0.93,
+    "invoiceDate": 0.99,
+    "totalAmount": 0.95,
+    "address": 0.95
+  },
+  "notesHint": "Electric service"
+}

@@ -1,0 +1,32 @@
+{
+  "kind": "invoice",
+  "payee": "Lakefront Office Supply",
+  "invoiceNumber": "30908",
+  "invoiceDate": "2026-08-27",
+  "totalAmount": "89.00",
+  "serviceAddressLines": [],
+  "parcelRefs": [],
+  "utilityAccountNumber": null,
+  "lineItems": [
+    {
+      "description": "Printer paper, 4 cases",
+      "address": null,
+      "amount": "62.00",
+      "chargeType": null
+    },
+    {
+      "description": "Address labels",
+      "address": null,
+      "amount": "27.00",
+      "chargeType": null
+    }
+  ],
+  "confidence": {
+    "payee": 0.97,
+    "invoiceNumber": 0.92,
+    "invoiceDate": 0.96,
+    "totalAmount": 0.92,
+    "address": 0.96
+  },
+  "notesHint": "Office supplies"
+}

@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Brightline Landscaping",
+  "property_hint": "CK",
+  "unit_hint": null,
+  "service_short": "monthly grounds maintenance",
+  "service_from": "2026-08-27",
+  "service_to": "2026-08-30",
+  "invoice_number": "BL-73826",
+  "invoice_date": "2026-08-31",
+  "amount": 4618.98,
+  "due_date": "2026-09-30",
+  "account_number": null,
+  "meter_number": null
+}

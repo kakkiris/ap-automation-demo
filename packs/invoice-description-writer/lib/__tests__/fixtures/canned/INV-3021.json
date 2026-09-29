@@ -1,0 +1,14 @@
+{
+  "vendor_name": null,
+  "property_hint": "BW",
+  "unit_hint": "BW-11",
+  "service_short": null,
+  "service_from": "2026-08-25",
+  "service_to": "2026-08-25",
+  "invoice_number": "PP-2231",
+  "invoice_date": "2026-08-28",
+  "amount": null,
+  "due_date": "2026-09-27",
+  "account_number": null,
+  "meter_number": null
+}

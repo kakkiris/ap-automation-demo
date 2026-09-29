@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Keys Gate Fencing",
+  "property_hint": "PR",
+  "unit_hint": "PR-38",
+  "service_short": "chain link fence repair",
+  "service_from": "2026-08-19",
+  "service_to": "2026-08-24",
+  "invoice_number": "KG-66311",
+  "invoice_date": "2026-08-26",
+  "amount": 1110.18,
+  "due_date": "2026-09-25",
+  "account_number": null,
+  "meter_number": null
+}

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1240" viewBox="0 0 900 1240">
+  <defs>
+    <radialGradient id="vignette" cx="50%" cy="44%" r="74%">
+      <stop offset="58%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.5"/>
+    </radialGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f7f2e6"/>
+      <stop offset="100%" stop-color="#e9e2d0"/>
+    </linearGradient>
+    <filter id="grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="7" stitchTiles="stitch"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.12 0"/>
+    </filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="0.35"/></filter>
+  </defs>
+  <rect width="900" height="1240" fill="#3b3731"/>
+  <rect x="60" y="1130" width="780" height="70" fill="#2d2a25" opacity="0.6"/>
+  <g transform="translate(450 620) rotate(-2.6) translate(-450 -620)">
+    <rect x="122" y="112" width="668" height="1030" fill="#000" opacity="0.28" transform="translate(10 12)"/>
+    <rect x="118" y="108" width="668" height="1030" fill="url(#paper)"/>
+    <line x1="196" y1="108" x2="196" y2="1138" stroke="#e0a1a1" stroke-width="1.6"/>
+    <line x1="128" y1="200" x2="772" y2="200" stroke="#b6c4d9" stroke-width="1.4"/>
+    <line x1="128" y1="246" x2="772" y2="246" stroke="#b6c4d9" stroke-width="1.4"/>
+    <line x1="128" y1="292" x2="772" y2="292" stroke="#b6c4d9" stroke-width="1.4"/>
+    <line x1="128" y1="338" x2="772" y2="338" stroke="#b6c4d9" stroke-width="1.4"/>
+    <line x1="128" y1="384" x2="772" y2="384" stroke="#b6c4d9" stroke-width="1.4"/>
+    <line x1="128" y1="430" x2="772" y2="430" stroke="#b6c4d9" stroke-width="1.4"/>
+    <line x1="128" y1="476" x2="772" y2="476" stroke="#b6c4d9" stroke-width="1.4"/>
+    <line x1="128" y1="522" x2="772" y2="522" stroke="#b6c4d9" stroke-width="1.4"/>
+    <line x1="128" y1="568" x2="772" y2="568" stroke="#b6c4d9" stroke-width="1.4"/>
+    <line x1="128" y1="614" x2="772" y2="614" stroke="#b6c4d9" stroke-width="1.4"/>
+    <line x1="128" y1="660" x2="772" y2="660" stroke="#b6c4d9" stroke-width="1.4"/>
+    <line x1="128" y1="706" x2="772" y2="706" stroke="#b6c4d9" stroke-width="1.4"/>
+    <line x1="128" y1="752" x2="772" y2="752" stroke="#b6c4d9" stroke-width="1.4"/>
+    <line x1="128" y1="798" x2="772" y2="798" stroke="#b6c4d9" stroke-width="1.4"/>
+    <line x1="128" y1="844" x2="772" y2="844" stroke="#b6c4d9" stroke-width="1.4"/>
+    <line x1="128" y1="890" x2="772" y2="890" stroke="#b6c4d9" stroke-width="1.4"/>
+    <line x1="128" y1="936" x2="772" y2="936" stroke="#b6c4d9" stroke-width="1.4"/>
+    <line x1="128" y1="982" x2="772" y2="982" stroke="#b6c4d9" stroke-width="1.4"/>
+    <line x1="128" y1="1028" x2="772" y2="1028" stroke="#b6c4d9" stroke-width="1.4"/>
+    <line x1="128" y1="1074" x2="772" y2="1074" stroke="#b6c4d9" stroke-width="1.4"/>
+    <g filter="url(#soft)">
+      <text x="214" y="236" font-family="'Bradley Hand', 'Segoe Script', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="36" font-weight="bold" fill="#1d2b6b" transform="rotate(0.66 214 236)">Greenway Lawn Care</text>
+      <text x="214" y="282" font-family="'Bradley Hand', 'Segoe Script', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="26" font-weight="normal" fill="#1d2b6b" transform="rotate(-0.49 214 282)">Aug lawn service, monthly</text>
+      <text x="214" y="328" font-family="'Bradley Hand', 'Segoe Script', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="26" font-weight="normal" fill="#1d2b6b" transform="rotate(-0.62 214 328)">Inv 1181   Aug 25, 2026</text>
+      <text x="214" y="388" font-family="'Bradley Hand', 'Segoe Script', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="27" font-weight="normal" fill="#1d2b6b" transform="rotate(0.15 214 388)">702 Palmer Ln, Marion IN</text>
+      <text x="214" y="434" font-family="'Bradley Hand', 'Segoe Script', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="27" font-weight="normal" fill="#1d2b6b" transform="rotate(-0.31 214 434)">704 Palmer Ln, Marion IN</text>
+      <text x="214" y="480" font-family="'Bradley Hand', 'Segoe Script', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="27" font-weight="normal" fill="#1d2b6b" transform="rotate(-0.40 214 480)">706 Palmer Ln, Marion IN</text>
+      <text x="214" y="526" font-family="'Bradley Hand', 'Segoe Script', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="27" font-weight="normal" fill="#1d2b6b" transform="rotate(0.62 214 526)">708 Palmer Ln, Marion IN</text>
+      <text x="214" y="572" font-family="'Bradley Hand', 'Segoe Script', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="27" font-weight="normal" fill="#1d2b6b" transform="rotate(0.04 214 572)">710 Palmer Ln, Marion IN</text>
+      <text x="214" y="618" font-family="'Bradley Hand', 'Segoe Script', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="27" font-weight="normal" fill="#1d2b6b" transform="rotate(0.72 214 618)">712 Palmer Ln, Marion IN</text>
+      <text x="214" y="664" font-family="'Bradley Hand', 'Segoe Script', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="27" font-weight="normal" fill="#1d2b6b" transform="rotate(-0.65 214 664)">1 Orchard Ct, Marion IN</text>
+      <text x="214" y="710" font-family="'Bradley Hand', 'Segoe Script', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="27" font-weight="normal" fill="#1d2b6b" transform="rotate(0.11 214 710)">3 Orchard Ct, Marion IN</text>
+      <text x="214" y="756" font-family="'Bradley Hand', 'Segoe Script', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="27" font-weight="normal" fill="#1d2b6b" transform="rotate(0.54 214 756)">5 Orchard Ct, Marion IN</text>
+      <text x="214" y="826" font-family="'Bradley Hand', 'Segoe Script', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="32" font-weight="bold" fill="#1d2b6b" transform="rotate(-0.09 214 826)">Total  450.00</text>
+      <text x="214" y="876" font-family="'Bradley Hand', 'Segoe Script', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="22" font-weight="normal" fill="#4a5580" transform="rotate(0.29 214 876)">Bill to Lakeshore Lien Partners</text>
+    </g>
+  </g>
+  <rect width="900" height="1240" fill="url(#vignette)"/>
+  <rect width="900" height="1240" filter="url(#grain)"/>
+</svg>

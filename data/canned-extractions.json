@@ -1,0 +1,4727 @@
+{
+ "BILL-100001": {
+  "provider": "Fairshore Power",
+  "account_number": "9939400065",
+  "service_address": "2728 Coquina Flex Court Unit 07",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 54.3,
+  "meter_as_printed": "M910035653"
+ },
+ "BILL-100002": {
+  "provider": "Fairshore Power",
+  "account_number": "9934178289",
+  "service_address": "2728 Coquina Flex Court Unit 26",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 63.88,
+  "meter_as_printed": "M923822936"
+ },
+ "BILL-100003": {
+  "provider": "Fairshore Power",
+  "account_number": "9993352864",
+  "service_address": "2728 Coquina Flex Court Unit 31",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 58.29,
+  "meter_as_printed": "M916636956"
+ },
+ "BILL-100004": {
+  "provider": "Fairshore Power",
+  "account_number": "9995779424",
+  "service_address": "2728 Coquina Flex Court Unit 41",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 123.19,
+  "meter_as_printed": "M962247867"
+ },
+ "BILL-100005": {
+  "provider": "Fairshore Power",
+  "account_number": "9968364321",
+  "service_address": "2728 Coquina Flex Court",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 167.27,
+  "meter_as_printed": "M911720587"
+ },
+ "BILL-100006": {
+  "provider": "Fairshore Power",
+  "account_number": "9981552565",
+  "service_address": "2728 Coquina Flex Court",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 320.98,
+  "meter_as_printed": "M935305500"
+ },
+ "BILL-100007": {
+  "provider": "City of Westhaven",
+  "account_number": "9910818384",
+  "service_address": "2728 Coquina Flex Court",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 276.17,
+  "meter_as_printed": "M914676819"
+ },
+ "BILL-100008": {
+  "provider": "Fairshore Power",
+  "account_number": "9989723414",
+  "service_address": "5292 Sandpiper Industrial Boulevard Unit 01",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 134.01,
+  "meter_as_printed": "M910871388"
+ },
+ "BILL-100009": {
+  "provider": "Fairshore Power",
+  "account_number": "9936244299",
+  "service_address": "5292 Sandpiper Industrial Boulevard Unit 05",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 133.33,
+  "meter_as_printed": "M955741655"
+ },
+ "BILL-100010": {
+  "provider": "Fairshore Power",
+  "account_number": "9936981109",
+  "service_address": "5292 Sandpiper Industrial Boulevard Unit 06",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 127.3,
+  "meter_as_printed": "M942207933"
+ },
+ "BILL-100011": {
+  "provider": "Fairshore Power",
+  "account_number": "9953470110",
+  "service_address": "5292 Sandpiper Industrial Boulevard Unit 09",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 126.19,
+  "meter_as_printed": "M950352484"
+ },
+ "BILL-100012": {
+  "provider": "Fairshore Power",
+  "account_number": "9969383476",
+  "service_address": "5292 Sandpiper Industrial Boulevard Unit 13",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 79.91,
+  "meter_as_printed": "M939301928"
+ },
+ "BILL-100013": {
+  "provider": "Fairshore Power",
+  "account_number": "9992372536",
+  "service_address": "5292 Sandpiper Industrial Boulevard Unit 16",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 69.07,
+  "meter_as_printed": "M992503395"
+ },
+ "BILL-100014": {
+  "provider": "Fairshore Power",
+  "account_number": "9926319905",
+  "service_address": "5292 Sandpiper Industrial Boulevard",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 247.97,
+  "meter_as_printed": "M987099622"
+ },
+ "BILL-100015": {
+  "provider": "Fairshore Power",
+  "account_number": "9954264118",
+  "service_address": "5292 Sandpiper Industrial Boulevard",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 382.56,
+  "meter_as_printed": "M974198550"
+ },
+ "BILL-101268": {
+  "provider": "Fairshore Power",
+  "account_number": "9957019605",
+  "service_address": "address not printed",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 488.3,
+  "meter_as_printed": null
+ },
+ "BILL-100017": {
+  "provider": "Seagrass County Utilities",
+  "account_number": "9914148253",
+  "service_address": "5292 Sandpiper Industrial Boulevard",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 470.86,
+  "meter_as_printed": "M910107219"
+ },
+ "BILL-100018": {
+  "provider": "Seagrass County Utilities",
+  "account_number": "9912898917",
+  "service_address": "5292 Sandpiper Industrial Boulevard Unit 10",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 97.69,
+  "meter_as_printed": "M987350534"
+ },
+ "BILL-100019": {
+  "provider": "Fairshore Power",
+  "account_number": "9967461800",
+  "service_address": "5014 Tidewater Trade Way Unit 01",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 113.73,
+  "meter_as_printed": "M997464123"
+ },
+ "BILL-100020": {
+  "provider": "Fairshore Power",
+  "account_number": "9914977370",
+  "service_address": "5014 Tidewater Trade Way Unit 02",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 80.26,
+  "meter_as_printed": "M983932592"
+ },
+ "BILL-100021": {
+  "provider": "Fairshore Power",
+  "account_number": "9912118664",
+  "service_address": "5014 Tidewater Trade Way Unit 03",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 84.57,
+  "meter_as_printed": "M963203734"
+ },
+ "BILL-100022": {
+  "provider": "Fairshore Power",
+  "account_number": "9986161232",
+  "service_address": "5014 Tidewater Trade Way Unit 05",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 112.14,
+  "meter_as_printed": "M977131891"
+ },
+ "BILL-100023": {
+  "provider": "Fairshore Power",
+  "account_number": "9917256230",
+  "service_address": "5014 Tidewater Trade Way Unit 27",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 109.92,
+  "meter_as_printed": "M981338313"
+ },
+ "BILL-100024": {
+  "provider": "Fairshore Power",
+  "account_number": "9918197211",
+  "service_address": "5014 Tidewater Trade Way Unit 30",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 135.31,
+  "meter_as_printed": "M928915645"
+ },
+ "BILL-100025": {
+  "provider": "Fairshore Power",
+  "account_number": "9937465515",
+  "service_address": "address not printed",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 140.01,
+  "meter_as_printed": null
+ },
+ "BILL-100026": {
+  "provider": "Fairshore Power",
+  "account_number": "9957820809",
+  "service_address": "5014 Tidewater Trade Way Unit 43",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 64.24,
+  "meter_as_printed": "M942320079"
+ },
+ "BILL-100027": {
+  "provider": "Fairshore Power",
+  "account_number": "9928763861",
+  "service_address": "5014 Tidewater Trade Way Unit 51",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 123.77,
+  "meter_as_printed": "M936623162"
+ },
+ "BILL-100028": {
+  "provider": "Fairshore Power",
+  "account_number": "9952413431",
+  "service_address": "5014 Tidewater Trade Way Unit 56",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 137.2,
+  "meter_as_printed": "M935378143"
+ },
+ "BILL-100029": {
+  "provider": "Fairshore Power",
+  "account_number": "9964160176",
+  "service_address": "5014 Tidewater Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 191.32,
+  "meter_as_printed": "M915137302"
+ },
+ "BILL-100030": {
+  "provider": "City of Marlow",
+  "account_number": "9987810230",
+  "service_address": "5014 Tidewater Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 379.56,
+  "meter_as_printed": "M964540409"
+ },
+ "BILL-100031": {
+  "provider": "City of Marlow",
+  "account_number": "9950398849",
+  "service_address": "5014 Tidewater Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 408.15,
+  "meter_as_printed": "M952119272"
+ },
+ "BILL-100032": {
+  "provider": "City of Marlow",
+  "account_number": "9996799822",
+  "service_address": "5014 Tidewater Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 324.49,
+  "meter_as_printed": "M924888323"
+ },
+ "BILL-100033": {
+  "provider": "Fairshore Power",
+  "account_number": "9969667306",
+  "service_address": "8419 Marlstone Commerce Drive Unit 01",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 43.16,
+  "meter_as_printed": "M986136280"
+ },
+ "BILL-100034": {
+  "provider": "Fairshore Power",
+  "account_number": "9961917086",
+  "service_address": "8419 Marlstone Commerce Drive Unit 04",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 56.49,
+  "meter_as_printed": "M932986027"
+ },
+ "BILL-100035": {
+  "provider": "Fairshore Power",
+  "account_number": "9945858201",
+  "service_address": "8419 Marlstone Commerce Drive Unit 09",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 54.17,
+  "meter_as_printed": "M955137805"
+ },
+ "BILL-100036": {
+  "provider": "Fairshore Power",
+  "account_number": "9964394892",
+  "service_address": "8419 Marlstone Commerce Drive Unit 12",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 54.66,
+  "meter_as_printed": "M957591900"
+ },
+ "BILL-100037": {
+  "provider": "Fairshore Power",
+  "account_number": "9951742854",
+  "service_address": "8419 Marlstone Commerce Drive Unit 20",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 101.06,
+  "meter_as_printed": "M965537017"
+ },
+ "BILL-100038": {
+  "provider": "Fairshore Power",
+  "account_number": "9994830877",
+  "service_address": "8419 Marlstone Commerce Drive Unit 28",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 85.06,
+  "meter_as_printed": "M926150649"
+ },
+ "BILL-100039": {
+  "provider": "Fairshore Power",
+  "account_number": "9947382419",
+  "service_address": "8419 Marlstone Commerce Drive Unit 30",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 105.06,
+  "meter_as_printed": "M942926431"
+ },
+ "BILL-100040": {
+  "provider": "Fairshore Power",
+  "account_number": "9965747888",
+  "service_address": "8419 Marlstone Commerce Drive Unit 35",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 62.2,
+  "meter_as_printed": "M980496069"
+ },
+ "BILL-100041": {
+  "provider": "Fairshore Power",
+  "account_number": "9988013608",
+  "service_address": "8419 Marlstone Commerce Drive",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 487.41,
+  "meter_as_printed": "M952445817"
+ },
+ "BILL-100042": {
+  "provider": "Fairshore Power",
+  "account_number": "9941614885",
+  "service_address": "8419 Marlstone Commerce Drive",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 379.85,
+  "meter_as_printed": "M983236922"
+ },
+ "BILL-100043": {
+  "provider": "City of Westhaven",
+  "account_number": "9975870890",
+  "service_address": "8419 Marlstone Commerce Drive",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 125.68,
+  "meter_as_printed": "M959204454"
+ },
+ "BILL-100044": {
+  "provider": "City of Westhaven",
+  "account_number": "9943209976",
+  "service_address": "8419 Marlstone Commerce Drive",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 102.8,
+  "meter_as_printed": "M967707246"
+ },
+ "BILL-100045": {
+  "provider": "City of Westhaven",
+  "account_number": "9977692529",
+  "service_address": "8419 Marlstone Commerce Drive",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 435.79,
+  "meter_as_printed": "M956953544"
+ },
+ "BILL-100046": {
+  "provider": "Fairshore Power",
+  "account_number": "9926160846",
+  "service_address": "address not printed",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 62.98,
+  "meter_as_printed": null
+ },
+ "BILL-100047": {
+  "provider": "Fairshore Power",
+  "account_number": "9985451722",
+  "service_address": "6048 Palmgrove Industrial Boulevard Unit 13",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 95.37,
+  "meter_as_printed": "M934034347"
+ },
+ "BILL-100048": {
+  "provider": "Fairshore Power",
+  "account_number": "9918402929",
+  "service_address": "6048 Palmgrove Industrial Boulevard Unit 16",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 57.48,
+  "meter_as_printed": "M983519434"
+ },
+ "BILL-100049": {
+  "provider": "Fairshore Power",
+  "account_number": "9965085666",
+  "service_address": "6048 Palmgrove Industrial Boulevard Unit 28",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 96.49,
+  "meter_as_printed": "M948837752"
+ },
+ "BILL-100050": {
+  "provider": "Fairshore Power",
+  "account_number": "9911150968",
+  "service_address": "6048 Palmgrove Industrial Boulevard",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 567.15,
+  "meter_as_printed": "M960411650"
+ },
+ "BILL-100051": {
+  "provider": "Fairshore Power",
+  "account_number": "9963098181",
+  "service_address": "6048 Palmgrove Industrial Boulevard",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 118.51,
+  "meter_as_printed": "M983328154"
+ },
+ "BILL-100052": {
+  "provider": "City of Deerpath Beach",
+  "account_number": "9918566739",
+  "service_address": "6048 Palmgrove Industrial Boulevard",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 400.41,
+  "meter_as_printed": "M915813004"
+ },
+ "BILL-100053": {
+  "provider": "City of Deerpath Beach",
+  "account_number": "9966490986",
+  "service_address": "6048 Palmgrove Industrial Boulevard",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 444.58,
+  "meter_as_printed": "M920315298"
+ },
+ "BILL-100054": {
+  "provider": "Fairshore Power",
+  "account_number": "9980174597",
+  "service_address": "2594 Seagrape Trade Way Unit 07",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 105.68,
+  "meter_as_printed": "M998605774"
+ },
+ "BILL-100055": {
+  "provider": "Fairshore Power",
+  "account_number": "9964564905",
+  "service_address": "2594 Seagrape Trade Way Unit 18",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 115.84,
+  "meter_as_printed": "M925299412"
+ },
+ "BILL-100056": {
+  "provider": "Fairshore Power",
+  "account_number": "9988102881",
+  "service_address": "2594 Seagrape Trade Way Unit 19",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 47.49,
+  "meter_as_printed": "M995768117"
+ },
+ "BILL-100057": {
+  "provider": "Fairshore Power",
+  "account_number": "9935175813",
+  "service_address": "address not printed",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 122.65,
+  "meter_as_printed": null
+ },
+ "BILL-100058": {
+  "provider": "Fairshore Power",
+  "account_number": "9955839920",
+  "service_address": "2594 Seagrape Trade Way Unit 25",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 61.59,
+  "meter_as_printed": "M916707130"
+ },
+ "BILL-100059": {
+  "provider": "Fairshore Power",
+  "account_number": "9999704451",
+  "service_address": "2594 Seagrape Trade Way Unit 34",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 74.68,
+  "meter_as_printed": "M953332404"
+ },
+ "BILL-100060": {
+  "provider": "Fairshore Power",
+  "account_number": "9915842140",
+  "service_address": "address not printed",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 130.68,
+  "meter_as_printed": null
+ },
+ "BILL-100061": {
+  "provider": "Fairshore Power",
+  "account_number": "9930084567",
+  "service_address": "address not printed",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 78.05,
+  "meter_as_printed": null
+ },
+ "BILL-100062": {
+  "provider": "Fairshore Power",
+  "account_number": "9969074111",
+  "service_address": "2594 Seagrape Trade Way Unit 45",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 121.32,
+  "meter_as_printed": "M948513129"
+ },
+ "BILL-100063": {
+  "provider": "Fairshore Power",
+  "account_number": "9982962109",
+  "service_address": "2594 Seagrape Trade Way Unit 54",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 128.72,
+  "meter_as_printed": "M973277318"
+ },
+ "BILL-100064": {
+  "provider": "Fairshore Power",
+  "account_number": "9964421217",
+  "service_address": "2594 Seagrape Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 301.04,
+  "meter_as_printed": "M953001179"
+ },
+ "BILL-100065": {
+  "provider": "Fairshore Power",
+  "account_number": "9919116022",
+  "service_address": "2594 Seagrape Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 355.59,
+  "meter_as_printed": "M965736085"
+ },
+ "BILL-100066": {
+  "provider": "Fairshore Power",
+  "account_number": "9960145426",
+  "service_address": "2594 Seagrape Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 164.56,
+  "meter_as_printed": "M920836580"
+ },
+ "BILL-100067": {
+  "provider": "City of Marlow",
+  "account_number": "9916248576",
+  "service_address": "2594 Seagrape Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 460.92,
+  "meter_as_printed": "M930730308"
+ },
+ "BILL-100068": {
+  "provider": "City of Marlow",
+  "account_number": "9922289012",
+  "service_address": "2594 Seagrape Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 333.38,
+  "meter_as_printed": "M964759503"
+ },
+ "BILL-100069": {
+  "provider": "City of Marlow",
+  "account_number": "9915494093",
+  "service_address": "2594 Seagrape Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 416.09,
+  "meter_as_printed": "M955199926"
+ },
+ "BILL-100070": {
+  "provider": "Fairshore Power",
+  "account_number": "9954857532",
+  "service_address": "8084 Osprey Trade Way Unit 04",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 138.47,
+  "meter_as_printed": "M934149927"
+ },
+ "BILL-100071": {
+  "provider": "Fairshore Power",
+  "account_number": "9918496850",
+  "service_address": "8084 Osprey Trade Way Unit 05",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 109.69,
+  "meter_as_printed": "M911825888"
+ },
+ "BILL-100072": {
+  "provider": "Fairshore Power",
+  "account_number": "9985147908",
+  "service_address": "8084 Osprey Trade Way Unit 13",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 80.79,
+  "meter_as_printed": "M964957260"
+ },
+ "BILL-100073": {
+  "provider": "Fairshore Power",
+  "account_number": "9922597738",
+  "service_address": "8084 Osprey Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 152.68,
+  "meter_as_printed": "M972099319"
+ },
+ "BILL-100074": {
+  "provider": "Fairshore Power",
+  "account_number": "9995561118",
+  "service_address": "9321 Kestrel Flex Court Unit 09",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 122.96,
+  "meter_as_printed": "M952197845"
+ },
+ "BILL-100075": {
+  "provider": "Fairshore Power",
+  "account_number": "9928377818",
+  "service_address": "9321 Kestrel Flex Court Unit 15",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 101.56,
+  "meter_as_printed": "M926592727"
+ },
+ "BILL-100076": {
+  "provider": "Fairshore Power",
+  "account_number": "9913843603",
+  "service_address": "9321 Kestrel Flex Court Unit 29",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 65.42,
+  "meter_as_printed": "M936941354"
+ },
+ "BILL-100077": {
+  "provider": "Fairshore Power",
+  "account_number": "9910085294",
+  "service_address": "9321 Kestrel Flex Court Unit 31",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 80.07,
+  "meter_as_printed": "M972610177"
+ },
+ "BILL-100078": {
+  "provider": "Fairshore Power",
+  "account_number": "9937978109",
+  "service_address": "9321 Kestrel Flex Court Unit 40",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 124.74,
+  "meter_as_printed": "M952816006"
+ },
+ "BILL-100079": {
+  "provider": "Fairshore Power",
+  "account_number": "9944641833",
+  "service_address": "9321 Kestrel Flex Court",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 342.68,
+  "meter_as_printed": "M988920219"
+ },
+ "BILL-100080": {
+  "provider": "Fairshore Power",
+  "account_number": "9973683748",
+  "service_address": "9321 Kestrel Flex Court",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 431.49,
+  "meter_as_printed": "M960882865"
+ },
+ "BILL-100081": {
+  "provider": "Town of Maple Park",
+  "account_number": "9952154685",
+  "service_address": "9321 Kestrel Flex Court",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 304.05,
+  "meter_as_printed": "M919760373"
+ },
+ "BILL-100082": {
+  "provider": "Town of Maple Park",
+  "account_number": "9963231813",
+  "service_address": "9321 Kestrel Flex Court",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 376.77,
+  "meter_as_printed": "M963080501"
+ },
+ "BILL-100083": {
+  "provider": "Fairshore Power",
+  "account_number": "9975742010",
+  "service_address": "4326 Heron Trade Way Unit 01",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 90.48,
+  "meter_as_printed": "M962766844"
+ },
+ "BILL-100084": {
+  "provider": "Fairshore Power",
+  "account_number": "9948363950",
+  "service_address": "4326 Heron Trade Way Unit 05",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 50.12,
+  "meter_as_printed": "M918061553"
+ },
+ "BILL-100085": {
+  "provider": "Fairshore Power",
+  "account_number": "9934312090",
+  "service_address": "4326 Heron Trade Way Unit 07",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 48.87,
+  "meter_as_printed": "M978186807"
+ },
+ "BILL-100086": {
+  "provider": "Fairshore Power",
+  "account_number": "9921883419",
+  "service_address": "4326 Heron Trade Way Unit 22",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 79.36,
+  "meter_as_printed": "M973596928"
+ },
+ "BILL-100087": {
+  "provider": "Fairshore Power",
+  "account_number": "9939246349",
+  "service_address": "4326 Heron Trade Way Unit 23",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 87.64,
+  "meter_as_printed": "M930471027"
+ },
+ "BILL-100088": {
+  "provider": "Fairshore Power",
+  "account_number": "9952847210",
+  "service_address": "4326 Heron Trade Way Unit 25",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 75.36,
+  "meter_as_printed": "M954863290"
+ },
+ "BILL-100089": {
+  "provider": "Fairshore Power",
+  "account_number": "9917480434",
+  "service_address": "4326 Heron Trade Way Unit 37",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 76.99,
+  "meter_as_printed": "M999305346"
+ },
+ "BILL-100090": {
+  "provider": "Fairshore Power",
+  "account_number": "9951309216",
+  "service_address": "4326 Heron Trade Way Unit 47",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 82.82,
+  "meter_as_printed": "M981881149"
+ },
+ "BILL-100091": {
+  "provider": "Fairshore Power",
+  "account_number": "9944473306",
+  "service_address": "4326 Heron Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 365.28,
+  "meter_as_printed": "M926847335"
+ },
+ "BILL-100092": {
+  "provider": "Fairshore Power",
+  "account_number": "9948549606",
+  "service_address": "4326 Heron Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 340.23,
+  "meter_as_printed": "M964437411"
+ },
+ "BILL-100093": {
+  "provider": "Fairshore Power",
+  "account_number": "9948166290",
+  "service_address": "4326 Heron Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 492.23,
+  "meter_as_printed": "M937208014"
+ },
+ "BILL-100094": {
+  "provider": "City of Marlow",
+  "account_number": "9920644221",
+  "service_address": "4326 Heron Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 335.61,
+  "meter_as_printed": "M957329960"
+ },
+ "BILL-100095": {
+  "provider": "City of Marlow",
+  "account_number": "9917360114",
+  "service_address": "4326 Heron Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 298.26,
+  "meter_as_printed": "M990674731"
+ },
+ "BILL-100096": {
+  "provider": "City of Marlow",
+  "account_number": "9958519383",
+  "service_address": "4326 Heron Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 376.46,
+  "meter_as_printed": "M930785390"
+ },
+ "BILL-100097": {
+  "provider": "Fairshore Power",
+  "account_number": "9960510112",
+  "service_address": "374 Saltmarsh Logistics Lane Unit 03",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 115.01,
+  "meter_as_printed": "M913328010"
+ },
+ "BILL-100098": {
+  "provider": "Fairshore Power",
+  "account_number": "9910881894",
+  "service_address": "374 Saltmarsh Logistics Lane Unit 20",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 48.58,
+  "meter_as_printed": "M946946202"
+ },
+ "BILL-100099": {
+  "provider": "Fairshore Power",
+  "account_number": "9962528538",
+  "service_address": "374 Saltmarsh Logistics Lane Unit 29",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 85.61,
+  "meter_as_printed": "M950366947"
+ },
+ "BILL-100100": {
+  "provider": "Fairshore Power",
+  "account_number": "9938320473",
+  "service_address": "374 Saltmarsh Logistics Lane",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 266.31,
+  "meter_as_printed": "M946720527"
+ },
+ "BILL-100101": {
+  "provider": "Fairshore Power",
+  "account_number": "9923958742",
+  "service_address": "2618 Harborline Industrial Boulevard Unit 23",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 106.36,
+  "meter_as_printed": "M976956735"
+ },
+ "BILL-100102": {
+  "provider": "Fairshore Power",
+  "account_number": "9912912005",
+  "service_address": "2618 Harborline Industrial Boulevard Unit 25",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 110.88,
+  "meter_as_printed": "M917843222"
+ },
+ "BILL-100103": {
+  "provider": "Fairshore Power",
+  "account_number": "9974696889",
+  "service_address": "2618 Harborline Industrial Boulevard Unit 32",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 96.99,
+  "meter_as_printed": "M954810701"
+ },
+ "BILL-100104": {
+  "provider": "Fairshore Power",
+  "account_number": "9972858454",
+  "service_address": "2618 Harborline Industrial Boulevard",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 606.45,
+  "meter_as_printed": "M980427634"
+ },
+ "BILL-100105": {
+  "provider": "Fairshore Power",
+  "account_number": "9983755043",
+  "service_address": "2618 Harborline Industrial Boulevard",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 252.6,
+  "meter_as_printed": "M977108620"
+ },
+ "BILL-100106": {
+  "provider": "City of Larkhill",
+  "account_number": "9931898797",
+  "service_address": "2618 Harborline Industrial Boulevard",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 177.88,
+  "meter_as_printed": "M967216295"
+ },
+ "BILL-100107": {
+  "provider": "City of Larkhill",
+  "account_number": "9931058380",
+  "service_address": "2618 Harborline Industrial Boulevard",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 283.66,
+  "meter_as_printed": "M929173470"
+ },
+ "BILL-100108": {
+  "provider": "City of Larkhill",
+  "account_number": "9923043965",
+  "service_address": "2618 Harborline Industrial Boulevard",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 457.81,
+  "meter_as_printed": "M964209451"
+ },
+ "BILL-100109": {
+  "provider": "Fairshore Power",
+  "account_number": "9958591827",
+  "service_address": "6673 Cypress Bend Business Parkway Unit 06",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 139.9,
+  "meter_as_printed": "M927464385"
+ },
+ "BILL-100110": {
+  "provider": "Fairshore Power",
+  "account_number": "9933440558",
+  "service_address": "6673 Cypress Bend Business Parkway Unit 15",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 98.46,
+  "meter_as_printed": "M966608385"
+ },
+ "BILL-100111": {
+  "provider": "Fairshore Power",
+  "account_number": "9967335878",
+  "service_address": "6673 Cypress Bend Business Parkway Unit 18",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 67.77,
+  "meter_as_printed": "M946906860"
+ },
+ "BILL-100112": {
+  "provider": "Fairshore Power",
+  "account_number": "9943266131",
+  "service_address": "6673 Cypress Bend Business Parkway Unit 23",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 120.41,
+  "meter_as_printed": "M987263524"
+ },
+ "BILL-100113": {
+  "provider": "Fairshore Power",
+  "account_number": "9981765982",
+  "service_address": "6673 Cypress Bend Business Parkway Unit 24",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 72.13,
+  "meter_as_printed": "M912639123"
+ },
+ "BILL-100114": {
+  "provider": "Fairshore Power",
+  "account_number": "9988434960",
+  "service_address": "6673 Cypress Bend Business Parkway",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 441.88,
+  "meter_as_printed": "M962685147"
+ },
+ "BILL-100115": {
+  "provider": "Seagrass County Utilities",
+  "account_number": "9941541472",
+  "service_address": "6673 Cypress Bend Business Parkway",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 490.05,
+  "meter_as_printed": "M941293829"
+ },
+ "BILL-100116": {
+  "provider": "Fairshore Power",
+  "account_number": "9952934710",
+  "service_address": "3701 Driftwood Industrial Boulevard Unit 12",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 102.36,
+  "meter_as_printed": "M962728495"
+ },
+ "BILL-100117": {
+  "provider": "Fairshore Power",
+  "account_number": "9942583957",
+  "service_address": "3701 Driftwood Industrial Boulevard Unit 20",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 97.09,
+  "meter_as_printed": "M912879468"
+ },
+ "BILL-100118": {
+  "provider": "Fairshore Power",
+  "account_number": "9972918243",
+  "service_address": "3701 Driftwood Industrial Boulevard Unit 28",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 117.87,
+  "meter_as_printed": "M964898881"
+ },
+ "BILL-100119": {
+  "provider": "Fairshore Power",
+  "account_number": "9946721488",
+  "service_address": "3701 Driftwood Industrial Boulevard Unit 29",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 54.7,
+  "meter_as_printed": "M999730538"
+ },
+ "BILL-100120": {
+  "provider": "Fairshore Power",
+  "account_number": "9968143411",
+  "service_address": "3701 Driftwood Industrial Boulevard Unit 44",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 51.62,
+  "meter_as_printed": "M985313449"
+ },
+ "BILL-100121": {
+  "provider": "Fairshore Power",
+  "account_number": "9979521103",
+  "service_address": "3701 Driftwood Industrial Boulevard Unit 46",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 86.23,
+  "meter_as_printed": "M965410225"
+ },
+ "BILL-100122": {
+  "provider": "Fairshore Power",
+  "account_number": "9951958023",
+  "service_address": "3701 Driftwood Industrial Boulevard Unit 54",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 125.4,
+  "meter_as_printed": "M959464368"
+ },
+ "BILL-100123": {
+  "provider": "Fairshore Power",
+  "account_number": "9926849673",
+  "service_address": "3701 Driftwood Industrial Boulevard",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 295.1,
+  "meter_as_printed": "M937217986"
+ },
+ "BILL-100124": {
+  "provider": "Fairshore Power",
+  "account_number": "9996286489",
+  "service_address": "3701 Driftwood Industrial Boulevard",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 145.29,
+  "meter_as_printed": "M993442197"
+ },
+ "BILL-100125": {
+  "provider": "Fairshore Power",
+  "account_number": "9943739703",
+  "service_address": "3701 Driftwood Industrial Boulevard",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 339.92,
+  "meter_as_printed": "M911276716"
+ },
+ "BILL-100126": {
+  "provider": "Fairshore Power",
+  "account_number": "9940255086",
+  "service_address": "802 Lantern Flex Court Unit 15",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 113.54,
+  "meter_as_printed": "M949905210"
+ },
+ "BILL-100127": {
+  "provider": "Fairshore Power",
+  "account_number": "9925785637",
+  "service_address": "802 Lantern Flex Court Unit 16",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 73.49,
+  "meter_as_printed": "M922786244"
+ },
+ "BILL-100128": {
+  "provider": "Fairshore Power",
+  "account_number": "9933461711",
+  "service_address": "address not printed",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 84.65,
+  "meter_as_printed": null
+ },
+ "BILL-100129": {
+  "provider": "Fairshore Power",
+  "account_number": "9966225073",
+  "service_address": "802 Lantern Flex Court Unit 33",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 121.99,
+  "meter_as_printed": "M928543653"
+ },
+ "BILL-100130": {
+  "provider": "Fairshore Power",
+  "account_number": "9957513584",
+  "service_address": "802 Lantern Flex Court",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 318.2,
+  "meter_as_printed": "M937214352"
+ },
+ "BILL-100131": {
+  "provider": "Fairshore Power",
+  "account_number": "9995258637",
+  "service_address": "802 Lantern Flex Court",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 366.53,
+  "meter_as_printed": "M921605241"
+ },
+ "BILL-100132": {
+  "provider": "City of Oakmere",
+  "account_number": "9949653909",
+  "service_address": "802 Lantern Flex Court",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 407.18,
+  "meter_as_printed": "M952213394"
+ },
+ "BILL-100133": {
+  "provider": "City of Oakmere",
+  "account_number": "9988274963",
+  "service_address": "802 Lantern Flex Court",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 351.49,
+  "meter_as_printed": "M953223607"
+ },
+ "BILL-100134": {
+  "provider": "Fairshore Power",
+  "account_number": "9937973955",
+  "service_address": "876 Mangrove Flex Court Unit 08",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 118.59,
+  "meter_as_printed": "M920829373"
+ },
+ "BILL-100135": {
+  "provider": "Fairshore Power",
+  "account_number": "9946436091",
+  "service_address": "876 Mangrove Flex Court Unit 10",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 115.41,
+  "meter_as_printed": "M971769922"
+ },
+ "BILL-100136": {
+  "provider": "Fairshore Power",
+  "account_number": "9988694029",
+  "service_address": "876 Mangrove Flex Court Unit 14",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 86.05,
+  "meter_as_printed": "M932279408"
+ },
+ "BILL-100137": {
+  "provider": "Fairshore Power",
+  "account_number": "9974318392",
+  "service_address": "876 Mangrove Flex Court",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 466.96,
+  "meter_as_printed": "M986501534"
+ },
+ "BILL-100138": {
+  "provider": "Coquina Water Co-op",
+  "account_number": "9975309268",
+  "service_address": "876 Mangrove Flex Court",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 268.76,
+  "meter_as_printed": "M957353337"
+ },
+ "BILL-100139": {
+  "provider": "Fairshore Power",
+  "account_number": "9946909516",
+  "service_address": "4764 Pelican Trade Way Unit 03",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 95,
+  "meter_as_printed": "M912829083"
+ },
+ "BILL-100140": {
+  "provider": "Fairshore Power",
+  "account_number": "9996488006",
+  "service_address": "4764 Pelican Trade Way Unit 04",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 128.37,
+  "meter_as_printed": "M966430856"
+ },
+ "BILL-100141": {
+  "provider": "Fairshore Power",
+  "account_number": "9965279539",
+  "service_address": "4764 Pelican Trade Way Unit 06",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 97.65,
+  "meter_as_printed": "M911981860"
+ },
+ "BILL-100142": {
+  "provider": "Fairshore Power",
+  "account_number": "9941327341",
+  "service_address": "address not printed",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 114.12,
+  "meter_as_printed": null
+ },
+ "BILL-100143": {
+  "provider": "Fairshore Power",
+  "account_number": "9945204406",
+  "service_address": "4764 Pelican Trade Way Unit 28",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 129.5,
+  "meter_as_printed": "M939478205"
+ },
+ "BILL-100144": {
+  "provider": "Fairshore Power",
+  "account_number": "9996231367",
+  "service_address": "address not printed",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 92.07,
+  "meter_as_printed": null
+ },
+ "BILL-100145": {
+  "provider": "Fairshore Power",
+  "account_number": "9999578664",
+  "service_address": "4764 Pelican Trade Way Unit 37",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 81.51,
+  "meter_as_printed": "M993918793"
+ },
+ "BILL-100146": {
+  "provider": "Fairshore Power",
+  "account_number": "9947649346",
+  "service_address": "4764 Pelican Trade Way Unit 38",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 94.58,
+  "meter_as_printed": "M933366324"
+ },
+ "BILL-100147": {
+  "provider": "Fairshore Power",
+  "account_number": "9911444779",
+  "service_address": "4764 Pelican Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 592.18,
+  "meter_as_printed": "M931363939"
+ },
+ "BILL-100148": {
+  "provider": "Fairshore Power",
+  "account_number": "9910174758",
+  "service_address": "4764 Pelican Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 293.29,
+  "meter_as_printed": "M938912434"
+ },
+ "BILL-100149": {
+  "provider": "City of Marlow",
+  "account_number": "9916690469",
+  "service_address": "4764 Pelican Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 318.32,
+  "meter_as_printed": "M968711531"
+ },
+ "BILL-100150": {
+  "provider": "City of Marlow",
+  "account_number": "9948117317",
+  "service_address": "4764 Pelican Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 334.25,
+  "meter_as_printed": "M946677530"
+ },
+ "BILL-100151": {
+  "provider": "City of Marlow",
+  "account_number": "9931403856",
+  "service_address": "4764 Pelican Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 425.16,
+  "meter_as_printed": "M997650628"
+ },
+ "BILL-100152": {
+  "provider": "Crestline Energy",
+  "account_number": "9989401876",
+  "service_address": "2119 Ibis Commerce Drive Unit 02",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 89.86,
+  "meter_as_printed": "M922489748"
+ },
+ "BILL-100153": {
+  "provider": "Crestline Energy",
+  "account_number": "9984155093",
+  "service_address": "2119 Ibis Commerce Drive Unit 26",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 119.19,
+  "meter_as_printed": "M957050796"
+ },
+ "BILL-100154": {
+  "provider": "Crestline Energy",
+  "account_number": "9961576500",
+  "service_address": "2119 Ibis Commerce Drive Unit 28",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 140.17,
+  "meter_as_printed": "M931276526"
+ },
+ "BILL-100155": {
+  "provider": "Crestline Energy",
+  "account_number": "9984589138",
+  "service_address": "2119 Ibis Commerce Drive Unit 30",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 119.89,
+  "meter_as_printed": "M982906198"
+ },
+ "BILL-100156": {
+  "provider": "Crestline Energy",
+  "account_number": "9964896094",
+  "service_address": "2119 Ibis Commerce Drive",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 204.63,
+  "meter_as_printed": "M947864938"
+ },
+ "BILL-100157": {
+  "provider": "Crestline Energy",
+  "account_number": "9916914206",
+  "service_address": "2119 Ibis Commerce Drive",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 326.36,
+  "meter_as_printed": "M924465323"
+ },
+ "BILL-100158": {
+  "provider": "City of St Corwin",
+  "account_number": "9921429195",
+  "service_address": "2119 Ibis Commerce Drive",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 135.46,
+  "meter_as_printed": "M931478136"
+ },
+ "BILL-100159": {
+  "provider": "City of St Corwin",
+  "account_number": "9975919423",
+  "service_address": "2119 Ibis Commerce Drive",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 267.22,
+  "meter_as_printed": "M963856244"
+ },
+ "BILL-100160": {
+  "provider": "Fairshore Power",
+  "account_number": "9989480347",
+  "service_address": "1099 Cormorant Industrial Boulevard Unit 13",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 47.98,
+  "meter_as_printed": "M925586293"
+ },
+ "BILL-100161": {
+  "provider": "Fairshore Power",
+  "account_number": "9932194489",
+  "service_address": "1099 Cormorant Industrial Boulevard Unit 20",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 79.51,
+  "meter_as_printed": "M982976966"
+ },
+ "BILL-100162": {
+  "provider": "Fairshore Power",
+  "account_number": "9911592361",
+  "service_address": "1099 Cormorant Industrial Boulevard Unit 22",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 112.18,
+  "meter_as_printed": "M936658780"
+ },
+ "BILL-100163": {
+  "provider": "Fairshore Power",
+  "account_number": "9970239099",
+  "service_address": "1099 Cormorant Industrial Boulevard",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 141.82,
+  "meter_as_printed": "M953132789"
+ },
+ "BILL-100164": {
+  "provider": "Fairshore Power",
+  "account_number": "9978756869",
+  "service_address": "8797 Egret Flex Court Unit 18",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 93.62,
+  "meter_as_printed": "M995775783"
+ },
+ "BILL-100165": {
+  "provider": "Fairshore Power",
+  "account_number": "9981187885",
+  "service_address": "8797 Egret Flex Court Unit 35",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 96.71,
+  "meter_as_printed": "M993608843"
+ },
+ "BILL-100166": {
+  "provider": "Fairshore Power",
+  "account_number": "9992319240",
+  "service_address": "8797 Egret Flex Court Unit 49",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 75.6,
+  "meter_as_printed": "M925586943"
+ },
+ "BILL-100167": {
+  "provider": "Fairshore Power",
+  "account_number": "9989748956",
+  "service_address": "8797 Egret Flex Court",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 452.49,
+  "meter_as_printed": "M937260715"
+ },
+ "BILL-100168": {
+  "provider": "Fairshore Power",
+  "account_number": "9953494159",
+  "service_address": "8797 Egret Flex Court",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 546.06,
+  "meter_as_printed": "M950017407"
+ },
+ "BILL-100169": {
+  "provider": "City of Pelican Shores",
+  "account_number": "9921409283",
+  "service_address": "8797 Egret Flex Court",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 390.01,
+  "meter_as_printed": "M990059428"
+ },
+ "BILL-100170": {
+  "provider": "City of Pelican Shores",
+  "account_number": "9945280953",
+  "service_address": "8797 Egret Flex Court",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 146.57,
+  "meter_as_printed": "M980711506"
+ },
+ "BILL-100171": {
+  "provider": "Fairshore Power",
+  "account_number": "9915794704",
+  "service_address": "8777 Tarpon Industrial Boulevard Unit 03",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 83.43,
+  "meter_as_printed": "M988691888"
+ },
+ "BILL-100172": {
+  "provider": "Fairshore Power",
+  "account_number": "9927526308",
+  "service_address": "8777 Tarpon Industrial Boulevard Unit 18",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 87.07,
+  "meter_as_printed": "M919920440"
+ },
+ "BILL-100173": {
+  "provider": "Fairshore Power",
+  "account_number": "9983147179",
+  "service_address": "8777 Tarpon Industrial Boulevard Unit 36",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 50.71,
+  "meter_as_printed": "M988039226"
+ },
+ "BILL-100174": {
+  "provider": "Fairshore Power",
+  "account_number": "9967166103",
+  "service_address": "8777 Tarpon Industrial Boulevard Unit 37",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 95.53,
+  "meter_as_printed": "M965686618"
+ },
+ "BILL-100175": {
+  "provider": "Fairshore Power",
+  "account_number": "9943827191",
+  "service_address": "8777 Tarpon Industrial Boulevard",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 528.55,
+  "meter_as_printed": "M915622129"
+ },
+ "BILL-100176": {
+  "provider": "Fairshore Power",
+  "account_number": "9942746334",
+  "service_address": "8777 Tarpon Industrial Boulevard",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 344.28,
+  "meter_as_printed": "M989531400"
+ },
+ "BILL-100177": {
+  "provider": "Sandpiper Utility District",
+  "account_number": "9942908857",
+  "service_address": "8777 Tarpon Industrial Boulevard",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 248.38,
+  "meter_as_printed": "M960135776"
+ },
+ "BILL-100178": {
+  "provider": "Sandpiper Utility District",
+  "account_number": "9977174830",
+  "service_address": "8777 Tarpon Industrial Boulevard",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 127.84,
+  "meter_as_printed": "M987479130"
+ },
+ "BILL-100179": {
+  "provider": "Fairshore Power",
+  "account_number": "9945843062",
+  "service_address": "5817 Snook Trade Way Unit 01",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 79.6,
+  "meter_as_printed": "M925320366"
+ },
+ "BILL-100180": {
+  "provider": "Fairshore Power",
+  "account_number": "9926850145",
+  "service_address": "5817 Snook Trade Way Unit 02",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 81.81,
+  "meter_as_printed": "M925356160"
+ },
+ "BILL-100181": {
+  "provider": "Fairshore Power",
+  "account_number": "9972192405",
+  "service_address": "address not printed",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 63.69,
+  "meter_as_printed": null
+ },
+ "BILL-100182": {
+  "provider": "Fairshore Power",
+  "account_number": "9920293771",
+  "service_address": "5817 Snook Trade Way Unit 09",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 114.57,
+  "meter_as_printed": "M948416966"
+ },
+ "BILL-100183": {
+  "provider": "Fairshore Power",
+  "account_number": "9928729955",
+  "service_address": "address not printed",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 65.8,
+  "meter_as_printed": null
+ },
+ "BILL-100184": {
+  "provider": "Fairshore Power",
+  "account_number": "9974949509",
+  "service_address": "5817 Snook Trade Way Unit 12",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 101.69,
+  "meter_as_printed": "M934218442"
+ },
+ "BILL-100185": {
+  "provider": "Fairshore Power",
+  "account_number": "9999647648",
+  "service_address": "5817 Snook Trade Way Unit 15",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 116.42,
+  "meter_as_printed": "M979578564"
+ },
+ "BILL-100186": {
+  "provider": "Fairshore Power",
+  "account_number": "9919680305",
+  "service_address": "5817 Snook Trade Way Unit 17",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 87.16,
+  "meter_as_printed": "M947777331"
+ },
+ "BILL-100187": {
+  "provider": "Fairshore Power",
+  "account_number": "9960896077",
+  "service_address": "5817 Snook Trade Way Unit 20",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 130.39,
+  "meter_as_printed": "M910175495"
+ },
+ "BILL-100188": {
+  "provider": "Fairshore Power",
+  "account_number": "9912504952",
+  "service_address": "5817 Snook Trade Way Unit 21",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 59.24,
+  "meter_as_printed": "M987494853"
+ },
+ "BILL-100189": {
+  "provider": "Fairshore Power",
+  "account_number": "9965593135",
+  "service_address": "5817 Snook Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 523.94,
+  "meter_as_printed": "M943066330"
+ },
+ "BILL-100190": {
+  "provider": "City of Deerpath Beach",
+  "account_number": "9924009124",
+  "service_address": "5817 Snook Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 388.22,
+  "meter_as_printed": "M939761122"
+ },
+ "BILL-100191": {
+  "provider": "Fairshore Power",
+  "account_number": "9981636276",
+  "service_address": "5411 Conch Industrial Boulevard Unit 03",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 89.93,
+  "meter_as_printed": "M938158601"
+ },
+ "BILL-100192": {
+  "provider": "Fairshore Power",
+  "account_number": "9945825053",
+  "service_address": "5411 Conch Industrial Boulevard Unit 12",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 128.73,
+  "meter_as_printed": "M981696497"
+ },
+ "BILL-100193": {
+  "provider": "Fairshore Power",
+  "account_number": "9945868675",
+  "service_address": "5411 Conch Industrial Boulevard Unit 13",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 47.2,
+  "meter_as_printed": "M994023180"
+ },
+ "BILL-100194": {
+  "provider": "Fairshore Power",
+  "account_number": "9937613288",
+  "service_address": "5411 Conch Industrial Boulevard Unit 39",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 114.5,
+  "meter_as_printed": "M966162026"
+ },
+ "BILL-100195": {
+  "provider": "Fairshore Power",
+  "account_number": "9943814927",
+  "service_address": "5411 Conch Industrial Boulevard Unit 60",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 80.01,
+  "meter_as_printed": "M938130721"
+ },
+ "BILL-100196": {
+  "provider": "Fairshore Power",
+  "account_number": "9926530244",
+  "service_address": "5411 Conch Industrial Boulevard",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 210.26,
+  "meter_as_printed": "M940203944"
+ },
+ "BILL-100197": {
+  "provider": "Fairshore Power",
+  "account_number": "9933418007",
+  "service_address": "5411 Conch Industrial Boulevard",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 599.66,
+  "meter_as_printed": "M989611798"
+ },
+ "BILL-100198": {
+  "provider": "Tidewater Water Works",
+  "account_number": "9933499683",
+  "service_address": "5411 Conch Industrial Boulevard",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 154.29,
+  "meter_as_printed": "M933830952"
+ },
+ "BILL-100199": {
+  "provider": "Tidewater Water Works",
+  "account_number": "9917115737",
+  "service_address": "5411 Conch Industrial Boulevard",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 97.84,
+  "meter_as_printed": "M936795312"
+ },
+ "BILL-100200": {
+  "provider": "Tidewater Water Works",
+  "account_number": "9943605985",
+  "service_address": "5411 Conch Industrial Boulevard",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 298.18,
+  "meter_as_printed": "M963220645"
+ },
+ "BILL-100201": {
+  "provider": "Fairshore Power",
+  "account_number": "9981465454",
+  "service_address": "6299 Manatee Commerce Drive Unit 01",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 98.71,
+  "meter_as_printed": "M964748832"
+ },
+ "BILL-100202": {
+  "provider": "Fairshore Power",
+  "account_number": "9936248180",
+  "service_address": "6299 Manatee Commerce Drive Unit 03",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 118.36,
+  "meter_as_printed": "M966041231"
+ },
+ "BILL-100203": {
+  "provider": "Fairshore Power",
+  "account_number": "9973001390",
+  "service_address": "6299 Manatee Commerce Drive Unit 05",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 75.62,
+  "meter_as_printed": "M928339762"
+ },
+ "BILL-100204": {
+  "provider": "Fairshore Power",
+  "account_number": "9995575214",
+  "service_address": "6299 Manatee Commerce Drive Unit 08",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 118.74,
+  "meter_as_printed": "M921483926"
+ },
+ "BILL-100205": {
+  "provider": "Fairshore Power",
+  "account_number": "9998980518",
+  "service_address": "6299 Manatee Commerce Drive Unit 10",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 49.72,
+  "meter_as_printed": "M948043863"
+ },
+ "BILL-100206": {
+  "provider": "Fairshore Power",
+  "account_number": "9965335315",
+  "service_address": "6299 Manatee Commerce Drive Unit 11",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 50.26,
+  "meter_as_printed": "M936416914"
+ },
+ "BILL-100207": {
+  "provider": "Fairshore Power",
+  "account_number": "9926299577",
+  "service_address": "6299 Manatee Commerce Drive Unit 12",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 87.96,
+  "meter_as_printed": "M992459491"
+ },
+ "BILL-100208": {
+  "provider": "Fairshore Power",
+  "account_number": "9966296479",
+  "service_address": "6299 Manatee Commerce Drive Unit 14",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 115.47,
+  "meter_as_printed": "M972214365"
+ },
+ "BILL-100209": {
+  "provider": "Fairshore Power",
+  "account_number": "9979334838",
+  "service_address": "6299 Manatee Commerce Drive Unit 17",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 142.18,
+  "meter_as_printed": "M940709022"
+ },
+ "BILL-100210": {
+  "provider": "Fairshore Power",
+  "account_number": "9959135400",
+  "service_address": "6299 Manatee Commerce Drive Unit 19",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 113.14,
+  "meter_as_printed": "M945644363"
+ },
+ "BILL-100211": {
+  "provider": "Fairshore Power",
+  "account_number": "9944050979",
+  "service_address": "6299 Manatee Commerce Drive Unit 22",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 57.54,
+  "meter_as_printed": "M933143965"
+ },
+ "BILL-100212": {
+  "provider": "Fairshore Power",
+  "account_number": "9912694013",
+  "service_address": "6299 Manatee Commerce Drive Unit 26",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 83.28,
+  "meter_as_printed": "M911560259"
+ },
+ "BILL-100213": {
+  "provider": "Fairshore Power",
+  "account_number": "9926912739",
+  "service_address": "6299 Manatee Commerce Drive Unit 29",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 108.77,
+  "meter_as_printed": "M980119909"
+ },
+ "BILL-100214": {
+  "provider": "Fairshore Power",
+  "account_number": "9998517975",
+  "service_address": "6299 Manatee Commerce Drive Unit 30",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 73.73,
+  "meter_as_printed": "M911244912"
+ },
+ "BILL-100215": {
+  "provider": "Fairshore Power",
+  "account_number": "9987352749",
+  "service_address": "6299 Manatee Commerce Drive Unit 34",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 70.16,
+  "meter_as_printed": "M988186934"
+ },
+ "BILL-100216": {
+  "provider": "Fairshore Power",
+  "account_number": "9979137344",
+  "service_address": "6299 Manatee Commerce Drive",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 477.42,
+  "meter_as_printed": "M949137703"
+ },
+ "BILL-100217": {
+  "provider": "Fairshore Power",
+  "account_number": "9990867015",
+  "service_address": "6299 Manatee Commerce Drive",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 119.85,
+  "meter_as_printed": "M922430198"
+ },
+ "BILL-100218": {
+  "provider": "City of Westhaven",
+  "account_number": "9993779242",
+  "service_address": "6299 Manatee Commerce Drive",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 136.1,
+  "meter_as_printed": "M917506864"
+ },
+ "BILL-100219": {
+  "provider": "City of Westhaven",
+  "account_number": "9973315989",
+  "service_address": "6299 Manatee Commerce Drive",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 235.69,
+  "meter_as_printed": "M960993424"
+ },
+ "BILL-100220": {
+  "provider": "Fairshore Power",
+  "account_number": "9984217039",
+  "service_address": "9306 Sailfish Trade Way Unit 06",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 125.11,
+  "meter_as_printed": "M941594538"
+ },
+ "BILL-100221": {
+  "provider": "Fairshore Power",
+  "account_number": "9945683776",
+  "service_address": "9306 Sailfish Trade Way Unit 07",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 136.48,
+  "meter_as_printed": "M948968228"
+ },
+ "BILL-100222": {
+  "provider": "Fairshore Power",
+  "account_number": "9947850688",
+  "service_address": "9306 Sailfish Trade Way Unit 09",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 48.39,
+  "meter_as_printed": "M930604867"
+ },
+ "BILL-100223": {
+  "provider": "Fairshore Power",
+  "account_number": "9969970665",
+  "service_address": "9306 Sailfish Trade Way Unit 19",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 69.5,
+  "meter_as_printed": "M921953515"
+ },
+ "BILL-100224": {
+  "provider": "Fairshore Power",
+  "account_number": "9978421185",
+  "service_address": "9306 Sailfish Trade Way Unit 20",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 63.19,
+  "meter_as_printed": "M919039562"
+ },
+ "BILL-100225": {
+  "provider": "Fairshore Power",
+  "account_number": "9996491166",
+  "service_address": "9306 Sailfish Trade Way Unit 28",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 122.22,
+  "meter_as_printed": "M982027700"
+ },
+ "BILL-100226": {
+  "provider": "Fairshore Power",
+  "account_number": "9980638707",
+  "service_address": "9306 Sailfish Trade Way Unit 32",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 77.39,
+  "meter_as_printed": "M926767437"
+ },
+ "BILL-100227": {
+  "provider": "Fairshore Power",
+  "account_number": "9926025216",
+  "service_address": "9306 Sailfish Trade Way Unit 33",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 109.93,
+  "meter_as_printed": "M966950009"
+ },
+ "BILL-100228": {
+  "provider": "Fairshore Power",
+  "account_number": "9980555111",
+  "service_address": "9306 Sailfish Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 218.95,
+  "meter_as_printed": "M939132402"
+ },
+ "BILL-100229": {
+  "provider": "Fairshore Power",
+  "account_number": "9994805772",
+  "service_address": "9306 Sailfish Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 205.85,
+  "meter_as_printed": "M910523760"
+ },
+ "BILL-100230": {
+  "provider": "Marlstone Water Authority",
+  "account_number": "9955801955",
+  "service_address": "9306 Sailfish Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 324.62,
+  "meter_as_printed": "M973929046"
+ },
+ "BILL-100231": {
+  "provider": "Marlstone Water Authority",
+  "account_number": "9966182719",
+  "service_address": "9306 Sailfish Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 295.58,
+  "meter_as_printed": "M959287064"
+ },
+ "BILL-100232": {
+  "provider": "Marlstone Water Authority",
+  "account_number": "9980871508",
+  "service_address": "9306 Sailfish Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 267.54,
+  "meter_as_printed": "M974520483"
+ },
+ "BILL-100233": {
+  "provider": "Fairshore Power",
+  "account_number": "9933653225",
+  "service_address": "4941 Bonefish Trade Way Unit 01",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 129.42,
+  "meter_as_printed": "M955934161"
+ },
+ "BILL-100234": {
+  "provider": "Fairshore Power",
+  "account_number": "9917087118",
+  "service_address": "4941 Bonefish Trade Way Unit 02",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 94.65,
+  "meter_as_printed": "M994208198"
+ },
+ "BILL-100235": {
+  "provider": "Fairshore Power",
+  "account_number": "9975037969",
+  "service_address": "4941 Bonefish Trade Way Unit 04",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 120.31,
+  "meter_as_printed": "M921910705"
+ },
+ "BILL-100236": {
+  "provider": "Fairshore Power",
+  "account_number": "9963494334",
+  "service_address": "4941 Bonefish Trade Way Unit 05",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 91.73,
+  "meter_as_printed": "M978224380"
+ },
+ "BILL-100237": {
+  "provider": "Fairshore Power",
+  "account_number": "9913555073",
+  "service_address": "4941 Bonefish Trade Way Unit 12",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 101.21,
+  "meter_as_printed": "M970543604"
+ },
+ "BILL-100238": {
+  "provider": "Fairshore Power",
+  "account_number": "9975644983",
+  "service_address": "4941 Bonefish Trade Way Unit 16",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 99.29,
+  "meter_as_printed": "M944192991"
+ },
+ "BILL-100239": {
+  "provider": "Fairshore Power",
+  "account_number": "9992204124",
+  "service_address": "4941 Bonefish Trade Way Unit 18",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 71.86,
+  "meter_as_printed": "M917499992"
+ },
+ "BILL-100240": {
+  "provider": "Fairshore Power",
+  "account_number": "9965954233",
+  "service_address": "4941 Bonefish Trade Way Unit 19",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 110.14,
+  "meter_as_printed": "M978411947"
+ },
+ "BILL-100241": {
+  "provider": "Fairshore Power",
+  "account_number": "9969784533",
+  "service_address": "4941 Bonefish Trade Way Unit 22",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 84.46,
+  "meter_as_printed": "M952641596"
+ },
+ "BILL-100242": {
+  "provider": "Fairshore Power",
+  "account_number": "9993847645",
+  "service_address": "4941 Bonefish Trade Way Unit 23",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 127.94,
+  "meter_as_printed": "M941689671"
+ },
+ "BILL-100243": {
+  "provider": "Fairshore Power",
+  "account_number": "9985252549",
+  "service_address": "4941 Bonefish Trade Way Unit 30",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 131.07,
+  "meter_as_printed": "M987947077"
+ },
+ "BILL-100244": {
+  "provider": "Fairshore Power",
+  "account_number": "9961499610",
+  "service_address": "4941 Bonefish Trade Way Unit 31",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 58.35,
+  "meter_as_printed": "M919165685"
+ },
+ "BILL-100245": {
+  "provider": "Fairshore Power",
+  "account_number": "9977707854",
+  "service_address": "4941 Bonefish Trade Way Unit 32",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 71.85,
+  "meter_as_printed": "M945086738"
+ },
+ "BILL-100246": {
+  "provider": "Fairshore Power",
+  "account_number": "9951787845",
+  "service_address": "4941 Bonefish Trade Way",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 167.1,
+  "meter_as_printed": "M946030504"
+ },
+ "BILL-100247": {
+  "provider": "Fairshore Power",
+  "account_number": "9939400065",
+  "service_address": "2728 Coquina Flex Court Unit 07",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 54.83,
+  "meter_as_printed": "M910035653"
+ },
+ "BILL-100248": {
+  "provider": "Fairshore Power",
+  "account_number": "9951200246",
+  "service_address": "2728 Coquina Flex Court Unit 23",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 138.46,
+  "meter_as_printed": "M917020999"
+ },
+ "BILL-100249": {
+  "provider": "Fairshore Power",
+  "account_number": "9934178289",
+  "service_address": "2728 Coquina Flex Court Unit 26",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 64.58,
+  "meter_as_printed": "M923822936"
+ },
+ "BILL-100250": {
+  "provider": "Fairshore Power",
+  "account_number": "9993352864",
+  "service_address": "2728 Coquina Flex Court Unit 31",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 58.84,
+  "meter_as_printed": "M916636956"
+ },
+ "BILL-100251": {
+  "provider": "Fairshore Power",
+  "account_number": "9995779424",
+  "service_address": "2728 Coquina Flex Court Unit 41",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 124.36,
+  "meter_as_printed": "M935118345"
+ },
+ "BILL-100252": {
+  "provider": "Fairshore Power",
+  "account_number": "9910891746",
+  "service_address": "2728 Coquina Flex Court Unit 48",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 116.99,
+  "meter_as_printed": "M926388971"
+ },
+ "BILL-100253": {
+  "provider": "Fairshore Power",
+  "account_number": "9968364321",
+  "service_address": "2728 Coquina Flex Court",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 168.93,
+  "meter_as_printed": "M911720587"
+ },
+ "BILL-100254": {
+  "provider": "Fairshore Power",
+  "account_number": "9981552565",
+  "service_address": "2728 Coquina Flex Court",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 324.36,
+  "meter_as_printed": "M998592638"
+ },
+ "BILL-100255": {
+  "provider": "City of Westhaven",
+  "account_number": "9910818384",
+  "service_address": "2728 Coquina Flex Court",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 279.11,
+  "meter_as_printed": "M914676819"
+ },
+ "BILL-100256": {
+  "provider": "Fairshore Power",
+  "account_number": "9989723414",
+  "service_address": "5292 Sandpiper Industrial Boulevard Unit 01",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 135.3,
+  "meter_as_printed": "M945973863"
+ },
+ "BILL-100257": {
+  "provider": "Fairshore Power",
+  "account_number": "9936244299",
+  "service_address": "5292 Sandpiper Industrial Boulevard Unit 05",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 50.86,
+  "meter_as_printed": "M955741655"
+ },
+ "BILL-100258": {
+  "provider": "Fairshore Power",
+  "account_number": "9936981109",
+  "service_address": "5292 Sandpiper Industrial Boulevard Unit 06",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 128.7,
+  "meter_as_printed": "M942207933"
+ },
+ "BILL-100259": {
+  "provider": "Fairshore Power",
+  "account_number": "9953470110",
+  "service_address": "5292 Sandpiper Industrial Boulevard Unit 09",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 127.39,
+  "meter_as_printed": "M915422379"
+ },
+ "BILL-100260": {
+  "provider": "Fairshore Power",
+  "account_number": "9969383476",
+  "service_address": "5292 Sandpiper Industrial Boulevard Unit 13",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 80.68,
+  "meter_as_printed": "M953431977"
+ },
+ "BILL-100261": {
+  "provider": "Fairshore Power",
+  "account_number": "9992372536",
+  "service_address": "5292 Sandpiper Industrial Boulevard Unit 16",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 69.83,
+  "meter_as_printed": "M992503395"
+ },
+ "BILL-100262": {
+  "provider": "Fairshore Power",
+  "account_number": "9926319905",
+  "service_address": "5292 Sandpiper Industrial Boulevard",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 250.36,
+  "meter_as_printed": "M987099622"
+ },
+ "BILL-100263": {
+  "provider": "Fairshore Power",
+  "account_number": "9954264118",
+  "service_address": "5292 Sandpiper Industrial Boulevard",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 386.67,
+  "meter_as_printed": "M974198550"
+ },
+ "BILL-100264": {
+  "provider": "Fairshore Power",
+  "account_number": "9957019605",
+  "service_address": "5292 Sandpiper Industrial Boulevard",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 493.04,
+  "meter_as_printed": "M989305067"
+ },
+ "BILL-100265": {
+  "provider": "Seagrass County Utilities",
+  "account_number": "9914148253",
+  "service_address": "5292 Sandpiper Industrial Boulevard",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 475.48,
+  "meter_as_printed": "M910107219"
+ },
+ "BILL-100266": {
+  "provider": "Seagrass County Utilities",
+  "account_number": "9912898917",
+  "service_address": "5292 Sandpiper Industrial Boulevard Unit 10",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 98.77,
+  "meter_as_printed": "M987350534"
+ },
+ "BILL-100267": {
+  "provider": "Fairshore Power",
+  "account_number": "9967461800",
+  "service_address": "5014 Tidewater Trade Way Unit 01",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 114.93,
+  "meter_as_printed": "M997464123"
+ },
+ "BILL-100268": {
+  "provider": "Fairshore Power",
+  "account_number": "9914977370",
+  "service_address": "5014 Tidewater Trade Way Unit 02",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 81.02,
+  "meter_as_printed": "M993172398"
+ },
+ "BILL-100269": {
+  "provider": "Fairshore Power",
+  "account_number": "9912118664",
+  "service_address": "5014 Tidewater Trade Way Unit 03",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 85.47,
+  "meter_as_printed": "M989645409"
+ },
+ "BILL-100270": {
+  "provider": "Fairshore Power",
+  "account_number": "9986161232",
+  "service_address": "5014 Tidewater Trade Way Unit 05",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 113.34,
+  "meter_as_printed": "M977131891"
+ },
+ "BILL-100271": {
+  "provider": "Fairshore Power",
+  "account_number": "9917256230",
+  "service_address": "5014 Tidewater Trade Way Unit 27",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 111.12,
+  "meter_as_printed": "M981338313"
+ },
+ "BILL-100272": {
+  "provider": "Fairshore Power",
+  "account_number": "9918197211",
+  "service_address": "5014 Tidewater Trade Way Unit 30",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 136.65,
+  "meter_as_printed": "M932735743"
+ },
+ "BILL-100273": {
+  "provider": "Fairshore Power",
+  "account_number": "9937465515",
+  "service_address": "5014 Tidewater Trade Way Unit 42",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 141.34,
+  "meter_as_printed": "M921223097"
+ },
+ "BILL-100274": {
+  "provider": "Fairshore Power",
+  "account_number": "9957820809",
+  "service_address": "5014 Tidewater Trade Way Unit 43",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 64.92,
+  "meter_as_printed": "M931982332"
+ },
+ "BILL-100275": {
+  "provider": "Fairshore Power",
+  "account_number": "9928763861",
+  "service_address": "5014 Tidewater Trade Way Unit 51",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 125.07,
+  "meter_as_printed": "M955943778"
+ },
+ "BILL-100276": {
+  "provider": "Fairshore Power",
+  "account_number": "9952413431",
+  "service_address": "5014 Tidewater Trade Way Unit 56",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 138.53,
+  "meter_as_printed": "M935378143"
+ },
+ "BILL-100277": {
+  "provider": "Fairshore Power",
+  "account_number": "9964160176",
+  "service_address": "5014 Tidewater Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 193.36,
+  "meter_as_printed": "M915137302"
+ },
+ "BILL-100278": {
+  "provider": "City of Marlow",
+  "account_number": "9987810230",
+  "service_address": "5014 Tidewater Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 383.21,
+  "meter_as_printed": "M964540409"
+ },
+ "BILL-100279": {
+  "provider": "City of Marlow",
+  "account_number": "9950398849",
+  "service_address": "5014 Tidewater Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 412.54,
+  "meter_as_printed": "M952119272"
+ },
+ "BILL-100280": {
+  "provider": "City of Marlow",
+  "account_number": "9996799822",
+  "service_address": "5014 Tidewater Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 327.64,
+  "meter_as_printed": "M924888323"
+ },
+ "BILL-100281": {
+  "provider": "Fairshore Power",
+  "account_number": "9969667306",
+  "service_address": "8419 Marlstone Commerce Drive Unit 01",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 43.63,
+  "meter_as_printed": "M986136280"
+ },
+ "BILL-100282": {
+  "provider": "Fairshore Power",
+  "account_number": "9961917086",
+  "service_address": "8419 Marlstone Commerce Drive Unit 04",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 57.05,
+  "meter_as_printed": "M932986027"
+ },
+ "BILL-100283": {
+  "provider": "Fairshore Power",
+  "account_number": "9945858201",
+  "service_address": "8419 Marlstone Commerce Drive Unit 09",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 54.75,
+  "meter_as_printed": "M981906895"
+ },
+ "BILL-100284": {
+  "provider": "Fairshore Power",
+  "account_number": "9923111420",
+  "service_address": "8419 Marlstone Commerce Drive Unit 10",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 84.96,
+  "meter_as_printed": "M949365947"
+ },
+ "BILL-100285": {
+  "provider": "Fairshore Power",
+  "account_number": "9964394892",
+  "service_address": "8419 Marlstone Commerce Drive Unit 12",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 55.2,
+  "meter_as_printed": "M922503714"
+ },
+ "BILL-100286": {
+  "provider": "Fairshore Power",
+  "account_number": "9951742854",
+  "service_address": "8419 Marlstone Commerce Drive Unit 20",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 102.04,
+  "meter_as_printed": "M994241754"
+ },
+ "BILL-100287": {
+  "provider": "Fairshore Power",
+  "account_number": "9994830877",
+  "service_address": "8419 Marlstone Commerce Drive Unit 28",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 85.88,
+  "meter_as_printed": "M926150649"
+ },
+ "BILL-100288": {
+  "provider": "Fairshore Power",
+  "account_number": "9947382419",
+  "service_address": "8419 Marlstone Commerce Drive Unit 30",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 106.08,
+  "meter_as_printed": "M942926431"
+ },
+ "BILL-100289": {
+  "provider": "Fairshore Power",
+  "account_number": "9965747888",
+  "service_address": "8419 Marlstone Commerce Drive Unit 35",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 62.85,
+  "meter_as_printed": "M980496069"
+ },
+ "BILL-100290": {
+  "provider": "Fairshore Power",
+  "account_number": "9988013608",
+  "service_address": "8419 Marlstone Commerce Drive",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 492.71,
+  "meter_as_printed": "M952445817"
+ },
+ "BILL-100291": {
+  "provider": "Fairshore Power",
+  "account_number": "9941614885",
+  "service_address": "8419 Marlstone Commerce Drive",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 383.57,
+  "meter_as_printed": "M983236922"
+ },
+ "BILL-100292": {
+  "provider": "City of Westhaven",
+  "account_number": "9975870890",
+  "service_address": "8419 Marlstone Commerce Drive",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 127.06,
+  "meter_as_printed": "M959204454"
+ },
+ "BILL-100293": {
+  "provider": "City of Westhaven",
+  "account_number": "9943209976",
+  "service_address": "8419 Marlstone Commerce Drive",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 103.82,
+  "meter_as_printed": "M967707246"
+ },
+ "BILL-100294": {
+  "provider": "City of Westhaven",
+  "account_number": "9977692529",
+  "service_address": "8419 Marlstone Commerce Drive",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 440.38,
+  "meter_as_printed": "M956953544"
+ },
+ "BILL-100295": {
+  "provider": "Fairshore Power",
+  "account_number": "9926160846",
+  "service_address": "6048 Palmgrove Industrial Boulevard Unit 02",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 63.65,
+  "meter_as_printed": "M932173961"
+ },
+ "BILL-100296": {
+  "provider": "Fairshore Power",
+  "account_number": "9985451722",
+  "service_address": "6048 Palmgrove Industrial Boulevard Unit 13",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 96.29,
+  "meter_as_printed": "M934034347"
+ },
+ "BILL-100297": {
+  "provider": "Fairshore Power",
+  "account_number": "9918402929",
+  "service_address": "6048 Palmgrove Industrial Boulevard Unit 16",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 58.11,
+  "meter_as_printed": "M983519434"
+ },
+ "BILL-100298": {
+  "provider": "Fairshore Power",
+  "account_number": "9965085666",
+  "service_address": "6048 Palmgrove Industrial Boulevard Unit 28",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 97.55,
+  "meter_as_printed": "M948837752"
+ },
+ "BILL-100299": {
+  "provider": "Fairshore Power",
+  "account_number": "9911150968",
+  "service_address": "6048 Palmgrove Industrial Boulevard",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 572.71,
+  "meter_as_printed": "M960411650"
+ },
+ "BILL-100300": {
+  "provider": "Fairshore Power",
+  "account_number": "9963098181",
+  "service_address": "6048 Palmgrove Industrial Boulevard",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 119.81,
+  "meter_as_printed": "M983328154"
+ },
+ "BILL-100301": {
+  "provider": "City of Deerpath Beach",
+  "account_number": "9918566739",
+  "service_address": "6048 Palmgrove Industrial Boulevard",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 404.37,
+  "meter_as_printed": "M915813004"
+ },
+ "BILL-100302": {
+  "provider": "City of Deerpath Beach",
+  "account_number": "9966490986",
+  "service_address": "6048 Palmgrove Industrial Boulevard",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 449.26,
+  "meter_as_printed": "M920315298"
+ },
+ "BILL-100303": {
+  "provider": "City of Deerpath Beach",
+  "account_number": "9938996811",
+  "service_address": "6048 Palmgrove Industrial Boulevard",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 349.57,
+  "meter_as_printed": "M989468989"
+ },
+ "BILL-100304": {
+  "provider": "Fairshore Power",
+  "account_number": "9980174597",
+  "service_address": "2594 Seagrape Trade Way Unit 07",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 106.84,
+  "meter_as_printed": "M970195915"
+ },
+ "BILL-100305": {
+  "provider": "Fairshore Power",
+  "account_number": "9964564905",
+  "service_address": "2594 Seagrape Trade Way Unit 18",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 116.99,
+  "meter_as_printed": "M995062975"
+ },
+ "BILL-100306": {
+  "provider": "Fairshore Power",
+  "account_number": "9988102881",
+  "service_address": "2594 Seagrape Trade Way Unit 19",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 47.99,
+  "meter_as_printed": "M950172829"
+ },
+ "BILL-100307": {
+  "provider": "Fairshore Power",
+  "account_number": "9935175813",
+  "service_address": "2594 Seagrape Trade Way Unit 24",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 123.84,
+  "meter_as_printed": "M985524686"
+ },
+ "BILL-100308": {
+  "provider": "Fairshore Power",
+  "account_number": "9955839920",
+  "service_address": "2594 Seagrape Trade Way Unit 25",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 62.26,
+  "meter_as_printed": "M935460983"
+ },
+ "BILL-100309": {
+  "provider": "Fairshore Power",
+  "account_number": "9978158800",
+  "service_address": "2594 Seagrape Trade Way Unit 29",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 49.41,
+  "meter_as_printed": "M999012174"
+ },
+ "BILL-100310": {
+  "provider": "Fairshore Power",
+  "account_number": "9999704451",
+  "service_address": "2594 Seagrape Trade Way Unit 34",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 75.41,
+  "meter_as_printed": "M926918367"
+ },
+ "BILL-100311": {
+  "provider": "Fairshore Power",
+  "account_number": "9986412666",
+  "service_address": "2594 Seagrape Trade Way Unit 35",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 87.51,
+  "meter_as_printed": "M918264388"
+ },
+ "BILL-100312": {
+  "provider": "Fairshore Power",
+  "account_number": "9915842140",
+  "service_address": "2594 Seagrape Trade Way Unit 38",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 131.97,
+  "meter_as_printed": "M947773728"
+ },
+ "BILL-100313": {
+  "provider": "Fairshore Power",
+  "account_number": "9930084567",
+  "service_address": "2594 Seagrape Trade Way Unit 42",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 78.8,
+  "meter_as_printed": "M912905113"
+ },
+ "BILL-100314": {
+  "provider": "Fairshore Power",
+  "account_number": "9969074111",
+  "service_address": "2594 Seagrape Trade Way Unit 45",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 122.64,
+  "meter_as_printed": "M980218711"
+ },
+ "BILL-100315": {
+  "provider": "Fairshore Power",
+  "account_number": "9982962109",
+  "service_address": "2594 Seagrape Trade Way Unit 54",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 129.97,
+  "meter_as_printed": "M973277318"
+ },
+ "BILL-100316": {
+  "provider": "Fairshore Power",
+  "account_number": "9964421217",
+  "service_address": "2594 Seagrape Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 304.31,
+  "meter_as_printed": "M953001179"
+ },
+ "BILL-100317": {
+  "provider": "Fairshore Power",
+  "account_number": "9919116022",
+  "service_address": "2594 Seagrape Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 359.08,
+  "meter_as_printed": "M965736085"
+ },
+ "BILL-100318": {
+  "provider": "Fairshore Power",
+  "account_number": "9960145426",
+  "service_address": "2594 Seagrape Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 166.37,
+  "meter_as_printed": "M920836580"
+ },
+ "BILL-100319": {
+  "provider": "City of Marlow",
+  "account_number": "9916248576",
+  "service_address": "2594 Seagrape Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 465.49,
+  "meter_as_printed": "M930730308"
+ },
+ "BILL-100320": {
+  "provider": "City of Marlow",
+  "account_number": "9922289012",
+  "service_address": "2594 Seagrape Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 336.89,
+  "meter_as_printed": "M964759503"
+ },
+ "BILL-100321": {
+  "provider": "City of Marlow",
+  "account_number": "9915494093",
+  "service_address": "2594 Seagrape Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 420.05,
+  "meter_as_printed": "M955199926"
+ },
+ "BILL-100322": {
+  "provider": "Fairshore Power",
+  "account_number": "9954857532",
+  "service_address": "8084 Osprey Trade Way Unit 04",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 139.82,
+  "meter_as_printed": "M911980816"
+ },
+ "BILL-100323": {
+  "provider": "Fairshore Power",
+  "account_number": "9918496850",
+  "service_address": "8084 Osprey Trade Way Unit 05",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 110.88,
+  "meter_as_printed": "M911825888"
+ },
+ "BILL-100324": {
+  "provider": "Fairshore Power",
+  "account_number": "9985147908",
+  "service_address": "8084 Osprey Trade Way Unit 13",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 81.65,
+  "meter_as_printed": "M989870954"
+ },
+ "BILL-100325": {
+  "provider": "Fairshore Power",
+  "account_number": "9922597738",
+  "service_address": "8084 Osprey Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 154.29,
+  "meter_as_printed": "M972099319"
+ },
+ "BILL-100326": {
+  "provider": "Fairshore Power",
+  "account_number": "9995561118",
+  "service_address": "9321 Kestrel Flex Court Unit 09",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 124.25,
+  "meter_as_printed": "M971926999"
+ },
+ "BILL-100327": {
+  "provider": "Fairshore Power",
+  "account_number": "9928377818",
+  "service_address": "9321 Kestrel Flex Court Unit 15",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 102.66,
+  "meter_as_printed": "M972838151"
+ },
+ "BILL-100328": {
+  "provider": "Fairshore Power",
+  "account_number": "9926766155",
+  "service_address": "9321 Kestrel Flex Court Unit 23",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 111.43,
+  "meter_as_printed": "M914824074"
+ },
+ "BILL-100329": {
+  "provider": "Fairshore Power",
+  "account_number": "9913843603",
+  "service_address": "9321 Kestrel Flex Court Unit 29",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 66.11,
+  "meter_as_printed": "M936941354"
+ },
+ "BILL-100330": {
+  "provider": "Fairshore Power",
+  "account_number": "9910085294",
+  "service_address": "9321 Kestrel Flex Court Unit 31",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 80.93,
+  "meter_as_printed": "M943598130"
+ },
+ "BILL-100331": {
+  "provider": "Fairshore Power",
+  "account_number": "9937978109",
+  "service_address": "9321 Kestrel Flex Court Unit 40",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 125.93,
+  "meter_as_printed": "M952816006"
+ },
+ "BILL-100332": {
+  "provider": "Fairshore Power",
+  "account_number": "9920841177",
+  "service_address": "9321 Kestrel Flex Court Unit 43",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 100.68,
+  "meter_as_printed": "M958580266"
+ },
+ "BILL-100333": {
+  "provider": "Fairshore Power",
+  "account_number": "9944641833",
+  "service_address": "9321 Kestrel Flex Court",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 346.4,
+  "meter_as_printed": "M988920219"
+ },
+ "BILL-100334": {
+  "provider": "Fairshore Power",
+  "account_number": "9973683748",
+  "service_address": "9321 Kestrel Flex Court",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 435.72,
+  "meter_as_printed": "M960882865"
+ },
+ "BILL-100335": {
+  "provider": "Town of Maple Park",
+  "account_number": "9952154685",
+  "service_address": "9321 Kestrel Flex Court",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 307.39,
+  "meter_as_printed": "M919760373"
+ },
+ "BILL-100336": {
+  "provider": "Town of Maple Park",
+  "account_number": "9963231813",
+  "service_address": "9321 Kestrel Flex Court",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 380.5,
+  "meter_as_printed": "M963080501"
+ },
+ "BILL-100337": {
+  "provider": "Fairshore Power",
+  "account_number": "9975742010",
+  "service_address": "4326 Heron Trade Way Unit 01",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 91.44,
+  "meter_as_printed": "M962152201"
+ },
+ "BILL-100338": {
+  "provider": "Fairshore Power",
+  "account_number": "9948363950",
+  "service_address": "4326 Heron Trade Way Unit 05",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 50.66,
+  "meter_as_printed": "M979980145"
+ },
+ "BILL-100339": {
+  "provider": "Fairshore Power",
+  "account_number": "9934312090",
+  "service_address": "4326 Heron Trade Way Unit 07",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 49.41,
+  "meter_as_printed": "M973801775"
+ },
+ "BILL-100340": {
+  "provider": "Fairshore Power",
+  "account_number": "9921883419",
+  "service_address": "4326 Heron Trade Way Unit 22",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 80.12,
+  "meter_as_printed": "M976886573"
+ },
+ "BILL-100341": {
+  "provider": "Fairshore Power",
+  "account_number": "9939246349",
+  "service_address": "4326 Heron Trade Way Unit 23",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 88.57,
+  "meter_as_printed": "M958447113"
+ },
+ "BILL-100342": {
+  "provider": "Fairshore Power",
+  "account_number": "9952847210",
+  "service_address": "4326 Heron Trade Way Unit 25",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 76.17,
+  "meter_as_printed": "M954863290"
+ },
+ "BILL-100343": {
+  "provider": "Fairshore Power",
+  "account_number": "9913201171",
+  "service_address": "4326 Heron Trade Way Unit 31",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 104.04,
+  "meter_as_printed": "M922708723"
+ },
+ "BILL-100344": {
+  "provider": "Fairshore Power",
+  "account_number": "9917480434",
+  "service_address": "4326 Heron Trade Way Unit 37",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 77.82,
+  "meter_as_printed": "M952563520"
+ },
+ "BILL-100345": {
+  "provider": "Fairshore Power",
+  "account_number": "9951309216",
+  "service_address": "4326 Heron Trade Way Unit 47",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 83.72,
+  "meter_as_printed": "M981881149"
+ },
+ "BILL-100346": {
+  "provider": "Fairshore Power",
+  "account_number": "9944473306",
+  "service_address": "4326 Heron Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 369.12,
+  "meter_as_printed": "M926847335"
+ },
+ "BILL-100347": {
+  "provider": "Fairshore Power",
+  "account_number": "9948549606",
+  "service_address": "4326 Heron Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 343.47,
+  "meter_as_printed": "M964437411"
+ },
+ "BILL-100348": {
+  "provider": "Fairshore Power",
+  "account_number": "9948166290",
+  "service_address": "4326 Heron Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 497.47,
+  "meter_as_printed": "M937208014"
+ },
+ "BILL-100349": {
+  "provider": "City of Marlow",
+  "account_number": "9920644221",
+  "service_address": "4326 Heron Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 338.84,
+  "meter_as_printed": "M957329960"
+ },
+ "BILL-100350": {
+  "provider": "City of Marlow",
+  "account_number": "9917360114",
+  "service_address": "4326 Heron Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 301.47,
+  "meter_as_printed": "M990674731"
+ },
+ "BILL-100351": {
+  "provider": "City of Marlow",
+  "account_number": "9958519383",
+  "service_address": "4326 Heron Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 380.12,
+  "meter_as_printed": "M930785390"
+ },
+ "BILL-100352": {
+  "provider": "Fairshore Power",
+  "account_number": "9960510112",
+  "service_address": "374 Saltmarsh Logistics Lane Unit 03",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 116.28,
+  "meter_as_printed": "M929856183"
+ },
+ "BILL-100353": {
+  "provider": "Fairshore Power",
+  "account_number": "9980327808",
+  "service_address": "374 Saltmarsh Logistics Lane Unit 09",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 93,
+  "meter_as_printed": "M990296009"
+ },
+ "BILL-100354": {
+  "provider": "Fairshore Power",
+  "account_number": "9910881894",
+  "service_address": "374 Saltmarsh Logistics Lane Unit 20",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 49.05,
+  "meter_as_printed": "M933093477"
+ },
+ "BILL-100355": {
+  "provider": "Fairshore Power",
+  "account_number": "9977615727",
+  "service_address": "374 Saltmarsh Logistics Lane Unit 21",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 59.82,
+  "meter_as_printed": "M939177065"
+ },
+ "BILL-100356": {
+  "provider": "Fairshore Power",
+  "account_number": "9945220123",
+  "service_address": "374 Saltmarsh Logistics Lane Unit 26",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 50.32,
+  "meter_as_printed": "M984472558"
+ },
+ "BILL-100357": {
+  "provider": "Fairshore Power",
+  "account_number": "9962528538",
+  "service_address": "374 Saltmarsh Logistics Lane Unit 29",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 86.54,
+  "meter_as_printed": "M997161702"
+ },
+ "BILL-100358": {
+  "provider": "Fairshore Power",
+  "account_number": "9938320473",
+  "service_address": "374 Saltmarsh Logistics Lane",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 269.24,
+  "meter_as_printed": "M946720527"
+ },
+ "BILL-100359": {
+  "provider": "Fairshore Power",
+  "account_number": "9914879539",
+  "service_address": "2618 Harborline Industrial Boulevard Unit 09",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 109.94,
+  "meter_as_printed": "M961326829"
+ },
+ "BILL-100360": {
+  "provider": "Fairshore Power",
+  "account_number": "9923958742",
+  "service_address": "2618 Harborline Industrial Boulevard Unit 23",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 107.4,
+  "meter_as_printed": "M923405427"
+ },
+ "BILL-100361": {
+  "provider": "Fairshore Power",
+  "account_number": "9983170883",
+  "service_address": "2618 Harborline Industrial Boulevard Unit 24",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 74.1,
+  "meter_as_printed": "M935636191"
+ },
+ "BILL-100362": {
+  "provider": "Fairshore Power",
+  "account_number": "9912912005",
+  "service_address": "2618 Harborline Industrial Boulevard Unit 25",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 111.97,
+  "meter_as_printed": "M917449635"
+ },
+ "BILL-100363": {
+  "provider": "Fairshore Power",
+  "account_number": "9974696889",
+  "service_address": "2618 Harborline Industrial Boulevard Unit 32",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 98.04,
+  "meter_as_printed": "M919047599"
+ },
+ "BILL-100364": {
+  "provider": "Fairshore Power",
+  "account_number": "9972858454",
+  "service_address": "2618 Harborline Industrial Boulevard",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 612.22,
+  "meter_as_printed": "M980427634"
+ },
+ "BILL-100365": {
+  "provider": "Fairshore Power",
+  "account_number": "9983755043",
+  "service_address": "2618 Harborline Industrial Boulevard",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 255.29,
+  "meter_as_printed": "M977108620"
+ },
+ "BILL-100366": {
+  "provider": "City of Larkhill",
+  "account_number": "9931898797",
+  "service_address": "2618 Harborline Industrial Boulevard",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 179.59,
+  "meter_as_printed": "M967216295"
+ },
+ "BILL-100367": {
+  "provider": "City of Larkhill",
+  "account_number": "9931058380",
+  "service_address": "2618 Harborline Industrial Boulevard",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 286.71,
+  "meter_as_printed": "M929173470"
+ },
+ "BILL-100368": {
+  "provider": "City of Larkhill",
+  "account_number": "9923043965",
+  "service_address": "2618 Harborline Industrial Boulevard",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 462.25,
+  "meter_as_printed": "M964209451"
+ },
+ "BILL-100369": {
+  "provider": "Fairshore Power",
+  "account_number": "9958591827",
+  "service_address": "6673 Cypress Bend Business Parkway Unit 06",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 141.24,
+  "meter_as_printed": "M933673441"
+ },
+ "BILL-100370": {
+  "provider": "Fairshore Power",
+  "account_number": "9933440558",
+  "service_address": "6673 Cypress Bend Business Parkway Unit 15",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 99.5,
+  "meter_as_printed": "M966608385"
+ },
+ "BILL-100371": {
+  "provider": "Fairshore Power",
+  "account_number": "9967335878",
+  "service_address": "6673 Cypress Bend Business Parkway Unit 18",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 68.42,
+  "meter_as_printed": "M974082219"
+ },
+ "BILL-100372": {
+  "provider": "Fairshore Power",
+  "account_number": "9970852110",
+  "service_address": "6673 Cypress Bend Business Parkway Unit 20",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 131.25,
+  "meter_as_printed": "M929458802"
+ },
+ "BILL-100373": {
+  "provider": "Fairshore Power",
+  "account_number": "9943266131",
+  "service_address": "6673 Cypress Bend Business Parkway Unit 23",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 121.73,
+  "meter_as_printed": "M987263524"
+ },
+ "BILL-100374": {
+  "provider": "Fairshore Power",
+  "account_number": "9981765982",
+  "service_address": "6673 Cypress Bend Business Parkway Unit 24",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 72.84,
+  "meter_as_printed": "M989082920"
+ },
+ "BILL-100375": {
+  "provider": "Fairshore Power",
+  "account_number": "9988434960",
+  "service_address": "6673 Cypress Bend Business Parkway",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 446.58,
+  "meter_as_printed": "M962685147"
+ },
+ "BILL-100376": {
+  "provider": "Seagrass County Utilities",
+  "account_number": "9941541472",
+  "service_address": "6673 Cypress Bend Business Parkway",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 494.76,
+  "meter_as_printed": "M941293829"
+ },
+ "BILL-100377": {
+  "provider": "Fairshore Power",
+  "account_number": "9952934710",
+  "service_address": "3701 Driftwood Industrial Boulevard Unit 12",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 103.36,
+  "meter_as_printed": "M925947798"
+ },
+ "BILL-100378": {
+  "provider": "Fairshore Power",
+  "account_number": "9911063724",
+  "service_address": "3701 Driftwood Industrial Boulevard Unit 19",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 108.75,
+  "meter_as_printed": "M979642142"
+ },
+ "BILL-100379": {
+  "provider": "Fairshore Power",
+  "account_number": "9942583957",
+  "service_address": "3701 Driftwood Industrial Boulevard Unit 20",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 98.03,
+  "meter_as_printed": "M912879468"
+ },
+ "BILL-100380": {
+  "provider": "Fairshore Power",
+  "account_number": "9972918243",
+  "service_address": "3701 Driftwood Industrial Boulevard Unit 28",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 118.99,
+  "meter_as_printed": "M964898881"
+ },
+ "BILL-100381": {
+  "provider": "Fairshore Power",
+  "account_number": "9946721488",
+  "service_address": "3701 Driftwood Industrial Boulevard Unit 29",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 55.28,
+  "meter_as_printed": "M999730538"
+ },
+ "BILL-100382": {
+  "provider": "Fairshore Power",
+  "account_number": "9968143411",
+  "service_address": "3701 Driftwood Industrial Boulevard Unit 44",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 52.13,
+  "meter_as_printed": "M985313449"
+ },
+ "BILL-100383": {
+  "provider": "Fairshore Power",
+  "account_number": "9979521103",
+  "service_address": "3701 Driftwood Industrial Boulevard Unit 46",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 87.08,
+  "meter_as_printed": "M999122337"
+ },
+ "BILL-100384": {
+  "provider": "Fairshore Power",
+  "account_number": "9951958023",
+  "service_address": "3701 Driftwood Industrial Boulevard Unit 54",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 126.63,
+  "meter_as_printed": "M914272396"
+ },
+ "BILL-100385": {
+  "provider": "Fairshore Power",
+  "account_number": "9926849673",
+  "service_address": "3701 Driftwood Industrial Boulevard",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 298.24,
+  "meter_as_printed": "M937217986"
+ },
+ "BILL-100386": {
+  "provider": "Fairshore Power",
+  "account_number": "9996286489",
+  "service_address": "3701 Driftwood Industrial Boulevard",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 146.69,
+  "meter_as_printed": "M993442197"
+ },
+ "BILL-100387": {
+  "provider": "Fairshore Power",
+  "account_number": "9943739703",
+  "service_address": "3701 Driftwood Industrial Boulevard",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 343.58,
+  "meter_as_printed": "M911276716"
+ },
+ "BILL-100388": {
+  "provider": "Fairshore Power",
+  "account_number": "9940255086",
+  "service_address": "802 Lantern Flex Court Unit 15",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 114.75,
+  "meter_as_printed": "M977430056"
+ },
+ "BILL-100389": {
+  "provider": "Fairshore Power",
+  "account_number": "9925785637",
+  "service_address": "802 Lantern Flex Court Unit 16",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 74.2,
+  "meter_as_printed": "M921247781"
+ },
+ "BILL-100390": {
+  "provider": "Fairshore Power",
+  "account_number": "9933461711",
+  "service_address": "802 Lantern Flex Court Unit 19",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 85.57,
+  "meter_as_printed": "M975140885"
+ },
+ "BILL-100391": {
+  "provider": "Fairshore Power",
+  "account_number": "9966225073",
+  "service_address": "802 Lantern Flex Court Unit 33",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 123.28,
+  "meter_as_printed": "M928543653"
+ },
+ "BILL-100392": {
+  "provider": "Fairshore Power",
+  "account_number": "9951003667",
+  "service_address": "802 Lantern Flex Court Unit 42",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 100.01,
+  "meter_as_printed": "M990173566"
+ },
+ "BILL-100393": {
+  "provider": "Fairshore Power",
+  "account_number": "9957513584",
+  "service_address": "802 Lantern Flex Court",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 321.55,
+  "meter_as_printed": "M937214352"
+ },
+ "BILL-100394": {
+  "provider": "Fairshore Power",
+  "account_number": "9995258637",
+  "service_address": "802 Lantern Flex Court",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 370.02,
+  "meter_as_printed": "M921605241"
+ },
+ "BILL-100395": {
+  "provider": "City of Oakmere",
+  "account_number": "9949653909",
+  "service_address": "802 Lantern Flex Court",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 411.51,
+  "meter_as_printed": "M952213394"
+ },
+ "BILL-100396": {
+  "provider": "City of Oakmere",
+  "account_number": "9988274963",
+  "service_address": "802 Lantern Flex Court",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 354.87,
+  "meter_as_printed": "M953223607"
+ },
+ "BILL-100397": {
+  "provider": "Fairshore Power",
+  "account_number": "9937973955",
+  "service_address": "876 Mangrove Flex Court Unit 08",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 119.72,
+  "meter_as_printed": "M998441197"
+ },
+ "BILL-100398": {
+  "provider": "Fairshore Power",
+  "account_number": "9946436091",
+  "service_address": "876 Mangrove Flex Court Unit 10",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 116.52,
+  "meter_as_printed": "M967728050"
+ },
+ "BILL-100399": {
+  "provider": "Fairshore Power",
+  "account_number": "9988694029",
+  "service_address": "876 Mangrove Flex Court Unit 14",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 86.89,
+  "meter_as_printed": "M965726480"
+ },
+ "BILL-100400": {
+  "provider": "Fairshore Power",
+  "account_number": "9974318392",
+  "service_address": "876 Mangrove Flex Court",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 471.98,
+  "meter_as_printed": "M986501534"
+ },
+ "BILL-100401": {
+  "provider": "Coquina Water Co-op",
+  "account_number": "9975309268",
+  "service_address": "876 Mangrove Flex Court",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 271.37,
+  "meter_as_printed": "M957353337"
+ },
+ "BILL-100402": {
+  "provider": "Coquina Water Co-op",
+  "account_number": "9938901303",
+  "service_address": "876 Mangrove Flex Court",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 436.89,
+  "meter_as_printed": "M989931410"
+ },
+ "BILL-100403": {
+  "provider": "Fairshore Power",
+  "account_number": "9946909516",
+  "service_address": "4764 Pelican Trade Way Unit 03",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 95.94,
+  "meter_as_printed": "M912829083"
+ },
+ "BILL-100404": {
+  "provider": "Fairshore Power",
+  "account_number": "9996488006",
+  "service_address": "4764 Pelican Trade Way Unit 04",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 129.72,
+  "meter_as_printed": "M956479067"
+ },
+ "BILL-100405": {
+  "provider": "Fairshore Power",
+  "account_number": "9965279539",
+  "service_address": "4764 Pelican Trade Way Unit 06",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 98.69,
+  "meter_as_printed": "M957876913"
+ },
+ "BILL-100406": {
+  "provider": "Fairshore Power",
+  "account_number": "9946572511",
+  "service_address": "4764 Pelican Trade Way Unit 11",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 75.13,
+  "meter_as_printed": "M964072304"
+ },
+ "BILL-100407": {
+  "provider": "Fairshore Power",
+  "account_number": "9941327341",
+  "service_address": "4764 Pelican Trade Way Unit 15",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 115.21,
+  "meter_as_printed": "M952034236"
+ },
+ "BILL-100408": {
+  "provider": "Fairshore Power",
+  "account_number": "9945204406",
+  "service_address": "4764 Pelican Trade Way Unit 28",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 130.89,
+  "meter_as_printed": "M990602395"
+ },
+ "BILL-100409": {
+  "provider": "Fairshore Power",
+  "account_number": "9996231367",
+  "service_address": "4764 Pelican Trade Way Unit 32",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 93.08,
+  "meter_as_printed": "M963661454"
+ },
+ "BILL-100410": {
+  "provider": "Fairshore Power",
+  "account_number": "9999578664",
+  "service_address": "4764 Pelican Trade Way Unit 37",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 82.29,
+  "meter_as_printed": "M993918793"
+ },
+ "BILL-100411": {
+  "provider": "Fairshore Power",
+  "account_number": "9947649346",
+  "service_address": "4764 Pelican Trade Way Unit 38",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 95.6,
+  "meter_as_printed": "M938800595"
+ },
+ "BILL-100412": {
+  "provider": "Fairshore Power",
+  "account_number": "9911444779",
+  "service_address": "4764 Pelican Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 597.87,
+  "meter_as_printed": "M931363939"
+ },
+ "BILL-100413": {
+  "provider": "Fairshore Power",
+  "account_number": "9910174758",
+  "service_address": "4764 Pelican Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 296.44,
+  "meter_as_printed": "M938912434"
+ },
+ "BILL-100414": {
+  "provider": "City of Marlow",
+  "account_number": "9916690469",
+  "service_address": "4764 Pelican Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 321.41,
+  "meter_as_printed": "M968711531"
+ },
+ "BILL-100415": {
+  "provider": "City of Marlow",
+  "account_number": "9948117317",
+  "service_address": "4764 Pelican Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 337.89,
+  "meter_as_printed": "M946677530"
+ },
+ "BILL-100416": {
+  "provider": "City of Marlow",
+  "account_number": "9931403856",
+  "service_address": "4764 Pelican Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 429.33,
+  "meter_as_printed": "M997650628"
+ },
+ "BILL-100417": {
+  "provider": "Crestline Energy",
+  "account_number": "9989401876",
+  "service_address": "2119 Ibis Commerce Drive Unit 02",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 90.75,
+  "meter_as_printed": "M920471319"
+ },
+ "BILL-100418": {
+  "provider": "Crestline Energy",
+  "account_number": "9984155093",
+  "service_address": "2119 Ibis Commerce Drive Unit 26",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 120.34,
+  "meter_as_printed": "M957050796"
+ },
+ "BILL-100419": {
+  "provider": "Crestline Energy",
+  "account_number": "9961576500",
+  "service_address": "2119 Ibis Commerce Drive Unit 28",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 141.53,
+  "meter_as_printed": "M990006697"
+ },
+ "BILL-100420": {
+  "provider": "Crestline Energy",
+  "account_number": "9984589138",
+  "service_address": "2119 Ibis Commerce Drive Unit 30",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 121.06,
+  "meter_as_printed": "M982906198"
+ },
+ "BILL-100421": {
+  "provider": "Crestline Energy",
+  "account_number": "9964896094",
+  "service_address": "2119 Ibis Commerce Drive",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 206.81,
+  "meter_as_printed": "M947864938"
+ },
+ "BILL-100422": {
+  "provider": "Crestline Energy",
+  "account_number": "9916914206",
+  "service_address": "2119 Ibis Commerce Drive",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 329.5,
+  "meter_as_printed": "M924465323"
+ },
+ "BILL-100423": {
+  "provider": "City of St Corwin",
+  "account_number": "9921429195",
+  "service_address": "2119 Ibis Commerce Drive",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 136.92,
+  "meter_as_printed": "M931478136"
+ },
+ "BILL-100424": {
+  "provider": "City of St Corwin",
+  "account_number": "9975919423",
+  "service_address": "2119 Ibis Commerce Drive",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 269.81,
+  "meter_as_printed": "M963856244"
+ },
+ "BILL-100425": {
+  "provider": "Fairshore Power",
+  "account_number": "9989480347",
+  "service_address": "1099 Cormorant Industrial Boulevard Unit 13",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 48.51,
+  "meter_as_printed": "M925586293"
+ },
+ "BILL-100426": {
+  "provider": "Fairshore Power",
+  "account_number": "9932194489",
+  "service_address": "1099 Cormorant Industrial Boulevard Unit 20",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 80.28,
+  "meter_as_printed": "M982976966"
+ },
+ "BILL-100427": {
+  "provider": "Fairshore Power",
+  "account_number": "9988079502",
+  "service_address": "1099 Cormorant Industrial Boulevard Unit 21",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 55.57,
+  "meter_as_printed": "M911868957"
+ },
+ "BILL-100428": {
+  "provider": "Fairshore Power",
+  "account_number": "9911592361",
+  "service_address": "1099 Cormorant Industrial Boulevard Unit 22",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 113.28,
+  "meter_as_printed": "M932043990"
+ },
+ "BILL-100429": {
+  "provider": "Fairshore Power",
+  "account_number": "9970239099",
+  "service_address": "1099 Cormorant Industrial Boulevard",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 143.32,
+  "meter_as_printed": "M953132789"
+ },
+ "BILL-100430": {
+  "provider": "Fairshore Power",
+  "account_number": "9938583516",
+  "service_address": "8797 Egret Flex Court Unit 07",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 106.51,
+  "meter_as_printed": "M926466883"
+ },
+ "BILL-100431": {
+  "provider": "Fairshore Power",
+  "account_number": "9978756869",
+  "service_address": "8797 Egret Flex Court Unit 18",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 94.54,
+  "meter_as_printed": "M988913914"
+ },
+ "BILL-100432": {
+  "provider": "Fairshore Power",
+  "account_number": "9981187885",
+  "service_address": "8797 Egret Flex Court Unit 35",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 97.76,
+  "meter_as_printed": "M963928346"
+ },
+ "BILL-100433": {
+  "provider": "Fairshore Power",
+  "account_number": "9911125076",
+  "service_address": "8797 Egret Flex Court Unit 42",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 72.98,
+  "meter_as_printed": "M979241921"
+ },
+ "BILL-100434": {
+  "provider": "Fairshore Power",
+  "account_number": "9992319240",
+  "service_address": "8797 Egret Flex Court Unit 49",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 76.39,
+  "meter_as_printed": "M985970585"
+ },
+ "BILL-100435": {
+  "provider": "Fairshore Power",
+  "account_number": "9989748956",
+  "service_address": "8797 Egret Flex Court",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 457.3,
+  "meter_as_printed": "M937260715"
+ },
+ "BILL-100436": {
+  "provider": "Fairshore Power",
+  "account_number": "9953494159",
+  "service_address": "8797 Egret Flex Court",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 551.31,
+  "meter_as_printed": "M950017407"
+ },
+ "BILL-100437": {
+  "provider": "City of Pelican Shores",
+  "account_number": "9921409283",
+  "service_address": "8797 Egret Flex Court",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 394.21,
+  "meter_as_printed": "M990059428"
+ },
+ "BILL-100438": {
+  "provider": "City of Pelican Shores",
+  "account_number": "9945280953",
+  "service_address": "8797 Egret Flex Court",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 148,
+  "meter_as_printed": "M980711506"
+ },
+ "BILL-100439": {
+  "provider": "Fairshore Power",
+  "account_number": "9915794704",
+  "service_address": "8777 Tarpon Industrial Boulevard Unit 03",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 84.35,
+  "meter_as_printed": "M939266617"
+ },
+ "BILL-100440": {
+  "provider": "Fairshore Power",
+  "account_number": "9931721959",
+  "service_address": "8777 Tarpon Industrial Boulevard Unit 09",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 50.45,
+  "meter_as_printed": "M995226089"
+ },
+ "BILL-100441": {
+  "provider": "Fairshore Power",
+  "account_number": "9927526308",
+  "service_address": "8777 Tarpon Industrial Boulevard Unit 18",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 87.91,
+  "meter_as_printed": "M997564287"
+ },
+ "BILL-100442": {
+  "provider": "Fairshore Power",
+  "account_number": "9938450386",
+  "service_address": "8777 Tarpon Industrial Boulevard Unit 29",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 71.07,
+  "meter_as_printed": "M959219195"
+ },
+ "BILL-100443": {
+  "provider": "Fairshore Power",
+  "account_number": "9983147179",
+  "service_address": "8777 Tarpon Industrial Boulevard Unit 36",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 51.19,
+  "meter_as_printed": "M988039226"
+ },
+ "BILL-100444": {
+  "provider": "Fairshore Power",
+  "account_number": "9967166103",
+  "service_address": "8777 Tarpon Industrial Boulevard Unit 37",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 96.55,
+  "meter_as_printed": "M952711567"
+ },
+ "BILL-100445": {
+  "provider": "Fairshore Power",
+  "account_number": "9943827191",
+  "service_address": "8777 Tarpon Industrial Boulevard",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 534.17,
+  "meter_as_printed": "M915622129"
+ },
+ "BILL-100446": {
+  "provider": "Fairshore Power",
+  "account_number": "9942746334",
+  "service_address": "8777 Tarpon Industrial Boulevard",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 347.59,
+  "meter_as_printed": "M989531400"
+ },
+ "BILL-100447": {
+  "provider": "Sandpiper Utility District",
+  "account_number": "9942908857",
+  "service_address": "8777 Tarpon Industrial Boulevard",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 251.05,
+  "meter_as_printed": "M960135776"
+ },
+ "BILL-100448": {
+  "provider": "Sandpiper Utility District",
+  "account_number": "9977174830",
+  "service_address": "8777 Tarpon Industrial Boulevard",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 129.08,
+  "meter_as_printed": "M987479130"
+ },
+ "BILL-100449": {
+  "provider": "Fairshore Power",
+  "account_number": "9945843062",
+  "service_address": "5817 Snook Trade Way Unit 01",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 80.47,
+  "meter_as_printed": "M925320366"
+ },
+ "BILL-100450": {
+  "provider": "Fairshore Power",
+  "account_number": "9926850145",
+  "service_address": "5817 Snook Trade Way Unit 02",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 82.62,
+  "meter_as_printed": "M917997049"
+ },
+ "BILL-100451": {
+  "provider": "Fairshore Power",
+  "account_number": "9972192405",
+  "service_address": "5817 Snook Trade Way Unit 04",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 64.32,
+  "meter_as_printed": "M978321717"
+ },
+ "BILL-100452": {
+  "provider": "Fairshore Power",
+  "account_number": "9920293771",
+  "service_address": "5817 Snook Trade Way Unit 09",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 115.8,
+  "meter_as_printed": "M948416966"
+ },
+ "BILL-100453": {
+  "provider": "Fairshore Power",
+  "account_number": "9928729955",
+  "service_address": "5817 Snook Trade Way Unit 11",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 66.51,
+  "meter_as_printed": "M952609623"
+ },
+ "BILL-100454": {
+  "provider": "Fairshore Power",
+  "account_number": "9974949509",
+  "service_address": "5817 Snook Trade Way Unit 12",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 102.69,
+  "meter_as_printed": "M997223807"
+ },
+ "BILL-100455": {
+  "provider": "Fairshore Power",
+  "account_number": "9999647648",
+  "service_address": "5817 Snook Trade Way Unit 15",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 117.64,
+  "meter_as_printed": "M973789489"
+ },
+ "BILL-100456": {
+  "provider": "Fairshore Power",
+  "account_number": "9917891063",
+  "service_address": "5817 Snook Trade Way Unit 16",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 145.25,
+  "meter_as_printed": "M973876953"
+ },
+ "BILL-100457": {
+  "provider": "Fairshore Power",
+  "account_number": "9919680305",
+  "service_address": "5817 Snook Trade Way Unit 17",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 88.09,
+  "meter_as_printed": "M947777331"
+ },
+ "BILL-100458": {
+  "provider": "Fairshore Power",
+  "account_number": "9975911703",
+  "service_address": "5817 Snook Trade Way Unit 18",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 77.54,
+  "meter_as_printed": "M997217751"
+ },
+ "BILL-100459": {
+  "provider": "Fairshore Power",
+  "account_number": "9960896077",
+  "service_address": "5817 Snook Trade Way Unit 20",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 131.66,
+  "meter_as_printed": "M934407098"
+ },
+ "BILL-100460": {
+  "provider": "Fairshore Power",
+  "account_number": "9912504952",
+  "service_address": "5817 Snook Trade Way Unit 21",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 59.88,
+  "meter_as_printed": "M978473310"
+ },
+ "BILL-100461": {
+  "provider": "Fairshore Power",
+  "account_number": "9965593135",
+  "service_address": "5817 Snook Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 529.7,
+  "meter_as_printed": "M943066330"
+ },
+ "BILL-100462": {
+  "provider": "City of Deerpath Beach",
+  "account_number": "9924009124",
+  "service_address": "5817 Snook Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 392.06,
+  "meter_as_printed": "M939761122"
+ },
+ "BILL-100463": {
+  "provider": "Fairshore Power",
+  "account_number": "9981636276",
+  "service_address": "5411 Conch Industrial Boulevard Unit 03",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 90.89,
+  "meter_as_printed": "M927557397"
+ },
+ "BILL-100464": {
+  "provider": "Fairshore Power",
+  "account_number": "9945825053",
+  "service_address": "5411 Conch Industrial Boulevard Unit 12",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 129.96,
+  "meter_as_printed": "M948825249"
+ },
+ "BILL-100465": {
+  "provider": "Fairshore Power",
+  "account_number": "9945868675",
+  "service_address": "5411 Conch Industrial Boulevard Unit 13",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 47.7,
+  "meter_as_printed": "M994023180"
+ },
+ "BILL-100466": {
+  "provider": "Fairshore Power",
+  "account_number": "9995169494",
+  "service_address": "5411 Conch Industrial Boulevard Unit 25",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 45.04,
+  "meter_as_printed": "M949288702"
+ },
+ "BILL-100467": {
+  "provider": "Fairshore Power",
+  "account_number": "9966830397",
+  "service_address": "5411 Conch Industrial Boulevard Unit 34",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 116.57,
+  "meter_as_printed": "M992337738"
+ },
+ "BILL-100468": {
+  "provider": "Fairshore Power",
+  "account_number": "9937613288",
+  "service_address": "5411 Conch Industrial Boulevard Unit 39",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 115.76,
+  "meter_as_printed": "M911611551"
+ },
+ "BILL-100469": {
+  "provider": "Fairshore Power",
+  "account_number": "9957542895",
+  "service_address": "5411 Conch Industrial Boulevard Unit 40",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 81.54,
+  "meter_as_printed": "M942633918"
+ },
+ "BILL-100470": {
+  "provider": "Fairshore Power",
+  "account_number": "9923743601",
+  "service_address": "5411 Conch Industrial Boulevard Unit 52",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 87.02,
+  "meter_as_printed": "M956942620"
+ },
+ "BILL-100471": {
+  "provider": "Fairshore Power",
+  "account_number": "9943814927",
+  "service_address": "5411 Conch Industrial Boulevard Unit 60",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 80.8,
+  "meter_as_printed": "M944704315"
+ },
+ "BILL-100472": {
+  "provider": "Fairshore Power",
+  "account_number": "9926530244",
+  "service_address": "5411 Conch Industrial Boulevard",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 212.47,
+  "meter_as_printed": "M940203944"
+ },
+ "BILL-100473": {
+  "provider": "Fairshore Power",
+  "account_number": "9933418007",
+  "service_address": "5411 Conch Industrial Boulevard",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 605.37,
+  "meter_as_printed": "M989611798"
+ },
+ "BILL-100474": {
+  "provider": "Tidewater Water Works",
+  "account_number": "9933499683",
+  "service_address": "5411 Conch Industrial Boulevard",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 155.93,
+  "meter_as_printed": "M933830952"
+ },
+ "BILL-100475": {
+  "provider": "Tidewater Water Works",
+  "account_number": "9917115737",
+  "service_address": "5411 Conch Industrial Boulevard",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 98.79,
+  "meter_as_printed": "M936795312"
+ },
+ "BILL-100476": {
+  "provider": "Tidewater Water Works",
+  "account_number": "9943605985",
+  "service_address": "5411 Conch Industrial Boulevard",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 301.39,
+  "meter_as_printed": "M963220645"
+ },
+ "BILL-100477": {
+  "provider": "Fairshore Power",
+  "account_number": "9981465454",
+  "service_address": "6299 Manatee Commerce Drive Unit 01",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 99.67,
+  "meter_as_printed": "M968119520"
+ },
+ "BILL-100478": {
+  "provider": "Fairshore Power",
+  "account_number": "9936248180",
+  "service_address": "6299 Manatee Commerce Drive Unit 03",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 119.52,
+  "meter_as_printed": "M966041231"
+ },
+ "BILL-100479": {
+  "provider": "Fairshore Power",
+  "account_number": "9973001390",
+  "service_address": "6299 Manatee Commerce Drive Unit 05",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 76.37,
+  "meter_as_printed": "M941871601"
+ },
+ "BILL-100480": {
+  "provider": "Fairshore Power",
+  "account_number": "9995575214",
+  "service_address": "6299 Manatee Commerce Drive Unit 08",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 120.01,
+  "meter_as_printed": "M916330801"
+ },
+ "BILL-100481": {
+  "provider": "Fairshore Power",
+  "account_number": "9998980518",
+  "service_address": "6299 Manatee Commerce Drive Unit 10",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 50.26,
+  "meter_as_printed": "M948043863"
+ },
+ "BILL-100482": {
+  "provider": "Fairshore Power",
+  "account_number": "9965335315",
+  "service_address": "6299 Manatee Commerce Drive Unit 11",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 50.74,
+  "meter_as_printed": "M936416914"
+ },
+ "BILL-100483": {
+  "provider": "Fairshore Power",
+  "account_number": "9926299577",
+  "service_address": "6299 Manatee Commerce Drive Unit 12",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 88.92,
+  "meter_as_printed": "M990286076"
+ },
+ "BILL-100484": {
+  "provider": "Fairshore Power",
+  "account_number": "9966296479",
+  "service_address": "6299 Manatee Commerce Drive Unit 14",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 116.73,
+  "meter_as_printed": "M972214365"
+ },
+ "BILL-100485": {
+  "provider": "Fairshore Power",
+  "account_number": "9979334838",
+  "service_address": "6299 Manatee Commerce Drive Unit 17",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 143.53,
+  "meter_as_printed": "M921599558"
+ },
+ "BILL-100486": {
+  "provider": "Fairshore Power",
+  "account_number": "9959135400",
+  "service_address": "6299 Manatee Commerce Drive Unit 19",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 114.22,
+  "meter_as_printed": "M950802235"
+ },
+ "BILL-100487": {
+  "provider": "Fairshore Power",
+  "account_number": "9944050979",
+  "service_address": "6299 Manatee Commerce Drive Unit 22",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 58.17,
+  "meter_as_printed": "M915361172"
+ },
+ "BILL-100488": {
+  "provider": "Fairshore Power",
+  "account_number": "9912694013",
+  "service_address": "6299 Manatee Commerce Drive Unit 26",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 84.15,
+  "meter_as_printed": "M997458608"
+ },
+ "BILL-100489": {
+  "provider": "Fairshore Power",
+  "account_number": "9926912739",
+  "service_address": "6299 Manatee Commerce Drive Unit 29",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 109.82,
+  "meter_as_printed": "M980119909"
+ },
+ "BILL-100490": {
+  "provider": "Fairshore Power",
+  "account_number": "9998517975",
+  "service_address": "6299 Manatee Commerce Drive Unit 30",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 74.52,
+  "meter_as_printed": "M911244912"
+ },
+ "BILL-100491": {
+  "provider": "Fairshore Power",
+  "account_number": "9987352749",
+  "service_address": "6299 Manatee Commerce Drive Unit 34",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 70.93,
+  "meter_as_printed": "M993372258"
+ },
+ "BILL-100492": {
+  "provider": "Fairshore Power",
+  "account_number": "9979137344",
+  "service_address": "6299 Manatee Commerce Drive",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 481.97,
+  "meter_as_printed": "M949137703"
+ },
+ "BILL-100493": {
+  "provider": "Fairshore Power",
+  "account_number": "9990867015",
+  "service_address": "6299 Manatee Commerce Drive",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 121.12,
+  "meter_as_printed": "M922430198"
+ },
+ "BILL-100494": {
+  "provider": "City of Westhaven",
+  "account_number": "9993779242",
+  "service_address": "6299 Manatee Commerce Drive",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 137.41,
+  "meter_as_printed": "M917506864"
+ },
+ "BILL-100495": {
+  "provider": "City of Westhaven",
+  "account_number": "9973315989",
+  "service_address": "6299 Manatee Commerce Drive",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 238.23,
+  "meter_as_printed": "M960993424"
+ },
+ "BILL-100496": {
+  "provider": "Fairshore Power",
+  "account_number": "9968783416",
+  "service_address": "9306 Sailfish Trade Way Unit 05",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 103.62,
+  "meter_as_printed": "M957546498"
+ },
+ "BILL-100497": {
+  "provider": "Fairshore Power",
+  "account_number": "9984217039",
+  "service_address": "9306 Sailfish Trade Way Unit 06",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 126.43,
+  "meter_as_printed": "M941594538"
+ },
+ "BILL-100498": {
+  "provider": "Fairshore Power",
+  "account_number": "9945683776",
+  "service_address": "9306 Sailfish Trade Way Unit 07",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 137.78,
+  "meter_as_printed": "M997861473"
+ },
+ "BILL-100499": {
+  "provider": "Fairshore Power",
+  "account_number": "9947850688",
+  "service_address": "9306 Sailfish Trade Way Unit 09",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 48.86,
+  "meter_as_printed": "M922317662"
+ },
+ "BILL-100500": {
+  "provider": "Fairshore Power",
+  "account_number": "9969970665",
+  "service_address": "9306 Sailfish Trade Way Unit 19",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 70.17,
+  "meter_as_printed": "M949426027"
+ },
+ "BILL-100501": {
+  "provider": "Fairshore Power",
+  "account_number": "9978421185",
+  "service_address": "9306 Sailfish Trade Way Unit 20",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 63.87,
+  "meter_as_printed": "M998727243"
+ },
+ "BILL-100502": {
+  "provider": "Fairshore Power",
+  "account_number": "9996491166",
+  "service_address": "9306 Sailfish Trade Way Unit 28",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 123.52,
+  "meter_as_printed": "M935341917"
+ },
+ "BILL-100503": {
+  "provider": "Fairshore Power",
+  "account_number": "9980638707",
+  "service_address": "9306 Sailfish Trade Way Unit 32",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 78.23,
+  "meter_as_printed": "M933670668"
+ },
+ "BILL-100504": {
+  "provider": "Fairshore Power",
+  "account_number": "9926025216",
+  "service_address": "9306 Sailfish Trade Way Unit 33",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 111.01,
+  "meter_as_printed": "M929034735"
+ },
+ "BILL-100505": {
+  "provider": "Fairshore Power",
+  "account_number": "9980555111",
+  "service_address": "9306 Sailfish Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 221.08,
+  "meter_as_printed": "M939132402"
+ },
+ "BILL-100506": {
+  "provider": "Fairshore Power",
+  "account_number": "9994805772",
+  "service_address": "9306 Sailfish Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 208.08,
+  "meter_as_printed": "M910523760"
+ },
+ "BILL-100507": {
+  "provider": "Marlstone Water Authority",
+  "account_number": "9955801955",
+  "service_address": "9306 Sailfish Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 327.8,
+  "meter_as_printed": "M973929046"
+ },
+ "BILL-100508": {
+  "provider": "Marlstone Water Authority",
+  "account_number": "9966182719",
+  "service_address": "9306 Sailfish Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 298.83,
+  "meter_as_printed": "M959287064"
+ },
+ "BILL-100509": {
+  "provider": "Marlstone Water Authority",
+  "account_number": "9980871508",
+  "service_address": "9306 Sailfish Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 270.19,
+  "meter_as_printed": "M974520483"
+ },
+ "BILL-100510": {
+  "provider": "Fairshore Power",
+  "account_number": "9933653225",
+  "service_address": "4941 Bonefish Trade Way Unit 01",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 130.79,
+  "meter_as_printed": "M955934161"
+ },
+ "BILL-100511": {
+  "provider": "Fairshore Power",
+  "account_number": "9917087118",
+  "service_address": "4941 Bonefish Trade Way Unit 02",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 95.55,
+  "meter_as_printed": "M994208198"
+ },
+ "BILL-100512": {
+  "provider": "Fairshore Power",
+  "account_number": "9975037969",
+  "service_address": "4941 Bonefish Trade Way Unit 04",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 121.47,
+  "meter_as_printed": "M921910705"
+ },
+ "BILL-100513": {
+  "provider": "Fairshore Power",
+  "account_number": "9963494334",
+  "service_address": "4941 Bonefish Trade Way Unit 05",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 92.72,
+  "meter_as_printed": "M978224380"
+ },
+ "BILL-100514": {
+  "provider": "Fairshore Power",
+  "account_number": "9982491267",
+  "service_address": "4941 Bonefish Trade Way Unit 11",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 96,
+  "meter_as_printed": "M948972229"
+ },
+ "BILL-100515": {
+  "provider": "Fairshore Power",
+  "account_number": "9913555073",
+  "service_address": "4941 Bonefish Trade Way Unit 12",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 102.18,
+  "meter_as_printed": "M973136623"
+ },
+ "BILL-100516": {
+  "provider": "Fairshore Power",
+  "account_number": "9975644983",
+  "service_address": "4941 Bonefish Trade Way Unit 16",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 100.26,
+  "meter_as_printed": "M953155680"
+ },
+ "BILL-100517": {
+  "provider": "Fairshore Power",
+  "account_number": "9992204124",
+  "service_address": "4941 Bonefish Trade Way Unit 18",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 72.56,
+  "meter_as_printed": "M917499992"
+ },
+ "BILL-100518": {
+  "provider": "Fairshore Power",
+  "account_number": "9965954233",
+  "service_address": "4941 Bonefish Trade Way Unit 19",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 111.35,
+  "meter_as_printed": "M992432649"
+ },
+ "BILL-100519": {
+  "provider": "Fairshore Power",
+  "account_number": "9969784533",
+  "service_address": "4941 Bonefish Trade Way Unit 22",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 85.26,
+  "meter_as_printed": "M988821731"
+ },
+ "BILL-100520": {
+  "provider": "Fairshore Power",
+  "account_number": "9993847645",
+  "service_address": "4941 Bonefish Trade Way Unit 23",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 129.3,
+  "meter_as_printed": "M941689671"
+ },
+ "BILL-100521": {
+  "provider": "Fairshore Power",
+  "account_number": "9985252549",
+  "service_address": "4941 Bonefish Trade Way Unit 30",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 132.37,
+  "meter_as_printed": "M987947077"
+ },
+ "BILL-100522": {
+  "provider": "Fairshore Power",
+  "account_number": "9961499610",
+  "service_address": "4941 Bonefish Trade Way Unit 31",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 58.97,
+  "meter_as_printed": "M953481528"
+ },
+ "BILL-100523": {
+  "provider": "Fairshore Power",
+  "account_number": "9977707854",
+  "service_address": "4941 Bonefish Trade Way Unit 32",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 72.53,
+  "meter_as_printed": "M911294504"
+ },
+ "BILL-100524": {
+  "provider": "Fairshore Power",
+  "account_number": "9951787845",
+  "service_address": "4941 Bonefish Trade Way",
+  "service_start": "2026-08-01",
+  "service_end": "2026-08-31",
+  "amount": 168.9,
+  "meter_as_printed": "M946030504"
+ },
+ "BILL-100525": {
+  "provider": "Fairshore Power",
+  "account_number": "9989723414",
+  "service_address": "5292 Sandpiper Industrial Boulevard Unit 01",
+  "service_start": "2026-07-01",
+  "service_end": "2026-07-31",
+  "amount": 134.01,
+  "meter_as_printed": "M910871388"
+ }
+}

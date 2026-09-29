@@ -1,0 +1,28 @@
+{
+  "kind": "invoice",
+  "payee": "Ridgeway Locksmith",
+  "invoiceNumber": "5541",
+  "invoiceDate": "2026-08-25",
+  "totalAmount": "140.00",
+  "serviceAddressLines": [
+    "601 Birch Ct, Hammond IN"
+  ],
+  "parcelRefs": [],
+  "utilityAccountNumber": null,
+  "lineItems": [
+    {
+      "description": "Rekey front and rear doors",
+      "address": "601 Birch Ct, Hammond IN",
+      "amount": "140.00",
+      "chargeType": null
+    }
+  ],
+  "confidence": {
+    "payee": 0.93,
+    "invoiceNumber": 0.98,
+    "invoiceDate": 0.92,
+    "totalAmount": 0.94,
+    "address": 0.97
+  },
+  "notesHint": "Lock change"
+}

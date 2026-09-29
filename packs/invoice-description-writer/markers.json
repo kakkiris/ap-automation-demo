@@ -1,0 +1,14 @@
+{
+  "pack": "invoice-description-writer",
+  "scope": [
+    "packs/invoice-description-writer",
+    "app/api/industrial-ap/invoice-description-writer",
+    "app/industrial-ap/invoice-description-writer",
+    "public/demo/invoice-description-writer"
+  ],
+  "rules": [
+    { "name": "invoice ids", "match": "\\bINV-\\d{4,}\\b", "require": "^INV-30\\d{2}$" },
+    { "name": "vendor ids", "match": "\\bV-\\d{2,}\\b", "require": "^V-(0[1-9]|1[0-4])$" }
+  ],
+  "allow": ["6110", "6120", "6310", "6320", "6420", "6510", "6520", "7010", "7110", "7210", "7310", "7410"]
+}

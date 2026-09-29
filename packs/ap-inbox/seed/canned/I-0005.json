@@ -1,0 +1,30 @@
+{
+  "kind": "invoice",
+  "payee": "Peoria Plumbing Co.",
+  "invoiceNumber": "2291",
+  "invoiceDate": "2026-08-21",
+  "totalAmount": "265.00",
+  "serviceAddressLines": [
+    "45 Hillcrest Dr Unit 2, Peoria IL"
+  ],
+  "parcelRefs": [
+    "P-12003"
+  ],
+  "utilityAccountNumber": null,
+  "lineItems": [
+    {
+      "description": "Replace shutoff valve and supply line",
+      "address": "45 Hillcrest Dr Unit 2, Peoria IL",
+      "amount": "265.00",
+      "chargeType": null
+    }
+  ],
+  "confidence": {
+    "payee": 0.96,
+    "invoiceNumber": 0.97,
+    "invoiceDate": 0.95,
+    "totalAmount": 0.98,
+    "address": 0.94
+  },
+  "notesHint": "Plumbing repair"
+}

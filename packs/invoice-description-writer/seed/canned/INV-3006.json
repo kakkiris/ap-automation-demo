@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Palmgrove Irrigation",
+  "property_hint": "SG",
+  "unit_hint": null,
+  "service_short": "irrigation zone repair",
+  "service_from": "2026-08-27",
+  "service_to": "2026-08-31",
+  "invoice_number": "PI-62783",
+  "invoice_date": "2026-08-31",
+  "amount": 2029.53,
+  "due_date": "2026-09-30",
+  "account_number": null,
+  "meter_number": null
+}

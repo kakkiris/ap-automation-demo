@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Coral Ridge Roofing",
+  "property_hint": "HL",
+  "unit_hint": "HL-30",
+  "service_short": "gutter and downspout repair",
+  "service_from": "2026-08-22",
+  "service_to": "2026-08-26",
+  "invoice_number": "CR-88217",
+  "invoice_date": "2026-08-27",
+  "amount": 2521.85,
+  "due_date": "2026-09-26",
+  "account_number": null,
+  "meter_number": null
+}

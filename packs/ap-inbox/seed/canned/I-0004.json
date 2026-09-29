@@ -1,0 +1,28 @@
+{
+  "kind": "invoice",
+  "payee": "Clearwater Gutter Service",
+  "invoiceNumber": "6671",
+  "invoiceDate": "2026-08-22",
+  "totalAmount": "285.00",
+  "serviceAddressLines": [
+    "167 Dovetail St, Danville IL"
+  ],
+  "parcelRefs": [],
+  "utilityAccountNumber": null,
+  "lineItems": [
+    {
+      "description": "Clean and reattach gutters",
+      "address": "167 Dovetail St, Danville IL",
+      "amount": "285.00",
+      "chargeType": null
+    }
+  ],
+  "confidence": {
+    "payee": 0.95,
+    "invoiceNumber": 0.94,
+    "invoiceDate": 0.98,
+    "totalAmount": 0.97,
+    "address": 0.93
+  },
+  "notesHint": "Gutter cleaning"
+}

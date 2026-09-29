@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Coral Ridge Roofing",
+  "property_hint": "PR",
+  "unit_hint": "PR-12",
+  "service_short": "roof leak repair",
+  "service_from": "2026-08-24",
+  "service_to": "2026-08-26",
+  "invoice_number": "CR-88213",
+  "invoice_date": "2026-08-28",
+  "amount": 2400,
+  "due_date": "2026-09-27",
+  "account_number": null,
+  "meter_number": null
+}

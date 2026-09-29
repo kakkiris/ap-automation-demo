@@ -1,0 +1,28 @@
+{
+  "kind": "invoice",
+  "payee": "Midwest Power and Light",
+  "invoiceNumber": "604263",
+  "invoiceDate": "2026-08-27",
+  "totalAmount": "112.65",
+  "serviceAddressLines": [
+    "13 Dovetail St Unit 4, Gary IN"
+  ],
+  "parcelRefs": [],
+  "utilityAccountNumber": "5520-506",
+  "lineItems": [
+    {
+      "description": "Electric service, Jul 20 to Aug 19",
+      "address": "13 Dovetail St Unit 4, Gary IN",
+      "amount": "112.65",
+      "chargeType": "electric"
+    }
+  ],
+  "confidence": {
+    "payee": 0.93,
+    "invoiceNumber": 0.97,
+    "invoiceDate": 0.97,
+    "totalAmount": 0.93,
+    "address": 0.97
+  },
+  "notesHint": "Electric service"
+}

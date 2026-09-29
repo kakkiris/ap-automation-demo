@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Kestrel Door Systems",
+  "property_hint": "HL",
+  "unit_hint": "HL-41",
+  "service_short": "overhead door repair",
+  "service_from": "2026-08-25",
+  "service_to": "2026-08-26",
+  "invoice_number": "KD-63534",
+  "invoice_date": "2026-08-27",
+  "amount": 1810.37,
+  "due_date": "2026-09-26",
+  "account_number": null,
+  "meter_number": null
+}

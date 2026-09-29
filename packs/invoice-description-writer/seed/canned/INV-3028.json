@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Osprey Ridge Surveying",
+  "property_hint": "HL",
+  "unit_hint": "HL-13",
+  "service_short": "site elevation survey",
+  "service_from": "2026-08-29",
+  "service_to": "2026-08-29",
+  "invoice_number": "OR-18156",
+  "invoice_date": "2026-08-29",
+  "amount": 3490.96,
+  "due_date": "2026-09-28",
+  "account_number": null,
+  "meter_number": null
+}

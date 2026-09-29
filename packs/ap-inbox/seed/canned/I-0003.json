@@ -1,0 +1,28 @@
+{
+  "kind": "invoice",
+  "payee": "Bluewater Tree Removal",
+  "invoiceNumber": "1088",
+  "invoiceDate": "2026-08-21",
+  "totalAmount": "480.00",
+  "serviceAddressLines": [
+    "19 Lark St, Marion IN"
+  ],
+  "parcelRefs": [],
+  "utilityAccountNumber": null,
+  "lineItems": [
+    {
+      "description": "Remove fallen tree and haul away",
+      "address": "19 Lark St, Marion IN",
+      "amount": "480.00",
+      "chargeType": null
+    }
+  ],
+  "confidence": {
+    "payee": 0.95,
+    "invoiceNumber": 0.98,
+    "invoiceDate": 0.93,
+    "totalAmount": 0.96,
+    "address": 0.94
+  },
+  "notesHint": "Tree removal"
+}

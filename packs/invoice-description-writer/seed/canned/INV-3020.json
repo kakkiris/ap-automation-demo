@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Brightline Landscaping",
+  "property_hint": "HL",
+  "unit_hint": null,
+  "service_short": "tree trimming and removal",
+  "service_from": "2026-08-23",
+  "service_to": "2026-08-29",
+  "invoice_number": "BL-73866",
+  "invoice_date": "2026-08-30",
+  "amount": 1173.02,
+  "due_date": "2026-09-29",
+  "account_number": null,
+  "meter_number": null
+}

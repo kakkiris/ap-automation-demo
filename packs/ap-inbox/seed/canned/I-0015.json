@@ -1,0 +1,28 @@
+{
+  "kind": "invoice",
+  "payee": "Prairie Fence Co",
+  "invoiceNumber": "3348",
+  "invoiceDate": "2026-08-28",
+  "totalAmount": "725.00",
+  "serviceAddressLines": [
+    "88 Mill Pond Dr, Decatur IL"
+  ],
+  "parcelRefs": [],
+  "utilityAccountNumber": null,
+  "lineItems": [
+    {
+      "description": "Replace 40 ft of chain link fence",
+      "address": "88 Mill Pond Dr, Decatur IL",
+      "amount": "725.00",
+      "chargeType": null
+    }
+  ],
+  "confidence": {
+    "payee": 0.96,
+    "invoiceNumber": 0.92,
+    "invoiceDate": 0.97,
+    "totalAmount": 0.97,
+    "address": 0.96
+  },
+  "notesHint": "Fence repair"
+}

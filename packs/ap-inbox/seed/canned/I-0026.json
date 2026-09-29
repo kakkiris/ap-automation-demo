@@ -1,0 +1,28 @@
+{
+  "kind": "invoice",
+  "payee": "Northshore Glass",
+  "invoiceNumber": "2088",
+  "invoiceDate": "2026-08-30",
+  "totalAmount": "330.00",
+  "serviceAddressLines": [
+    "14 Elm St, Springfield"
+  ],
+  "parcelRefs": [],
+  "utilityAccountNumber": null,
+  "lineItems": [
+    {
+      "description": "Replace broken window pane",
+      "address": "14 Elm St, Springfield",
+      "amount": "330.00",
+      "chargeType": null
+    }
+  ],
+  "confidence": {
+    "payee": 0.95,
+    "invoiceNumber": 0.92,
+    "invoiceDate": 0.97,
+    "totalAmount": 0.97,
+    "address": 0.93
+  },
+  "notesHint": "Window replacement"
+}

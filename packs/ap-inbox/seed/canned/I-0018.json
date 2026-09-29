@@ -1,0 +1,26 @@
+{
+  "kind": "invoice",
+  "payee": "Midwest Power and Light",
+  "invoiceNumber": "604252",
+  "invoiceDate": "2026-08-28",
+  "totalAmount": "96.30",
+  "serviceAddressLines": [],
+  "parcelRefs": [],
+  "utilityAccountNumber": "5520-118",
+  "lineItems": [
+    {
+      "description": "Electric service, Jul 20 to Aug 19",
+      "address": null,
+      "amount": "96.30",
+      "chargeType": "electric"
+    }
+  ],
+  "confidence": {
+    "payee": 0.99,
+    "invoiceNumber": 0.93,
+    "invoiceDate": 0.99,
+    "totalAmount": 0.93,
+    "address": 0.95
+  },
+  "notesHint": "Electric service"
+}

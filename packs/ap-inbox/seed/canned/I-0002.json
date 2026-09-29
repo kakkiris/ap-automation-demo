@@ -1,0 +1,26 @@
+{
+  "kind": "invoice",
+  "payee": "Tri-County Print and Postage",
+  "invoiceNumber": "8825",
+  "invoiceDate": "2026-08-23",
+  "totalAmount": "64.50",
+  "serviceAddressLines": [],
+  "parcelRefs": [],
+  "utilityAccountNumber": null,
+  "lineItems": [
+    {
+      "description": "Postage and mailing envelopes",
+      "address": null,
+      "amount": "64.50",
+      "chargeType": null
+    }
+  ],
+  "confidence": {
+    "payee": 0.95,
+    "invoiceNumber": 0.94,
+    "invoiceDate": 0.94,
+    "totalAmount": 0.95,
+    "address": 0.96
+  },
+  "notesHint": "Postage"
+}

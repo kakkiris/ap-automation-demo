@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Keys Gate Fencing",
+  "property_hint": "PR",
+  "unit_hint": "PR-03",
+  "service_short": "fence panel replacement",
+  "service_from": "2026-08-20",
+  "service_to": "2026-08-21",
+  "invoice_number": "KG-1044",
+  "invoice_date": "2026-08-27",
+  "amount": 1250,
+  "due_date": "2026-09-26",
+  "account_number": null,
+  "meter_number": null
+}

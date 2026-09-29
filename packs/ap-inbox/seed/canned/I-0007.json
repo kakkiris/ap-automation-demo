@@ -1,0 +1,74 @@
+{
+  "kind": "list",
+  "payee": "Greenway Lawn Care",
+  "invoiceNumber": "1181",
+  "invoiceDate": "2026-08-25",
+  "totalAmount": "450.00",
+  "serviceAddressLines": [],
+  "parcelRefs": [],
+  "utilityAccountNumber": null,
+  "lineItems": [
+    {
+      "description": "Lawn service",
+      "address": "702 Palmer Ln, Marion IN",
+      "amount": null,
+      "chargeType": null
+    },
+    {
+      "description": "Lawn service",
+      "address": "704 Palmer Ln, Marion IN",
+      "amount": null,
+      "chargeType": null
+    },
+    {
+      "description": "Lawn service",
+      "address": "706 Palmer Ln, Marion IN",
+      "amount": null,
+      "chargeType": null
+    },
+    {
+      "description": "Lawn service",
+      "address": "708 Palmer Ln, Marion IN",
+      "amount": null,
+      "chargeType": null
+    },
+    {
+      "description": "Lawn service",
+      "address": "710 Palmer Ln, Marion IN",
+      "amount": null,
+      "chargeType": null
+    },
+    {
+      "description": "Lawn service",
+      "address": "712 Palmer Ln, Marion IN",
+      "amount": null,
+      "chargeType": null
+    },
+    {
+      "description": "Lawn service",
+      "address": "1 Orchard Ct, Marion IN",
+      "amount": null,
+      "chargeType": null
+    },
+    {
+      "description": "Lawn service",
+      "address": "3 Orchard Ct, Marion IN",
+      "amount": null,
+      "chargeType": null
+    },
+    {
+      "description": "Lawn service",
+      "address": "5 Orchard Ct, Marion IN",
+      "amount": null,
+      "chargeType": null
+    }
+  ],
+  "confidence": {
+    "payee": 0.9,
+    "invoiceNumber": 0.86,
+    "invoiceDate": 0.88,
+    "totalAmount": 0.91,
+    "address": 0.87
+  },
+  "notesHint": "Monthly lawn service, nine lots"
+}

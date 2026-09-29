@@ -1,0 +1,32 @@
+{
+  "kind": "invoice",
+  "payee": "Riverbend Mowing",
+  "invoiceNumber": "6165",
+  "invoiceDate": "2026-08-27",
+  "totalAmount": "170.00",
+  "serviceAddressLines": [],
+  "parcelRefs": [],
+  "utilityAccountNumber": null,
+  "lineItems": [
+    {
+      "description": "Mow and trim lot",
+      "address": "40 Redwing Ave, Kokomo IN",
+      "amount": "85.00",
+      "chargeType": null
+    },
+    {
+      "description": "Mow and trim lot",
+      "address": "42 Redwing Ave, Kokomo IN",
+      "amount": "85.00",
+      "chargeType": null
+    }
+  ],
+  "confidence": {
+    "payee": 0.99,
+    "invoiceNumber": 0.92,
+    "invoiceDate": 0.95,
+    "totalAmount": 0.95,
+    "address": 0.94
+  },
+  "notesHint": "Lot mowing, two lots"
+}

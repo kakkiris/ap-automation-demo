@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Tidewater Plumbing",
+  "property_hint": "BW",
+  "unit_hint": "BW-07",
+  "service_short": "water heater replacement",
+  "service_from": "2026-08-27",
+  "service_to": "2026-08-27",
+  "invoice_number": "TP-5531",
+  "invoice_date": "2026-08-29",
+  "amount": 980,
+  "due_date": "2026-09-28",
+  "account_number": null,
+  "meter_number": null
+}

@@ -1,0 +1,9 @@
+{
+  "pack": "property-owner-lookup",
+  "scope": ["packs/property-owner-lookup", "app/api/family-office-ap/property-owner-lookup", "app/family-office-ap/property-owner-lookup"],
+  "rules": [
+    { "name": "parcel ids", "match": "\\bP-\\d{5}\\b", "require": "^P-1[0-2]\\d{3}$" },
+    { "name": "entity codes", "match": "\\bE-\\d{3}\\b", "require": "^E-(001|1\\d\\d)$" }
+  ],
+  "allow": []
+}

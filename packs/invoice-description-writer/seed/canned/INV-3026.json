@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Palmgrove Irrigation",
+  "property_hint": "PR",
+  "unit_hint": null,
+  "service_short": "sprinkler head replacement",
+  "service_from": "2026-08-24",
+  "service_to": "2026-08-30",
+  "invoice_number": "PI-62802",
+  "invoice_date": "2026-08-30",
+  "amount": 3939.71,
+  "due_date": "2026-09-29",
+  "account_number": null,
+  "meter_number": null
+}

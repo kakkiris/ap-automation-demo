@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Saltmarsh Pest Control",
+  "property_hint": "CK",
+  "unit_hint": null,
+  "service_short": "rodent bait station service",
+  "service_from": "2026-08-25",
+  "service_to": "2026-08-31",
+  "invoice_number": "SM-23352",
+  "invoice_date": "2026-08-31",
+  "amount": 4664.26,
+  "due_date": "2026-09-30",
+  "account_number": null,
+  "meter_number": null
+}

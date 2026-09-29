@@ -1,0 +1,28 @@
+{
+  "kind": "invoice",
+  "payee": "Stonebrook Appliance Repair",
+  "invoiceNumber": "24071",
+  "invoiceDate": "2026-08-28",
+  "totalAmount": "240.00",
+  "serviceAddressLines": [
+    "823 Juniper Rd Unit 4, Rockford IL"
+  ],
+  "parcelRefs": [],
+  "utilityAccountNumber": null,
+  "lineItems": [
+    {
+      "description": "Replace water heater element",
+      "address": "823 Juniper Rd Unit 4, Rockford IL",
+      "amount": "240.00",
+      "chargeType": null
+    }
+  ],
+  "confidence": {
+    "payee": 0.95,
+    "invoiceNumber": 0.95,
+    "invoiceDate": 0.98,
+    "totalAmount": 0.94,
+    "address": 0.98
+  },
+  "notesHint": "Appliance repair"
+}
