@@ -2,6 +2,8 @@
 
 A clickable prototype of accounts payable automation for a property management company: two AP teams, eight demo modules, thirty screens. Built with [Claude Code](https://claude.com/claude-code) as a discovery-stage prototype, to show each team its own work being done by software before anything was integrated.
 
+**Try it live: [ap-automation-demo.keremakkiris.workers.dev](https://ap-automation-demo.keremakkiris.workers.dev)**. No sign-in; every visitor gets their own copy of the demo, and Reset all demos on Demo home starts it over. [docs/walkthrough.md](docs/walkthrough.md) says what to click.
+
 > **Anonymized.** This is a public copy of a prototype built during a consulting engagement. The company, departments, people, providers, towns, and systems are fictional, every record comes from deterministic seed scripts, and the repository history starts fresh.
 
 ![Demo home: eight demos grouped by team](docs/screenshots/demo-home.png)
